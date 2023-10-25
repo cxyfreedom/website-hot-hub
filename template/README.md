@@ -32,6 +32,12 @@
 
 历史归档 [./archives/juejin](./archives/sspai)
 
+## 微信读书
+
+<!-- BEGIN WEREAD -->[\W\w]*<!-- END WEREAD -->
+
+历史归档 [./archives/weread](./archives/weread)
+
 ## License
 
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
