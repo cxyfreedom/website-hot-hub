@@ -8,7 +8,7 @@ from website_bilibili import WebSiteBilibili
 from website_douyin import WebSiteDouYin
 from website_juejin import WebSiteJueJin
 from website_weread import WebsiteWeRead
-from webiste_kuaishou import WebsiteKuaiShou
+from website_kuaishou import WebsiteKuaiShou
 
 
 def run_task(func, *args):
