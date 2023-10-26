@@ -1,6 +1,6 @@
 # website-hot-hub
 
-记录 36Kr、bilibili、抖音、掘金平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
+记录 36Kr、bilibili、抖音、掘金、微信读书、快手平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
 
 ## 36Kr
 
@@ -14,19 +14,19 @@
 
 历史归档 [./archives/bilibili](./archives/bilibili)
 
-## Douyin
+## 抖音
 
 <!-- BEGIN DOUYIN -->[\W\w]*<!-- END DOUYIN -->
 
 历史归档 [./archives/douyin](./archives/douyin)
 
-## Juejin
+## 掘金
 
 <!-- BEGIN JUEJIN -->[\W\w]*<!-- END JUEJIN -->
 
 历史归档 [./archives/juejin](./archives/juejin)
 
-## SSPai
+## 少数派
 
 <!-- BEGIN SSPAI -->[\W\w]*<!-- END SSPAI -->
 
@@ -37,6 +37,12 @@
 <!-- BEGIN WEREAD -->[\W\w]*<!-- END WEREAD -->
 
 历史归档 [./archives/weread](./archives/weread)
+
+## 快手
+
+<!-- BEGIN KUAISHOU -->[\W\w]*<!-- END KUAISHOU -->
+
+历史归档 [./archives/kuaishou](./archives/kuaishou)
 
 ## License
 
