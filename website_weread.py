@@ -35,7 +35,7 @@ def request_session():
         s.close()
 
 
-class WebsiteWeRead:
+class WebSiteWeRead:
     @staticmethod
     def get_raw() -> dict:
         ret = {}

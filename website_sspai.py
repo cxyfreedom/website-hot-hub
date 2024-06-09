@@ -35,7 +35,7 @@ def request_session():
         s.close()
 
 
-class WebsiteSSPai:
+class WebSiteSSPai:
     @staticmethod
     def get_raw() -> dict:
         ret = {}
