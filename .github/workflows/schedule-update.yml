@@ -21,9 +21,10 @@ jobs:
 
       # 配置python环境
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.13"
+          cache: 'pip'
 
       # 安装python依赖
       - name: Install dependencies
