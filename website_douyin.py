@@ -16,7 +16,7 @@ url = "https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=weba
 cookie_url = "https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
 retries = Retry(
@@ -68,7 +68,7 @@ class WebSiteDouYin:
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
         ret: typing.List[typing.Dict[str, typing.Any]] = []
-        for item in raw_data["data"]["word_list"]:
+        for item in raw_data.get("data", {}).get("word_list", []):
             ret.append(
                 {
                     "title": item["word"],

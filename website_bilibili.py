@@ -15,7 +15,7 @@ from utils import current_date, current_time, logger, write_text_file
 url = "https://api.bilibili.com/x/web-interface/ranking/v2"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
 retries = Retry(
@@ -43,14 +43,14 @@ class WebSiteBilibili:
             with request_session() as s:
                 resp = s.get(url)
                 ret = resp.json()
-        except:
+        except Exception as _:
             logger.exception("get data failed")
         return ret
 
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
         ret: typing.List[typing.Dict[str, typing.Any]] = []
-        for item in raw_data["data"]["list"]:
+        for item in raw_data.get("data", {}).get("list", []):
             ret.append(
                 {
                     "title": item["title"],

@@ -15,7 +15,7 @@ from utils import current_date, current_time, logger, write_text_file
 url = "https://sspai.com/api/v1/article/tag/page/get?limit=50&tag=热门文章"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
 retries = Retry(
@@ -50,7 +50,7 @@ class WebSiteSSPai:
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
         ret: typing.List[typing.Dict[str, typing.Any]] = []
-        for item in raw_data["data"]:
+        for item in raw_data.get("data", []):
             ret.append(
                 {
                     "title": item["title"],

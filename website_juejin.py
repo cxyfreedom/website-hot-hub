@@ -15,7 +15,7 @@ from utils import current_date, current_time, logger, write_text_file
 url = "https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
 retries = Retry(
@@ -50,7 +50,7 @@ class WebSiteJueJin:
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
         ret: typing.List[typing.Dict[str, typing.Any]] = []
-        for item in raw_data["data"]:
+        for item in raw_data.get("data", []):
             ret.append(
                 {
                     "title": item["content"]["title"],

@@ -16,7 +16,7 @@ from utils import current_date, current_time, logger, write_text_file
 url = "https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot"
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
 retries = Retry(
@@ -56,7 +56,7 @@ class WebSite36Kr:
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
         ret: typing.List[typing.Dict[str, typing.Any]] = []
-        for item in raw_data["data"]["hotRankList"]:
+        for item in raw_data.get("data", {}).get("hotRankList", []):
             ret.append(
                 {
                     "title": item["templateMaterial"]["widgetTitle"],
