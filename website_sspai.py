@@ -138,5 +138,5 @@ class WebSiteSSPai:
 
 
 if __name__ == "__main__":
-    sspai_obj = WebsiteSSPai()
+    sspai_obj = WebSiteSSPai()
     sspai_obj.run()

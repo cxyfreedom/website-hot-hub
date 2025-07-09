@@ -144,5 +144,5 @@ class WebSiteKuaiShou:
 
 
 if __name__ == "__main__":
-    kuaishou_obj = WebsiteKuaiShou()
+    kuaishou_obj = WebSiteKuaiShou()
     kuaishou_obj.run()

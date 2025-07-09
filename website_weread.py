@@ -139,5 +139,5 @@ class WebSiteWeRead:
 
 
 if __name__ == "__main__":
-    weread_obj = WebsiteWeRead()
+    weread_obj = WebSiteWeRead()
     weread_obj.run()
