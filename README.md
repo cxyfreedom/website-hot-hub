@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-07-10 00:05:59 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:29 +0800 -->
 1. [8点1氪｜山姆客服回应2公斤冰块卖22.8元；不孕夫妻用AI技术成功怀孕；美国达美航空一客机因便携式电池起火紧急降落](https://36kr.com/p/3370961502408711)
 1. [3小时狂揽2亿后，张雪峰的“吸金版图”又扩张了](https://36kr.com/p/3370319467974661)
 1. [为什么越丑的鞋越值钱？](https://36kr.com/p/3370324034523145)
@@ -63,7 +63,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-07-10 00:06:00 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:30 +0800 -->
 1. [《原神·提瓦特篇》幕间PV-「神的局限性」](https://b23.tv/BV18tGHzoEyW)
 1. [谈恋爱被弟弟发现（1-5集）](https://b23.tv/BV1vU3RztEPk)
 1. [【陈奕迅】我来B站了！入站冲浪初体验蛮有趣的](https://b23.tv/BV1Df31zfER2)
@@ -171,7 +171,7 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-07-10 00:06:02 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:31 +0800 -->
 1. [石家庄暴雨](https://www.douyin.com/hot/2161351)
 1. [以色列对黎巴嫩北部发动袭击](https://www.douyin.com/hot/2160756)
 1. [神十九乘组太空归来后公开亮相](https://www.douyin.com/hot/2161305)
@@ -181,15 +181,15 @@
 1. [这个游戏门槛有点高了](https://www.douyin.com/hot/2161550)
 1. [王楚钦3:1高承睿](https://www.douyin.com/hot/2161019)
 1. [生活中这些东西都含有铅](https://www.douyin.com/hot/2161071)
+1. [特朗普宣布对六国关税税率](https://www.douyin.com/hot/2161933)
 1. [西安通报网传民警违停致人死亡](https://www.douyin.com/hot/2160649)
 1. [亚马尔射门被王大雷扑出](https://www.douyin.com/hot/2161822)
-1. [韩国女足2:2中国女足](https://www.douyin.com/hot/2161628)
 1. [当我看到周杰伦入驻抖音](https://www.douyin.com/hot/2161250)
-1. [猫猫：你礼貌吗](https://www.douyin.com/hot/2161493)
+1. [韩国女足2:2中国女足](https://www.douyin.com/hot/2161628)
 1. [杨迪变帅被问是不是偷偷do脸了](https://www.douyin.com/hot/2161082)
-1. [周杰伦艺考大赛](https://www.douyin.com/hot/2161081)
-1. [店家回应杨少华去世当天参加剪彩](https://www.douyin.com/hot/2161674)
 1. [杨紫李现纯元cp第一条共创](https://www.douyin.com/hot/2161557)
+1. [店家回应杨少华去世当天参加剪彩](https://www.douyin.com/hot/2161674)
+1. [周杰伦艺考大赛](https://www.douyin.com/hot/2161081)
 1. [正当防卫开播](https://www.douyin.com/hot/2161034)
 1. [周杰伦概念股飙涨](https://www.douyin.com/hot/2161293)
 1. [孙一宁见面会](https://www.douyin.com/hot/2161136)
@@ -201,26 +201,27 @@
 1. [杨洋赶上撕拉片末班车了](https://www.douyin.com/hot/2161026)
 1. [以法之名全员遇到社交悍匪](https://www.douyin.com/hot/2160913)
 1. [马克龙搀扶妻子遭无视](https://www.douyin.com/hot/2160651)
-1. [避暑这一块还得是云南](https://www.douyin.com/hot/2159759)
+1. [猫猫：你礼貌吗](https://www.douyin.com/hot/2161493)
 1. [我闺蜜喜欢被我揍](https://www.douyin.com/hot/2160726)
 1. [以法之名撕伞开始上爽度了](https://www.douyin.com/hot/2161035)
-1. [迪丽热巴黑丝绒玫瑰裙](https://www.douyin.com/hot/2160664)
 1. [张凌赫男模即视感](https://www.douyin.com/hot/2161579)
+1. [迪丽热巴黑丝绒玫瑰裙](https://www.douyin.com/hot/2160664)
 1. [以法之名33集后剧情上高速了](https://www.douyin.com/hot/2161263)
-1. [李佳薇回应网友挑战别再叫我](https://www.douyin.com/hot/2161571)
-1. [AI让我的照片会发光](https://www.douyin.com/hot/2159847)
-1. [王鹤棣黑色深V狼尾造型](https://www.douyin.com/hot/2161737)
-1. [第一次见这么长的美甲](https://www.douyin.com/hot/2161630)
 1. [这一秒过火路透](https://www.douyin.com/hot/2160826)
+1. [第一次见这么长的美甲](https://www.douyin.com/hot/2161630)
+1. [李佳薇回应网友挑战别再叫我](https://www.douyin.com/hot/2161571)
 1. [带走了我的天真转场](https://www.douyin.com/hot/2160444)
-1. [暑假旅行第一站](https://www.douyin.com/hot/2160544)
+1. [王鹤棣黑色深V狼尾造型](https://www.douyin.com/hot/2161737)
+1. [AI让我的照片会发光](https://www.douyin.com/hot/2159847)
 1. [易梦玲两天四种风格](https://www.douyin.com/hot/2161861)
-1. [aespa最新消音舞台锐评](https://www.douyin.com/hot/2161198)
+1. [避暑这一块还得是云南](https://www.douyin.com/hot/2159759)
 1. [杨紫抖音追剧团live级美貌](https://www.douyin.com/hot/2161558)
+1. [aespa最新消音舞台锐评](https://www.douyin.com/hot/2161198)
 1. [天津市曲艺团发文悼念杨少华](https://www.douyin.com/hot/2161872)
+1. [张靓颖深圳演唱会](https://www.douyin.com/hot/2160836)
 1. [书卷一梦全员神助攻](https://www.douyin.com/hot/2161552)
 1. [袭榜歌手乔丹史密斯有多能唱](https://www.douyin.com/hot/2161085)
-1. [张靓颖深圳演唱会](https://www.douyin.com/hot/2160836)
+1. [暑假旅行第一站](https://www.douyin.com/hot/2160544)
 <!-- END DOUYIN -->
 
 历史归档 [./archives/douyin](./archives/douyin)
@@ -228,7 +229,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-07-10 00:06:04 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:34 +0800 -->
 1. [为什么响应性语法糖最终被废弃了？尤雨溪也曾经试图让你不用写 .value](https://juejin.cn/post/7523231174620102671)
 1. [Stack Overflow，轰然倒下！](https://juejin.cn/post/7524164737170702362)
 1. [前端 Source Map 原理与结构详解](https://juejin.cn/post/7523153359185690639)
@@ -249,8 +250,8 @@
 1. [📚LangChain与LlamaIndex深度整合：企业级树状数据RAG实战指南](https://juejin.cn/post/7524351764989427739)
 1. [探索 AI + MCP 渲染前端 UI](https://juejin.cn/post/7523232844102238242)
 1. [40岁老前端2025年上半年都学了什么？](https://juejin.cn/post/7524548909530005540)
-1. [超好用的vue图片预览插件更新啦，hevue-img-preview 7.0.0版本正式发布，支持vue2/vue3/移动/pc，增加缩略图、下载、自定义样式等](https://juejin.cn/post/7523452826833010707)
 1. [5步玩转React中的「Router」实现单页应用页面切换](https://juejin.cn/post/7523963562857332777)
+1. [超好用的vue图片预览插件更新啦，hevue-img-preview 7.0.0版本正式发布，支持vue2/vue3/移动/pc，增加缩略图、下载、自定义样式等](https://juejin.cn/post/7523452826833010707)
 1. [flutter 鸿蒙化插件开发横空出世](https://juejin.cn/post/7523916180186169382)
 1. [⚡ 从浏览器到编辑器只需1秒，这个React定位工具改变了我的开发方式](https://juejin.cn/post/7524215370016096282)
 1. [本质上，Taro 是一个 跨平台编译框架](https://juejin.cn/post/7523587432409268278)
@@ -266,11 +267,11 @@
 1. [跟🤡杰哥一起学Flutter (三十四、玩转Flutter手势机制✋)](https://juejin.cn/post/7524161016768577546)
 1. [你用 Cursor 写公司的代码安全吗？](https://juejin.cn/post/7523947830585131017)
 1. [🤯 家人们谁懂啊！我的摸鱼脚本它...它成精了！🚀](https://juejin.cn/post/7523878122646241280)
-1. [ 大模型学习进阶路线图：从Prompt到预训练的四阶段全景解析](https://juejin.cn/post/7523916180185727014)
 1. [🧊 HTML5 王者对象 Blob - 二进制世界的魔法沙漏](https://juejin.cn/post/7523713335650893834)
-1. [Vercel 收购 NuxtLabs！Nuxt UI Pro 即将免费！](https://juejin.cn/post/7524716725322760211)
+1. [ 大模型学习进阶路线图：从Prompt到预训练的四阶段全景解析](https://juejin.cn/post/7523916180185727014)
 1. [免费领50刀！AnyRouter一键解锁Claude最强编程模型](https://juejin.cn/post/7523803276414140456)
 1. [🔒 线程2没拿到锁，却解了线程1的锁？分布式锁真实事故复盘](https://juejin.cn/post/7523421139722403849)
+1. [Vercel 收购 NuxtLabs！Nuxt UI Pro 即将免费！](https://juejin.cn/post/7524716725322760211)
 1. [Metis UI：下一代 React 组件库，重新定义前端开发体验](https://juejin.cn/post/7523519254877192219)
 1. [【纯前端推理】纯端侧 AI 抠图-实现抠图自由](https://juejin.cn/post/7523255902439276598)
 1. [为什么你的App总是忘记所有事情](https://juejin.cn/post/7524554973377413154)
@@ -286,7 +287,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-07-10 00:05:58 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:27 +0800 -->
 1. [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/100788)
 1. [夏日虽然热，但也不耽误打扮：一份通用的男生夏季穿搭指南](https://sspai.com/post/100661)
 1. [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642)
@@ -334,7 +335,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-07-10 00:06:06 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:09:35 +0800 -->
 1. [正道（走正道成大事！冯唐讲透《道德经》成事智慧）](https://weread.qq.com/web/bookDetail/24332af0813aba184g018628)
 1. [那些我希望自己二十出头就能明白的事](https://weread.qq.com/web/bookDetail/eba32660813aba0edg0190fb)
 1. [朱雀堂（万茜、秦俊杰主演同名影视原著）](https://weread.qq.com/web/bookDetail/fc632890813aba149g0104ed)
@@ -362,53 +363,63 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-07-10 00:06:09 +0800 -->
+<!-- 最后更新时间 2025-07-10 00:12:27 +0800 -->
 1. [习近平同玻利维亚总统互致贺电](https://www.kuaishou.com/short-video/3xscixjmthvsz8e)
 1. [曝200万人被骗130亿血本无归](https://www.kuaishou.com/short-video/3xkb29bjgzjzyjy)
 1. [十四五经济增量将超过35万亿](https://www.kuaishou.com/short-video/3xgki5bnakk3d7w)
 1. [杨光的快乐生活](https://www.kuaishou.com/short-video/3xqkwcug4nnd2aw)
 1. [杨颖黑裙红唇大波浪](https://www.kuaishou.com/short-video/3xgxnck89chh4wi)
-1. [杨博文中考479](https://www.kuaishou.com/short-video/3xkyv38g5qf9ddg)
-1. [京东外卖反击开始](https://www.kuaishou.com/short-video/3xrh8ni89sgg359)
-1. [杨少华上午还在参加开业典礼](https://www.kuaishou.com/short-video/3x3gbcqamrp7gmq)
-1. [迪丽热巴黑丝绒玫瑰裙](https://www.kuaishou.com/short-video/3xk9siu4fe5iyic)
-1. [中方回应中国用激光瞄准德国飞机](https://www.kuaishou.com/short-video/3xib2uycryekjkk)
-1. [官方辟谣内蒙古通辽楼盘坍塌传闻](https://www.kuaishou.com/short-video/3xjki7jv292q4di)
 1. [李金斗：杨少华午休时安详辞世](https://www.kuaishou.com/short-video/3xw9s3f568kxy66)
-1. [李连杰谈成功](https://www.kuaishou.com/short-video/3xp9w2gxfuqfxmm)
-1. [杨幂双女主太yummy了](https://www.kuaishou.com/short-video/3xrtr76kf9rtg32)
-1. [本以为锤锤高温下的淡定是伪装](https://www.kuaishou.com/short-video/3x42ngcnewruzrs)
-1. [河北张家口发生3.4级地震](https://www.kuaishou.com/short-video/3xcsb9ardynfr7g)
+1. [杨博文中考479](https://www.kuaishou.com/short-video/3xkyv38g5qf9ddg)
+1. [迪丽热巴黑丝绒玫瑰裙](https://www.kuaishou.com/short-video/3xk9siu4fe5iyic)
+1. [杨少华上午还在参加开业典礼](https://www.kuaishou.com/short-video/3x3gbcqamrp7gmq)
+1. [京东外卖反击开始](https://www.kuaishou.com/short-video/3xrh8ni89sgg359)
+1. [官方辟谣内蒙古通辽楼盘坍塌传闻](https://www.kuaishou.com/short-video/3xjki7jv292q4di)
+1. [中方回应中国用激光瞄准德国飞机](https://www.kuaishou.com/short-video/3xib2uycryekjkk)
 1. [石家庄暴雨](https://www.kuaishou.com/short-video/3xmz9d727yenpzw)
 1. [条子哥韩兆悼念杨少华](https://www.kuaishou.com/short-video/3xmqv8ie5ysasb4)
+1. [杨幂双女主太yummy了](https://www.kuaishou.com/short-video/3xrtr76kf9rtg32)
+1. [李连杰谈成功](https://www.kuaishou.com/short-video/3xp9w2gxfuqfxmm)
+1. [弗拉格扣篮热身](https://www.kuaishou.com/short-video/3x8px7eey28yy44)
 1. [那艺娜庆生奥特曼](https://www.kuaishou.com/short-video/3xa796yxu8hdu6m)
+1. [河北张家口发生3.4级地震](https://www.kuaishou.com/short-video/3xcsb9ardynfr7g)
 1. [好汗歌来了](https://www.kuaishou.com/short-video/3xe6eb9tgrzh5fy)
 1. [坠落dj](https://www.kuaishou.com/short-video/3xr5q66npawbifa)
-1. [外卖大战骑手2天赚2000元](https://www.kuaishou.com/short-video/3x9fawc29d79atu)
-1. [桐门四季去水上乐园了](https://www.kuaishou.com/short-video/3xkny2z6kp9fhme)
-1. [杨少华相关账号中午还在带货](https://www.kuaishou.com/short-video/3x6ikmk6fwnixu9)
+1. [曹云金直播悼念杨少华](https://www.kuaishou.com/short-video/3xji7jvn8jiqc6q)
 1. [宋亚轩飞吻](https://www.kuaishou.com/short-video/3xye9tcu8yn6gzs)
 1. [热到奶奶都开空调了](https://www.kuaishou.com/short-video/3xgvvtdmv59j3u4)
-1. [曹云金直播悼念杨少华](https://www.kuaishou.com/short-video/3xji7jvn8jiqc6q)
-1. [戒烟抽象版](https://www.kuaishou.com/short-video/3xfe5cytra49mi4)
-1. [白小白家族成员好声音卷到飞起](https://www.kuaishou.com/short-video/3xr3exzkvyu5cf9)
-1. [官方通报女子称怀孕期间摆烂上班](https://www.kuaishou.com/short-video/3x7eyhc2mh7w7zm)
-1. [二次元IP破次元集结](https://www.kuaishou.com/short-video/3xwr3kzzvbfv24u)
-1. [时代少年团版勾践剑](https://www.kuaishou.com/short-video/3xm3ph5zmmbsf5c)
-1. [梓渝进行曲](https://www.kuaishou.com/short-video/3xw4minh7x2wj49)
 1. [李连杰谢苗父子再合体](https://www.kuaishou.com/short-video/3xzmbnapejhctxg)
-1. [鸟儿摇dj版](https://www.kuaishou.com/short-video/3xt6n3hkuzdmnn9)
-1. [二次元打入非遗圈](https://www.kuaishou.com/short-video/3x3sa9d8r5bd67i)
-1. [韩国女足2比2中国女足](https://www.kuaishou.com/short-video/3x3vbcqvp6afchc)
-1. [李连杰入驻快手](https://www.kuaishou.com/short-video/3x4veejtb9tevvy)
-1. [英伟达市值达到4万亿美元](https://www.kuaishou.com/short-video/3xikvixj4dfi9yw)
-1. [杨少华卖房借钱给杨议买古玩](https://www.kuaishou.com/short-video/3xvbrwwzyse3jv4)
-1. [中考成绩查分现场](https://www.kuaishou.com/short-video/3xn2mzvdhmcicee)
-1. [李玲玉快手独家直播分享过往经历](https://www.kuaishou.com/short-video/3x7y66833eygqfs)
+1. [杨少华相关账号中午还在带货](https://www.kuaishou.com/short-video/3x6ikmk6fwnixu9)
+1. [唐太宗也跳上了扫腿舞](https://www.kuaishou.com/short-video/3x37wijpfehc34e)
+1. [外卖大战骑手2天赚2000元](https://www.kuaishou.com/short-video/3x9fawc29d79atu)
+1. [梓渝也来梓渝摇了](https://www.kuaishou.com/short-video/3xgm2kds6sznfik)
 1. [顺恨摇](https://www.kuaishou.com/short-video/3xvfvupq6k892x2)
+1. [二次元打入非遗圈](https://www.kuaishou.com/short-video/3x3sa9d8r5bd67i)
 1. [田栩宁跳求佛舞](https://www.kuaishou.com/short-video/3xbr9ri9cixby6e)
+1. [鸟儿摇dj版](https://www.kuaishou.com/short-video/3xt6n3hkuzdmnn9)
+1. [中考成绩查分现场](https://www.kuaishou.com/short-video/3xn2mzvdhmcicee)
+1. [戒烟抽象版](https://www.kuaishou.com/short-video/3xfe5cytra49mi4)
+1. [梓渝进行曲](https://www.kuaishou.com/short-video/3xw4minh7x2wj49)
+1. [韩国女足2比2中国女足](https://www.kuaishou.com/short-video/3x3vbcqvp6afchc)
+1. [高考录取骗局又来了](https://www.kuaishou.com/short-video/3xumr2sv45hvxtu)
+1. [杨少华老先生一路走好](https://www.kuaishou.com/short-video/3xst9x88bhhizhw)
+1. [本轮高温何时结束](https://www.kuaishou.com/short-video/3x6dbwdcv5hgq8i)
+1. [时代少年团版勾践剑](https://www.kuaishou.com/short-video/3xm3ph5zmmbsf5c)
+1. [官方通报女子称怀孕期间摆烂上班](https://www.kuaishou.com/short-video/3x7eyhc2mh7w7zm)
+1. [英伟达市值达到4万亿美元](https://www.kuaishou.com/short-video/3xikvixj4dfi9yw)
+1. [天气预报为什么总是39度](https://www.kuaishou.com/short-video/3xbafyt9htsjtm6)
 1. [中方回应特朗普中美关系最新表态](https://www.kuaishou.com/short-video/3x7bh2tmr4eppcg)
+1. [柴鸡蛋 误闯田家](https://www.kuaishou.com/short-video/3xrdj7p8q6pfcw6)
 1. [杨少华儿子](https://www.kuaishou.com/short-video/3x73h8dvecjkh2e)
+1. [警方通报一婚车队遭遇连环车祸](https://www.kuaishou.com/short-video/3xyq6jtcr8ezwnm)
+1. [广东热得像是被做局了](https://www.kuaishou.com/short-video/3x2xrx8fjevntjq)
+1. [本以为锤锤高温下的淡定是伪装](https://www.kuaishou.com/short-video/3x42ngcnewruzrs)
+1. [桐门四季去水上乐园了](https://www.kuaishou.com/short-video/3xkny2z6kp9fhme)
+1. [白小白家族成员好声音卷到飞起](https://www.kuaishou.com/short-video/3xr3exzkvyu5cf9)
+1. [二次元IP破次元集结](https://www.kuaishou.com/short-video/3xwr3kzzvbfv24u)
+1. [李连杰入驻快手](https://www.kuaishou.com/short-video/3x4veejtb9tevvy)
+1. [杨少华卖房借钱给杨议买古玩](https://www.kuaishou.com/short-video/3xvbrwwzyse3jv4)
+1. [李玲玉快手独家直播分享过往经历](https://www.kuaishou.com/short-video/3x7y66833eygqfs)
 <!-- END KUAISHOU -->
 
 历史归档 [./archives/kuaishou](./archives/kuaishou)
