@@ -9,6 +9,15 @@ logger = logging.getLogger(__name__)
 logger.setLevel(level=logging.INFO)
 
 
+def debug_print(message: str, website_name: str = ""):
+    if os.getenv("ENABLE_DEBUG_PRINT", "false").lower() in ("true", "1", "yes"):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        if website_name:
+            print(f"[{timestamp}] [{website_name}] {message}")
+        else:
+            print(f"[{timestamp}] {message}")
+
+
 def current_time():
     return datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %z")
 

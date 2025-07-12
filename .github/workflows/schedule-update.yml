@@ -42,7 +42,9 @@ jobs:
 
       # 运行
       - name: Run python
-        run: python main.py
+        run: python -u main.py
+        env:
+          ENABLE_DEBUG_PRINT: true
 
       # 更新仓库
       - name: Update repo
