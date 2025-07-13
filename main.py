@@ -70,9 +70,6 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
                     failed_tasks.add(website_name)
                     debug_print(f"✗ {website_name} 任务异常: {str(e)}，立即结束当前批次")
                     break
-            
-            if failed_tasks:
-                break
 
         remaining_futures = set(future_to_website.keys()) - done_futures
         if remaining_futures:
@@ -87,15 +84,8 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
                     debug_print(f"{website_name} 任务已取消，标记为失败")
                 else:
                     debug_print(f"{website_name} 任务无法取消（可能正在执行），标记为失败")
-                    if website_name not in failed_tasks:
-                        failed_tasks.add(website_name)
             
             debug_print(f"超时处理完成，失败任务数: {len(failed_tasks)}")
-
-        # 如果有失败任务，强制关闭线程池而不等待
-        if failed_tasks:
-            debug_print("检测到失败任务，强制关闭线程池")
-            executor.shutdown(wait=False)
 
     debug_print(f"批次执行完成，成功: {len(successful_tasks)}, 失败: {len(failed_tasks)}")
     return successful_tasks, failed_tasks

@@ -47,10 +47,11 @@ class WebSite36Kr:
                 "timestamp": int(time.time()),
             }
             with request_session() as s:
-                resp = s.post(url, json=payload)
+                resp = s.post(url, json=payload, timeout=30)
                 ret = resp.json()
         except:
             logger.exception("get data failed")
+            raise
         return ret
 
     @staticmethod

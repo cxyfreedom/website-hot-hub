@@ -41,10 +41,11 @@ class WebSiteBilibili:
         ret = {}
         try:
             with request_session() as s:
-                resp = s.get(url)
+                resp = s.get(url, timeout=30)
                 ret = resp.json()
         except Exception as _:
             logger.exception("get data failed")
+            raise
         return ret
 
     @staticmethod

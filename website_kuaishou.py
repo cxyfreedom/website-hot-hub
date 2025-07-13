@@ -41,7 +41,7 @@ class WebSiteKuaiShou:
         ret = {}
         try:
             with request_session() as s:
-                resp = s.get(url)
+                resp = s.get(url, timeout=30)
                 content = resp.text
                 regex = r"window.__APOLLO_STATE__=(.*);\(function\(\)"
                 result = re.search(regex, content, re.DOTALL)
@@ -49,6 +49,7 @@ class WebSiteKuaiShou:
                     ret = json.loads(result.group(1))["defaultClient"]
         except:
             logger.exception("get data failed")
+            raise
         return ret
 
     @staticmethod
