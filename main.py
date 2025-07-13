@@ -34,10 +34,29 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
             for website_obj, website_name in websites_to_run
         }
 
-        try:
-            for future in concurrent.futures.as_completed(future_to_website, timeout=timeout_seconds):
+        done_futures = set()
+        start_time = time.time()
+        
+        while len(done_futures) < len(future_to_website):
+            elapsed_time = time.time() - start_time
+            if elapsed_time >= timeout_seconds:
+                debug_print(f"批次执行超时（已执行{elapsed_time:.1f}秒）")
+                break
+                
+            remaining_time = min(60, timeout_seconds - elapsed_time)
+            if remaining_time <= 0:
+                break
+                
+            done, pending = concurrent.futures.wait(
+                future_to_website.keys() - done_futures, 
+                timeout=remaining_time,
+                return_when=concurrent.futures.FIRST_COMPLETED
+            )
+            
+            for future in done:
+                done_futures.add(future)
                 website_name = future_to_website[future]
-
+                
                 try:
                     success = future.result()
                     if success:
@@ -50,24 +69,23 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
                     failed_tasks.add(website_name)
                     debug_print(f"✗ {website_name} 任务异常: {str(e)}")
 
-        except concurrent.futures.TimeoutError:
+        remaining_futures = set(future_to_website.keys()) - done_futures
+        if remaining_futures:
             debug_print("检测到任务执行超时")
+            timeout_tasks = {future_to_website[f] for f in remaining_futures}
+            debug_print(f"以下任务执行超时: {', '.join(timeout_tasks)}")
+            failed_tasks.update(timeout_tasks)
 
-            completed_websites = successful_tasks | failed_tasks
-            all_websites = {website_name for _, website_name in websites_to_run}
-            timeout_tasks = all_websites - completed_websites
+            for future in remaining_futures:
+                website_name = future_to_website[future]
+                if future.cancel():
+                    debug_print(f"{website_name} 任务已取消")
+                else:
+                    debug_print(f"{website_name} 任务无法取消（可能正在执行）")
+            
+            debug_print(f"超时处理完成，失败任务数: {len(failed_tasks)}")
 
-            if timeout_tasks:
-                debug_print(f"以下任务执行超时: {', '.join(timeout_tasks)}")
-                failed_tasks.update(timeout_tasks)
-
-                for future, website_name in future_to_website.items():
-                    if website_name in timeout_tasks:
-                        if future.cancel():
-                            debug_print(f"{website_name} 任务已取消")
-                        else:
-                            debug_print(f"{website_name} 任务无法取消（可能正在执行）")
-
+    debug_print(f"批次执行完成，成功: {len(successful_tasks)}, 失败: {len(failed_tasks)}")
     return successful_tasks, failed_tasks
 
 
@@ -105,6 +123,10 @@ def main():
         round_successful, round_failed = execute_tasks_batch(
             websites_to_run, timeout_seconds, max_workers
         )
+        
+        debug_print(f"第{retry_round + 1}轮结果 - 成功: {len(round_successful) if round_successful else 0}, 失败: {len(round_failed) if round_failed else 0}")
+        if round_failed:
+            debug_print(f"失败任务详情: {list(round_failed)}")
 
         successful_tasks.update(round_successful)
 
@@ -130,11 +152,14 @@ def main():
                         websites_to_run.append((WebSiteWeRead(), website_name))
                     elif website_name == "KUAISHOU":
                         websites_to_run.append((WebSiteKuaiShou(), website_name))
+                        
+            debug_print(f"准备重试 {len(websites_to_run)} 个任务")
         else:
             websites_to_run = []
             debug_print("本轮所有任务执行成功")
 
         retry_round += 1
+        debug_print(f"准备进入第{retry_round + 1}轮，待执行任务数: {len(websites_to_run)}")
 
     all_website_names = {name for _, name in all_websites}
     final_failed = all_website_names - successful_tasks
