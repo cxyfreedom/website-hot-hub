@@ -92,6 +92,11 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
             
             debug_print(f"超时处理完成，失败任务数: {len(failed_tasks)}")
 
+        # 如果有失败任务，强制关闭线程池而不等待
+        if failed_tasks:
+            debug_print("检测到失败任务，强制关闭线程池")
+            executor.shutdown(wait=False)
+
     debug_print(f"批次执行完成，成功: {len(successful_tasks)}, 失败: {len(failed_tasks)}")
     return successful_tasks, failed_tasks
 
@@ -109,9 +114,9 @@ def main():
         (WebSiteKuaiShou(), "KUAISHOU"),
     ]
 
-    timeout_seconds = 120  # 每轮任务最多执行2分钟
+    timeout_seconds = 60  # 每轮任务最多执行1分钟
     max_retry_rounds = 3  # 最多重试3轮
-    retry_delay = 300  # 重试间隔5分钟
+    retry_delay = 120  # 重试间隔2分钟
 
     successful_tasks = set()
     websites_to_run = all_websites.copy()
