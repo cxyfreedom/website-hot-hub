@@ -36,18 +36,15 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
 
         done_futures = set()
         start_time = time.time()
-        timeout_occurred = False
         
-        while len(done_futures) < len(future_to_website) and not timeout_occurred:
+        while len(done_futures) < len(future_to_website):
             elapsed_time = time.time() - start_time
             if elapsed_time >= timeout_seconds:
                 debug_print(f"批次执行超时（已执行{elapsed_time:.1f}秒）")
-                timeout_occurred = True
                 break
                 
             remaining_time = min(60, timeout_seconds - elapsed_time)
             if remaining_time <= 0:
-                timeout_occurred = True
                 break
                 
             done, pending = concurrent.futures.wait(
@@ -67,10 +64,15 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
                         debug_print(f"✓ {website_name} 任务成功完成")
                     else:
                         failed_tasks.add(website_name)
-                        debug_print(f"✗ {website_name} 任务执行失败")
+                        debug_print(f"✗ {website_name} 任务执行失败，立即结束当前批次")
+                        break
                 except Exception as e:
                     failed_tasks.add(website_name)
-                    debug_print(f"✗ {website_name} 任务异常: {str(e)}")
+                    debug_print(f"✗ {website_name} 任务异常: {str(e)}，立即结束当前批次")
+                    break
+            
+            if failed_tasks:
+                break
 
         remaining_futures = set(future_to_website.keys()) - done_futures
         if remaining_futures:
@@ -109,7 +111,7 @@ def main():
 
     timeout_seconds = 120  # 每轮任务最多执行2分钟
     max_retry_rounds = 3  # 最多重试3轮
-    retry_delay = 30  # 重试间隔30秒
+    retry_delay = 300  # 重试间隔5分钟
 
     successful_tasks = set()
     websites_to_run = all_websites.copy()
@@ -121,7 +123,7 @@ def main():
         else:
             debug_print(f"第{retry_round + 1}轮重试，共 {len(websites_to_run)} 个任务")
             if retry_delay > 0:
-                debug_print(f"等待 {retry_delay} 秒后开始重试...")
+                debug_print(f"等待 {retry_delay // 60} 分钟后开始重试...")
                 time.sleep(retry_delay)
 
         max_workers = min(len(websites_to_run), 7)
