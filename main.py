@@ -36,15 +36,18 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
 
         done_futures = set()
         start_time = time.time()
+        timeout_occurred = False
         
-        while len(done_futures) < len(future_to_website):
+        while len(done_futures) < len(future_to_website) and not timeout_occurred:
             elapsed_time = time.time() - start_time
             if elapsed_time >= timeout_seconds:
                 debug_print(f"批次执行超时（已执行{elapsed_time:.1f}秒）")
+                timeout_occurred = True
                 break
                 
             remaining_time = min(60, timeout_seconds - elapsed_time)
             if remaining_time <= 0:
+                timeout_occurred = True
                 break
                 
             done, pending = concurrent.futures.wait(
@@ -79,9 +82,11 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
             for future in remaining_futures:
                 website_name = future_to_website[future]
                 if future.cancel():
-                    debug_print(f"{website_name} 任务已取消")
+                    debug_print(f"{website_name} 任务已取消，标记为失败")
                 else:
-                    debug_print(f"{website_name} 任务无法取消（可能正在执行）")
+                    debug_print(f"{website_name} 任务无法取消（可能正在执行），标记为失败")
+                    if website_name not in failed_tasks:
+                        failed_tasks.add(website_name)
             
             debug_print(f"超时处理完成，失败任务数: {len(failed_tasks)}")
 
@@ -102,9 +107,9 @@ def main():
         (WebSiteKuaiShou(), "KUAISHOU"),
     ]
 
-    timeout_seconds = 300  # 每轮任务最多执行5分钟
+    timeout_seconds = 120  # 每轮任务最多执行2分钟
     max_retry_rounds = 3  # 最多重试3轮
-    retry_delay = 10  # 重试间隔10秒
+    retry_delay = 30  # 重试间隔30秒
 
     successful_tasks = set()
     websites_to_run = all_websites.copy()
