@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cxyfreedom-website-hot-hub-badge.png)](https://mseep.ai/app/cxyfreedom-website-hot-hub)
+
 # website-hot-hub
 
 记录 36Kr、bilibili、抖音、掘金、微信读书、快手平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
