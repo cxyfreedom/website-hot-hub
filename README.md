@@ -1,6 +1,6 @@
 # website-hot-hub
 
-记录 36Kr、bilibili、抖音、掘金、微信读书、快手平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
+记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书、快手平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
 
 ## 36Kr
 
@@ -286,6 +286,26 @@
 <!-- END BILIBILI -->
 
 历史归档 [./archives/bilibili](./archives/bilibili)
+
+## GitHub
+
+<!-- BEGIN GITHUB -->
+<!-- 最后更新时间 2025-07-26 22:36:05 +0800 -->
+1. [frappe/hrms (Python) ⭐4,476](https://github.com/frappe/hrms)
+1. [QwenLM/Qwen3-Coder (Python) ⭐9,182](https://github.com/QwenLM/Qwen3-Coder)
+1. [juspay/hyperswitch (Rust) ⭐22,821](https://github.com/juspay/hyperswitch)
+1. [m1k1o/neko (Go) ⭐13,902](https://github.com/m1k1o/neko)
+1. [aaPanel/BillionMail (Go) ⭐7,874](https://github.com/aaPanel/BillionMail)
+1. [keycloak/keycloak (Java) ⭐28,518](https://github.com/keycloak/keycloak)
+1. [BerriAI/litellm (Python) ⭐26,182](https://github.com/BerriAI/litellm)
+1. [Infisical/infisical (TypeScript) ⭐18,998](https://github.com/Infisical/infisical)
+1. [confident-ai/deepeval (Python) ⭐9,454](https://github.com/confident-ai/deepeval)
+1. [dataease/dataease (Java) ⭐20,747](https://github.com/dataease/dataease)
+1. [goldbergyoni/nodebestpractices (Dockerfile) ⭐103,520](https://github.com/goldbergyoni/nodebestpractices)
+1. [Raphire/Win11Debloat (PowerShell) ⭐23,053](https://github.com/Raphire/Win11Debloat)
+<!-- END GITHUB -->
+
+历史归档 [./archives/github](./archives/github)
 
 ## 抖音
 

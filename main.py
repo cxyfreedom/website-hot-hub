@@ -6,6 +6,7 @@ import time
 from website_sspai import WebSiteSSPai
 from website_36kr import WebSite36Kr
 from website_bilibili import WebSiteBilibili
+from website_github import WebSiteGitHub
 from website_douyin import WebSiteDouYin
 from website_juejin import WebSiteJueJin
 from website_weread import WebSiteWeRead
@@ -98,6 +99,7 @@ def main():
         (WebSiteSSPai(), "SSPAI"),
         (WebSite36Kr(), "36KR"),
         (WebSiteBilibili(), "BILIBILI"),
+        (WebSiteGitHub(), "GITHUB"),
         (WebSiteDouYin(), "DOUYIN"),
         (WebSiteJueJin(), "JUEJIN"),
         (WebSiteWeRead(), "WEREAD"),
@@ -146,6 +148,8 @@ def main():
                         websites_to_run.append((WebSite36Kr(), website_name))
                     elif website_name == "BILIBILI":
                         websites_to_run.append((WebSiteBilibili(), website_name))
+                    elif website_name == "GITHUB":
+                        websites_to_run.append((WebSiteGitHub(), website_name))
                     elif website_name == "DOUYIN":
                         websites_to_run.append((WebSiteDouYin(), website_name))
                     elif website_name == "JUEJIN":
