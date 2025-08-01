@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-08-02 02:12:05 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:19 +0800 -->
 1. [8点1氪｜英伟达因H20芯片漏洞后门被约谈；8月起现金买黄金超10万需上报；微软成史上第二家市值破4万亿美元公司](https://36kr.com/p/3403531686579589)
 1. [中国“软黄金”火了，有商家一夜爆卖500万元，引来海外订单](https://36kr.com/p/3402880717721224)
 1. [Manus AI 上线以来最大更新：100 个 Agent 为你打工，但缺点是太烧钱了](https://36kr.com/p/3403719613500803)
@@ -70,7 +70,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-08-02 02:12:04 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:19 +0800 -->
 1. [缅怀先烈，吾辈自强.](https://b23.tv/BV1Z38yzmEaG)
 1. [【速凌】兄弟！你等我！！](https://b23.tv/BV1c88RzjET6)
 1. [爱是一起吃很多很多顿饭](https://b23.tv/BV1gT8RzwENx)
@@ -181,7 +181,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2025-08-02 02:12:04 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:19 +0800 -->
 1. [OpenPipe/ART (Python) ⭐4,451](https://github.com/OpenPipe/ART)
 1. [TandoorRecipes/recipes (HTML) ⭐6,633](https://github.com/TandoorRecipes/recipes)
 1. [devlikeapro/waha (TypeScript) ⭐2,490](https://github.com/devlikeapro/waha)
@@ -201,18 +201,18 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-08-02 02:12:05 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:20 +0800 -->
 1. [覃海洋200米蛙泳冠军](https://www.douyin.com/hot/2189296)
-1. [IG战胜WBG](https://www.douyin.com/hot/2189454)
-1. [第四批国补资金将于10月下达](https://www.douyin.com/hot/2189392)
 1. [各路大神手搓各种望远镜](https://www.douyin.com/hot/2188905)
+1. [第四批国补资金将于10月下达](https://www.douyin.com/hot/2189392)
+1. [物理角度分析理想卡车对撞试验](https://www.douyin.com/hot/2189103)
 1. [歌手2025突围赛](https://www.douyin.com/hot/2189150)
 1. [武汉大学通报图书馆事件](https://www.douyin.com/hot/2189142)
-1. [物理角度分析理想卡车对撞试验](https://www.douyin.com/hot/2189103)
-1. [灵笼2完结](https://www.douyin.com/hot/2188681)
 1. [一代人有一代人的百家讲坛](https://www.douyin.com/hot/2189240)
-1. [21人被终身禁止进入神树坪基地](https://www.douyin.com/hot/2188622)
+1. [灵笼2完结](https://www.douyin.com/hot/2188681)
 1. [大展鸿图运镜第三视角](https://www.douyin.com/hot/2188795)
+1. [21人被终身禁止进入神树坪基地](https://www.douyin.com/hot/2188622)
+1. [微信提现手续费调整下限你怎么看](https://www.douyin.com/hot/2188994)
 1. [净网2025：网警打击虚假警情通报](https://www.douyin.com/hot/2188464)
 1. [人民海军湖北舰亮相](https://www.douyin.com/hot/2188785)
 1. [“宝马车致1死7伤案”一审宣判](https://www.douyin.com/hot/2189331)
@@ -221,39 +221,39 @@
 1. [鹿晗厦门演唱会](https://www.douyin.com/hot/2189059)
 1. [中国篮协通报U21群殴事件](https://www.douyin.com/hot/2189026)
 1. [高以翔生前的爱犬去世](https://www.douyin.com/hot/2188822)
-1. [微信提现手续费调整下限你怎么看](https://www.douyin.com/hot/2188994)
 1. [在八月希望你平平安安](https://www.douyin.com/hot/2188678)
 1. [苏超第八轮马上开战](https://www.douyin.com/hot/2188585)
 1. [如何快速找到自己的穿衣风格](https://www.douyin.com/hot/2188926)
+1. [IG战胜WBG](https://www.douyin.com/hot/2189454)
 1. [多国将承认巴勒斯坦国](https://www.douyin.com/hot/2188442)
 1. [邪修做饭交作业了](https://www.douyin.com/hot/2187973)
-1. [考辛斯曝约基奇曾想退役](https://www.douyin.com/hot/2188476)
-1. [张碧晨新加坡演唱会](https://www.douyin.com/hot/2188521)
-1. [我知道你为了什么而来](https://www.douyin.com/hot/2189209)
 1. [中国人都应该记得这段历史](https://www.douyin.com/hot/2187838)
+1. [我知道你为了什么而来](https://www.douyin.com/hot/2189209)
+1. [张碧晨新加坡演唱会](https://www.douyin.com/hot/2188521)
 1. [揭秘《南京照相馆》5个现实原型](https://www.douyin.com/hot/2187842)
-1. [欧大发人物短片](https://www.douyin.com/hot/2187988)
+1. [考辛斯曝约基奇曾想退役](https://www.douyin.com/hot/2188476)
 1. [者来女把蕾蒂娅唱进歌里](https://www.douyin.com/hot/2189429)
-1. [被爱是不需要小心翼翼的](https://www.douyin.com/hot/2189332)
+1. [欧大发人物短片](https://www.douyin.com/hot/2187988)
 1. [李佳薇千年之恋突围成功](https://www.douyin.com/hot/2189430)
-1. [乘龙卡车直播间宣读侵权声明](https://www.douyin.com/hot/2188611)
+1. [被爱是不需要小心翼翼的](https://www.douyin.com/hot/2189332)
 1. [叶濛李靳屿升级当爸妈](https://www.douyin.com/hot/2189196)
+1. [乘龙卡车直播间宣读侵权声明](https://www.douyin.com/hot/2188611)
 1. [鲁比奥：中美正进入战略稳定期](https://www.douyin.com/hot/2188489)
-1. [哈登开启中国行](https://www.douyin.com/hot/2188943)
-1. [邓紫棋赣州演唱会](https://www.douyin.com/hot/2189058)
 1. [吉林农大通知书能做小鸡炖蘑菇](https://www.douyin.com/hot/2189013)
 1. [张予曦毕雯珺这次真的不一样](https://www.douyin.com/hot/2188829)
 1. [汕头偶遇洪金宝](https://www.douyin.com/hot/2188814)
 1. [迪丽热巴你好星期六路透](https://www.douyin.com/hot/2188626)
 1. [浪浪山小妖怪搬出了上美影王炸](https://www.douyin.com/hot/2188908)
+1. [邓紫棋赣州演唱会](https://www.douyin.com/hot/2189058)
 1. [徐学阳被开除党籍](https://www.douyin.com/hot/2188373)
-1. [采访下你对主人的看法](https://www.douyin.com/hot/2189118)
 1. [爱上jasmine只需0秒](https://www.douyin.com/hot/2188175)
+1. [采访下你对主人的看法](https://www.douyin.com/hot/2189118)
 1. [虽然我长得一般但我穿搭不一般](https://www.douyin.com/hot/2187580)
 1. [这菜单让我看得头疼](https://www.douyin.com/hot/2189086)
 1. [关晓彤海边手势舞好甜](https://www.douyin.com/hot/2189194)
-1. [移动电源认证实施规则发布](https://www.douyin.com/hot/2189262)
 1. [定风波开播](https://www.douyin.com/hot/2188670)
+1. [哈登开启中国行](https://www.douyin.com/hot/2188943)
+1. [移动电源认证实施规则发布](https://www.douyin.com/hot/2189262)
 1. [被沈佳润版Jet2Holiday洗脑了](https://www.douyin.com/hot/2189370)
 1. [警方通报“司机亮证逼迫让路”](https://www.douyin.com/hot/2189376)
 1. [什么是华丽巨蚊](https://www.douyin.com/hot/2188630)
@@ -267,7 +267,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-08-02 02:12:05 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:20 +0800 -->
 1. [解锁 JavaScript 模块的秘密：ES6模块内部结构详解](https://juejin.cn/post/7532425297150427171)
 1. [“全栈”正在淘汰“前端”吗？一个前端专家的焦虑与思考](https://juejin.cn/post/7532777221197840399)
 1. [🗾3分钟学会Echart地图下钻](https://juejin.cn/post/7529439100890611746)
@@ -325,7 +325,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-08-02 02:12:05 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:20 +0800 -->
 1. [新玩意 215｜少数派的编辑们最近买了啥？](https://sspai.com/post/101308)
 1. [AI 百日，恍若数年：我的 2025 上半年 AI 模型与产品清单推荐](https://sspai.com/post/101081)
 1. [本周看什么 | 最近值得一看的 5+ 部作品](https://sspai.com/post/101149)
@@ -373,7 +373,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-08-02 02:12:04 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:20 +0800 -->
 1. [告诉她（性教育缺失下的女性突围！）](https://weread.qq.com/web/bookDetail/06d32100813aba2bdg0169dd)
 1. [100个小众职业故事集](https://weread.qq.com/web/bookDetail/6d832b40813ab9a86g01102d)
 1. [我身上有个不可战胜的夏天（果麦经典）](https://weread.qq.com/web/bookDetail/160321a0813aba1dfg0109cf)
@@ -404,60 +404,71 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-08-02 02:12:06 +0800 -->
+<!-- 最后更新时间 2025-08-02 02:14:21 +0800 -->
 1. [人民军队攻坚向前](https://www.kuaishou.com/short-video/3xpfwrqy4ut5qvs)
 1. [每人微信有1000元免费提现额度](https://www.kuaishou.com/short-video/3x8bimz9mn64ps9)
 1. [六旬老太守国门](https://www.kuaishou.com/short-video/3xgma5wyfc499qg)
 1. [上半年国内居民出游人次32.85亿](https://www.kuaishou.com/short-video/3xw6i3f5yrumpa6)
+1. [威来可漆和同手同脚的适配度](https://www.kuaishou.com/short-video/3xt8uuz9dpn54iy)
 1. [桂哥MAMA转场](https://www.kuaishou.com/short-video/3xexdmmd7cuv7si)
+1. [鹿晗牵女伴舞的手](https://www.kuaishou.com/short-video/3xjdszwjm2it4sc)
+1. [和平精英世界杯总决赛](https://www.kuaishou.com/short-video/3xptkguqzcntbxg)
 1. [司马懿皮肤难产](https://www.kuaishou.com/short-video/3x42nmd77cznwua)
 1. [警方通报“司机亮证逼迫让路”](https://www.kuaishou.com/short-video/3xxpjv57pxs6e96)
-1. [威来可漆和同手同脚的适配度](https://www.kuaishou.com/short-video/3xt8uuz9dpn54iy)
-1. [和平精英世界杯总决赛](https://www.kuaishou.com/short-video/3xptkguqzcntbxg)
-1. [鹿晗牵女伴舞的手](https://www.kuaishou.com/short-video/3xjdszwjm2it4sc)
-1. [微信支付上线“遗失提醒”功能](https://www.kuaishou.com/short-video/3xytekwv4f8a6yw)
+1. [鹿晗跳了星奇摇](https://www.kuaishou.com/short-video/3xpb5nuav3jvjcm)
 1. [多人发布传播虚假警情通报被刑拘](https://www.kuaishou.com/short-video/3x2qp32jey3ncfk)
-1. [一家三口开大巴房车自驾新疆](https://www.kuaishou.com/short-video/3xj6jpa5smkqy72)
+1. [赵露思 我会永远在你身边陪着你](https://www.kuaishou.com/short-video/3xsp8uznu3kbwhc)
 1. [15岁少年冒死保存日军罪证](https://www.kuaishou.com/short-video/3xda65yhszeekcs)
 1. [武汉大学通报图书馆事件](https://www.kuaishou.com/short-video/3xk9hhq9c26chmw)
-1. [原来微信右上角加号有这么多功能](https://www.kuaishou.com/short-video/3xaqyj7kyskqce6)
-1. [单依纯 我本是歌手今晚来串讲](https://www.kuaishou.com/short-video/3xepv3by8f9umbk)
-1. [赵露思 我会永远在你身边陪着你](https://www.kuaishou.com/short-video/3xsp8uznu3kbwhc)
-1. [易烊千玺让粉丝带一撮土来演唱会](https://www.kuaishou.com/short-video/3xzruu65id5tt7q)
-1. [中国海军陆战队有多勇](https://www.kuaishou.com/short-video/3x73q6vdcf9ggkq)
-1. [中国集齐“航母五件套”](https://www.kuaishou.com/short-video/3xadnm8yrpa8shs)
+1. [微信支付上线“遗失提醒”功能](https://www.kuaishou.com/short-video/3xytekwv4f8a6yw)
 1. [妈妈带6岁的模特女儿回老家](https://www.kuaishou.com/short-video/3xqxrvgc5rp88rs)
-1. [美国对中国台湾地区征20％关税](https://www.kuaishou.com/short-video/3xqnrqsdvbu3iay)
+1. [单依纯 我本是歌手今晚来串讲](https://www.kuaishou.com/short-video/3xepv3by8f9umbk)
+1. [张碧晨新加坡演唱会上座率引热议](https://www.kuaishou.com/short-video/3xkq4am9zw7ytxg)
+1. [中国海军陆战队有多勇](https://www.kuaishou.com/short-video/3x73q6vdcf9ggkq)
+1. [一家三口开大巴房车自驾新疆](https://www.kuaishou.com/short-video/3xj6jpa5smkqy72)
+1. [原来微信右上角加号有这么多功能](https://www.kuaishou.com/short-video/3xaqyj7kyskqce6)
 1. [整个苏超评论区乱成一锅粥了](https://www.kuaishou.com/short-video/3x33h6qr7i88beq)
-1. [鹿晗跳了星奇摇](https://www.kuaishou.com/short-video/3xpb5nuav3jvjcm)
-1. [人民军队时刻准备着](https://www.kuaishou.com/short-video/3xs3s37xcmgkjcy)
-1. [周也这个女将军好帅](https://www.kuaishou.com/short-video/3x6cu9jxcycpvgq)
-1. [辞九门回忆dj版](https://www.kuaishou.com/short-video/3xjtprbqpf3cs5i)
-1. [微信提现手续费下降](https://www.kuaishou.com/short-video/3xr7jmgyw9tsnv2)
-1. [全球第二大网红无语哥将中国行](https://www.kuaishou.com/short-video/3x89ydz7bgp9duq)
+1. [宋亚轩跳了亚轩摇](https://www.kuaishou.com/short-video/3x4i2j278piv5cs)
 1. [黄蓉结婚后变成了郭夫人](https://www.kuaishou.com/short-video/3x5x977gb5usqk4)
+1. [将军为还原cos受伤](https://www.kuaishou.com/short-video/3x923m7gcvqy87s)
+1. [小哈哈演短剧太好玩了](https://www.kuaishou.com/short-video/3xb3jri6e3hcz2w)
+1. [木偶带你逛无畏契约ChinaJoy展台](https://www.kuaishou.com/short-video/3xf73i4enh2smwu)
+1. [张含韵把我的耳朵养得很好](https://www.kuaishou.com/short-video/3xtdhmua55hdep6)
+1. [中国集齐“航母五件套”](https://www.kuaishou.com/short-video/3xadnm8yrpa8shs)
+1. [全球第二大网红无语哥将中国行](https://www.kuaishou.com/short-video/3x89ydz7bgp9duq)
+1. [杨洋18到33岁颜值变化](https://www.kuaishou.com/short-video/3xvbjhbshng78tu)
+1. [快手达人闪现CJ漫展](https://www.kuaishou.com/short-video/3xh8jgbuah2etcu)
+1. [蛋蛋梦原神代言人](https://www.kuaishou.com/short-video/3x6nci2u7w6cpf9)
+1. [杨洋你就非得这时候提裤子吗](https://www.kuaishou.com/short-video/3xtfex9qh44vw62)
+1. [特朗普新对等关税自10%至41%](https://www.kuaishou.com/short-video/3xf4rq8v7399g2g)
+1. [王星越新剧被女主囚禁](https://www.kuaishou.com/short-video/3xc5yy5aighfge2)
+1. [易烊千玺让粉丝带一撮土来演唱会](https://www.kuaishou.com/short-video/3xzruu65id5tt7q)
+1. [村BA农技三分大赛](https://www.kuaishou.com/short-video/3xieyzthf8gkhum)
+1. [微信提现手续费下降](https://www.kuaishou.com/short-video/3xr7jmgyw9tsnv2)
+1. [辞九门回忆dj版](https://www.kuaishou.com/short-video/3xjtprbqpf3cs5i)
+1. [台湾网红馆长推荐南京照相馆](https://www.kuaishou.com/short-video/3xwhwwjh6qsji74)
+1. [鹿晗厦门演唱会](https://www.kuaishou.com/short-video/3xn8i8kpfw9yd4e)
+1. [特朗普将加拿大关税提高至35%](https://www.kuaishou.com/short-video/3xu34264habsy8c)
+1. [张峻豪黄朔给TF四代打歌](https://www.kuaishou.com/short-video/3xe32jketvr73js)
+1. [张予曦毕雯珺七夕大片](https://www.kuaishou.com/short-video/3xxaxxh52eu6kks)
+1. [周也这个女将军好帅](https://www.kuaishou.com/short-video/3x6cu9jxcycpvgq)
+1. [男保姆和女朋友的旅游vlog](https://www.kuaishou.com/short-video/3x97k5ez387xuu4)
+1. [加绒摇4教程](https://www.kuaishou.com/short-video/3xkwuxzmzjrmyuk)
+1. [美国对中国台湾地区征20％关税](https://www.kuaishou.com/short-video/3xqnrqsdvbu3iay)
+1. [人民军队时刻准备着](https://www.kuaishou.com/short-video/3xs3s37xcmgkjcy)
 1. [洪水过后的太师屯镇养老院](https://www.kuaishou.com/short-video/3xn95j7cm2hcg32)
 1. [司马懿山海经皮肤mvp结算动画](https://www.kuaishou.com/short-video/3xyfh3r9jqy2b82)
-1. [宋亚轩跳了亚轩摇](https://www.kuaishou.com/short-video/3x4i2j278piv5cs)
 1. [林志炫回来了](https://www.kuaishou.com/short-video/3xg29tx7pg35u2s)
 1. [美频繁对我国防军工网络窃密](https://www.kuaishou.com/short-video/3x8ua528v8t9g5i)
-1. [张碧晨新加坡演唱会上座率引热议](https://www.kuaishou.com/short-video/3xkq4am9zw7ytxg)
 1. [学习强国入驻快手](https://www.kuaishou.com/short-video/3xws9uu3f4g955g)
-1. [男保姆和女朋友的旅游vlog](https://www.kuaishou.com/short-video/3x97k5ez387xuu4)
-1. [蛋蛋梦原神代言人](https://www.kuaishou.com/short-video/3x6nci2u7w6cpf9)
 1. [迷人的笑脸吸引视线](https://www.kuaishou.com/short-video/3xhd99hhiwvbbsg)
 1. [致敬中国军人](https://www.kuaishou.com/short-video/3xpbiydrn5tv9qa)
-1. [台湾网红馆长推荐南京照相馆](https://www.kuaishou.com/short-video/3xwhwwjh6qsji74)
-1. [特朗普新对等关税自10%至41%](https://www.kuaishou.com/short-video/3xf4rq8v7399g2g)
-1. [加绒摇4教程](https://www.kuaishou.com/short-video/3xkwuxzmzjrmyuk)
 1. [汪顺从17岁到31岁8征世锦赛](https://www.kuaishou.com/short-video/3x4tp3f57jhyt49)
-1. [小哈哈演短剧太好玩了](https://www.kuaishou.com/short-video/3xb3jri6e3hcz2w)
 1. [ALin开口跪了](https://www.kuaishou.com/short-video/3xdbw6y8yduw5he)
 1. [苹果或打造AI硬件](https://www.kuaishou.com/short-video/3xd46fn6y68r6ck)
 1. [山东人带着豆橛子来了](https://www.kuaishou.com/short-video/3xzzmif6vd2ctw6)
 1. [鹿晗清唱nobody](https://www.kuaishou.com/short-video/3xsiwmwdpemrb86)
 1. [武大已组建工作专班调查复核](https://www.kuaishou.com/short-video/3x7h93ys7u63uky)
-1. [杨洋18到33岁颜值变化](https://www.kuaishou.com/short-video/3xvbjhbshng78tu)
 1. [挑战10元杭州生存一天](https://www.kuaishou.com/short-video/3xdwksaa884zqh4)
 1. [热成像特效包帅的](https://www.kuaishou.com/short-video/3x9f6creq3dittc)
 1. [熊出没版囧架架新皮肤](https://www.kuaishou.com/short-video/3xji377ss7cxe2s)
@@ -467,20 +478,16 @@
 1. [二次元版很任性](https://www.kuaishou.com/short-video/3xxb46b6z5nia7u)
 1. [三伏天](https://www.kuaishou.com/short-video/3xhiwr4sifg92a6)
 1. [上一秒咋没猴子下一秒啊啊啊啊](https://www.kuaishou.com/short-video/3xjw4xq2dspvfg6)
-1. [张含韵把我的耳朵养得很好](https://www.kuaishou.com/short-video/3xtdhmua55hdep6)
 1. [越讨厌跑得越远](https://www.kuaishou.com/short-video/3xyeifn7tpyghxu)
 1. [泰山陪爬真实体验](https://www.kuaishou.com/short-video/3xg4cz7ei88ngkq)
-1. [村BA农技三分大赛](https://www.kuaishou.com/short-video/3xieyzthf8gkhum)
 1. [东风柳汽全系车型申请出战](https://www.kuaishou.com/short-video/3x48fhbfuz3b566)
 1. [韩国coser也去上海cj漫展](https://www.kuaishou.com/short-video/3xdpgyeqcz6th9q)
-1. [杨洋你就非得这时候提裤子吗](https://www.kuaishou.com/short-video/3xtfex9qh44vw62)
 1. [童话里的公主裙走进现实](https://www.kuaishou.com/short-video/3xtk5vhnkev9g7g)
 1. [鹿晗和粉丝互换挂件](https://www.kuaishou.com/short-video/3x5afzt55ycr2kk)
 1. [微微辣变装](https://www.kuaishou.com/short-video/3xdw847cdpap45w)
 1. [我知道你还是爱着我](https://www.kuaishou.com/short-video/3xg2t4vqkukw4vw)
 1. [艾莉西亚把自己唱哭了](https://www.kuaishou.com/short-video/3xxyk42e2tbfir9)
 1. [朱一龙3个动作反杀日军](https://www.kuaishou.com/short-video/3xp4q7wsp7kymxi)
-1. [张峻豪黄朔给TF四代打歌](https://www.kuaishou.com/short-video/3xe32jketvr73js)
 1. [热成像特效捉蚊子](https://www.kuaishou.com/short-video/3xjrf35wk9g5dsw)
 <!-- END KUAISHOU -->
 
