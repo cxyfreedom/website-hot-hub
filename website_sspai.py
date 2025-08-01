@@ -113,7 +113,7 @@ class WebSiteSSPai:
     ) -> str:
         return f"# {date}\n\n共 {len(content)} 条\n\n{self.create_list(content)}"
 
-    def run(self):
+    def run(self, update_readme=True):
         dir_name = "sspai"
 
         raw_data = self.get_raw()
@@ -127,15 +127,24 @@ class WebSiteSSPai:
 
         self.create_raw(raw_path, json.dumps(merged_data, ensure_ascii=False))
 
-        # 更新 README
-        readme_text = self.update_readme(merged_data)
-        readme_path = "./README.md"
-        write_text_file(readme_path, readme_text)
-
         # 更新 archive
         archive_text = self.create_archive(merged_data, cur_date)
         archive_path = f"./archives/{dir_name}/{cur_date}.md"
         write_text_file(archive_path, archive_text)
+        
+        readme_content = self.create_list(merged_data)
+        
+        if update_readme:
+            readme_text = self.update_readme(merged_data)
+            readme_path = "./README.md"
+            write_text_file(readme_path, readme_text)
+            return True
+        else:
+            return {
+                "section_name": "SSPAI",
+                "content": readme_content,
+                "data_count": len(merged_data)
+            }
 
 
 if __name__ == "__main__":

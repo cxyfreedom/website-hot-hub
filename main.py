@@ -11,23 +11,24 @@ from website_douyin import WebSiteDouYin
 from website_juejin import WebSiteJueJin
 from website_weread import WebSiteWeRead
 from website_kuaishou import WebSiteKuaiShou
-from utils import debug_print
+from utils import debug_print, batch_update_readme
 
 
 def run_website_task(website_obj, website_name):
     try:
         debug_print("开始执行任务", website_name)
-        website_obj.run()
+        result = website_obj.run(update_readme=False)  # 并发模式下不直接更新README
         debug_print("任务执行完成", website_name)
-        return True
+        return True, result
     except Exception as e:
         debug_print(f"任务执行失败: {str(e)}", website_name)
-        return False
+        return False, None
 
 
 def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
     successful_tasks = set()
     failed_tasks = set()
+    readme_updates = {}  # 收集README更新内容
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_website = {
@@ -59,10 +60,11 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
                 website_name = future_to_website[future]
                 
                 try:
-                    success = future.result()
-                    if success:
+                    success, update_data = future.result()
+                    if success and update_data and isinstance(update_data, dict):
                         successful_tasks.add(website_name)
-                        debug_print(f"✓ {website_name} 任务成功完成")
+                        readme_updates[update_data["section_name"]] = update_data["content"]
+                        debug_print(f"✓ {website_name} 任务成功完成，获取到 {update_data['data_count']} 条数据")
                     else:
                         failed_tasks.add(website_name)
                         debug_print(f"✗ {website_name} 任务执行失败，立即结束当前批次")
@@ -89,6 +91,13 @@ def execute_tasks_batch(websites_to_run, timeout_seconds, max_workers):
             debug_print(f"超时处理完成，失败任务数: {len(failed_tasks)}")
 
     debug_print(f"批次执行完成，成功: {len(successful_tasks)}, 失败: {len(failed_tasks)}")
+    
+    if readme_updates:
+        batch_update_readme(readme_updates)
+        debug_print("README更新完成")
+    else:
+        debug_print("没有可更新的README内容")
+    
     return successful_tasks, failed_tasks
 
 

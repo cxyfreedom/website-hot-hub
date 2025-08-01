@@ -2,6 +2,9 @@
 import logging
 import hashlib
 import os
+import re
+import fcntl
+import contextlib
 from datetime import datetime
 
 logging.basicConfig(format="%(asctime)s %(levelname)s - %(message)s")
@@ -92,3 +95,38 @@ def get_weread_id(book_id: str) -> str:
     except Exception as error:
         print("处理微信读书 ID 时出现错误：" + str(error))
         return ""
+
+
+def update_readme_section(readme_content: str, section_name: str, new_content: str) -> str:
+    pattern = rf"<!-- BEGIN {section_name} -->.*?<!-- END {section_name} -->"
+    if re.search(pattern, readme_content, re.DOTALL):
+        return re.sub(pattern, new_content, readme_content, flags=re.DOTALL)
+    else:
+        debug_print(f"未找到 {section_name} 段落标记")
+        return readme_content
+
+
+def batch_update_readme(updates: dict) -> None:
+    readme_path = "./README.md"
+    
+    try:
+        with open(readme_path, "r", encoding='utf-8') as f:
+            readme_content = f.read()
+        
+        for section_name, new_content in updates.items():
+            if new_content.strip():
+                readme_content = update_readme_section(readme_content, section_name, new_content)
+                debug_print(f"已更新 {section_name} 段落")
+            else:
+                debug_print(f"{section_name} 段落内容为空，跳过更新")
+        
+        temp_path = readme_path + ".tmp"
+        with open(temp_path, "w", encoding='utf-8') as f:
+            f.write(readme_content)
+        os.rename(temp_path, readme_path)        
+    except Exception as e:
+        debug_print(f"更新README失败: {str(e)}")
+        try:
+            os.remove(readme_path + ".tmp")
+        except:
+            pass
