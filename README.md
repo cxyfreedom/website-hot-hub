@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-12-08 00:09:58 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:22 +0800 -->
 1. [苹果高管地震还在持续：芯片负责人考虑离职](https://36kr.com/p/3584760231459717)
 1. [AI作图+仅退款，正在围猎电商卖家](https://36kr.com/p/3583943830313091)
 1. [7天狂揽21亿！“最火CP”成断货王，有商家狂卖几十万件](https://36kr.com/p/3584072354167938)
@@ -25,7 +25,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-12-08 00:09:58 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:21 +0800 -->
 1. [“你和你的死对头来到无限流被迫成组队，一个月以来，矛盾从未停止，这天，面对这个副本的大boss，你们居然意料之外地默契了起来…”](https://b23.tv/BV1RE2LBEEsV)
 1. [不做网红了，出来摆摊儿，炸完你的炸你的，炸完你的炸她的！！](https://b23.tv/BV1kR2YBmExb)
 1. [【箭头】如果世界真的是程序，你会继续当个NPC吗](https://b23.tv/BV1RW27BXEL8)
@@ -133,7 +133,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2025-12-08 00:09:58 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:22 +0800 -->
 1. [microsoft/VibeVoice (Python) ⭐11,606](https://github.com/microsoft/VibeVoice)
 1. [NVIDIA/cutile-python (Python) ⭐644](https://github.com/NVIDIA/cutile-python)
 1. [patchy631/ai-engineering-hub (Jupyter Notebook) ⭐21,647](https://github.com/patchy631/ai-engineering-hub)
@@ -232,19 +232,19 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-12-08 00:09:59 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:22 +0800 -->
 1. [紧急高危：Next.js 曝出 CVSS 10.0 级 RCE 漏洞，请立即修复！](https://juejin.cn/post/7579920818870648874)
 1. [Android Studio Otter 2 Feature 发布，最值得更新的 Android Studio](https://juejin.cn/post/7579999793320247302)
 1. [【AI 编程实战】第 1 篇：TRAE SOLO 模式 10 倍速开发商业级全栈小程序](https://juejin.cn/post/7579892222609391651)
 1. [解读 Claude 对开发者的影响：AI 如何在 Anthropic 改变工作？](https://juejin.cn/post/7579555970594947113)
 1. [ 🔥 懂原理但不会说？我怒写了个 AI 模拟器逼自己开口](https://juejin.cn/post/7579871631096184858)
+1. [vue也支持声明式UI了，向移动端kotlin，swift看齐，抛弃html，pug升级版，进来看看新语法吧](https://juejin.cn/post/7580287383788585003)
 1. [借助RemoteCompose开发动态化页面](https://juejin.cn/post/7579813925996757033)
 1. [深入探究 React 史上最大安全漏洞](https://juejin.cn/post/7579892222609293347)
-1. [vue也支持声明式UI了，向移动端kotlin，swift看齐，抛弃html，pug升级版，进来看看新语法吧](https://juejin.cn/post/7580287383788585003)
-1. [⚪️ 五子棋加入道具系统是一种什么体验？我用 TRAE SOLO 实现了！](https://juejin.cn/post/7579805639436025908)
 1. [Trae Genimi3跟着官网学实时通信 Socket.io框架](https://juejin.cn/post/7579872561674682377)
-1. [深入理解 Vue keep-alive：缓存本质、触发条件与生命周期对比](https://juejin.cn/post/7579716343454007339)
+1. [⚪️ 五子棋加入道具系统是一种什么体验？我用 TRAE SOLO 实现了！](https://juejin.cn/post/7579805639436025908)
 1. [🚀 2025 年 11 月 GitHub 十大热门项目排行榜 🔥](https://juejin.cn/post/7579889969986502707)
+1. [深入理解 Vue keep-alive：缓存本质、触发条件与生命周期对比](https://juejin.cn/post/7579716343454007339)
 1. [不卖课，纯干货！Android分层你知多少？](https://juejin.cn/post/7579476335557017635)
 1. [做中国人自己的视频编辑UI框架，WebCut正式开源](https://juejin.cn/post/7579819594270900262)
 1. [JavaScript流式输出技术详解与实践](https://juejin.cn/post/7580310413754236978)
@@ -253,22 +253,22 @@
 1. [前端终于不用再写html，可以js一把梭了，我的ovs(不写html，兼容vue)的语法插件终于上线了](https://juejin.cn/post/7579871631096266778)
 1. [前端面试题-JavaScript高级篇](https://juejin.cn/post/7579813925996970025)
 1. [偷看浏览器后台，发现它比我忙多了](https://juejin.cn/post/7580263284338311209)
-1. [半年时间使用 Tiptap 开发一个和飞书差不多效果的协同文档 😍😍😍](https://juejin.cn/post/7579702046955225131)
 1. [Java 开发必看！IDEA 这 8 个设置，让编码效率直接翻倍](https://juejin.cn/post/7579846221167280182)
+1. [半年时间使用 Tiptap 开发一个和飞书差不多效果的协同文档 😍😍😍](https://juejin.cn/post/7579702046955225131)
 1. [LiveData "数据倒灌"：一个流行的错误概念](https://juejin.cn/post/7580259796668383278)
 1. [彻底搞懂 JavaScript 的 this：从陷阱到解决方案](https://juejin.cn/post/7580251192330403886)
 1. [js防抖技术:从原理到实践，如何解决高频事件导致的性能难题](https://juejin.cn/post/7580216638109548559)
-1. [js入门指南之Promise：从''承诺''到理解，告别回调地域](https://juejin.cn/post/7580310413754335282)
+1. [受够了同事的垃圾代码？我用 Go 写了个自动审查工具](https://juejin.cn/post/7580224037407506472)
 1. [Vite8来啦，告别 esbuild + Rollup，Vite 8 统一用 Rolldown 了](https://juejin.cn/post/7580303864604590089)
+1. [js入门指南之Promise：从''承诺''到理解，告别回调地域](https://juejin.cn/post/7580310413754335282)
 1. [深入理解JavaScript 中 this 的底层设计：从执行上下文到调用机制](https://juejin.cn/post/7579819594271178790)
 1. [JavaScript 继承与 `instanceof`：从原理到实践](https://juejin.cn/post/7579805639435845684)
 1. [JavaScript类型侦探：四大神器让你一眼看穿变量真身 ](https://juejin.cn/post/7580184249908330538)
 1. [【Perfetto从入门到精通】1. 初识 Perfetto](https://juejin.cn/post/7579995747170500643)
-1. [受够了同事的垃圾代码？我用 Go 写了个自动审查工具](https://juejin.cn/post/7580224037407506472)
+1. [React 史诗级漏洞： SSR Server Action 协议导致服务器远程代码执行](https://juejin.cn/post/7580270531469574190)
+1. [浏览器自动化革命：从 Selenium 到 AI Browser 的 20 年进化史](https://juejin.cn/post/7579558130267865142)
 1. [Android + Google Play：老项目适配实战指南](https://juejin.cn/post/7579946275436838922)
 1. [告别"回调地狱"！Promise让异步代码"一线生机"](https://juejin.cn/post/7579813925996691497)
-1. [浏览器自动化革命：从 Selenium 到 AI Browser 的 20 年进化史](https://juejin.cn/post/7579558130267865142)
-1. [React 史诗级漏洞： SSR Server Action 协议导致服务器远程代码执行](https://juejin.cn/post/7580270531469574190)
 1. [使用 TRAE SOLO: 搭建前端项目脚手架](https://juejin.cn/post/7580202945146208271)
 <!-- END JUEJIN -->
 
@@ -277,7 +277,8 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-08 00:09:59 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:23 +0800 -->
+1. [新玩意 229｜少数派的编辑们最近买了啥？](https://sspai.com/post/104311)
 1. [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/104157)
 1. [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/104144)
 1. [新玩意 228｜少数派的编辑们最近买了啥？](https://sspai.com/post/104139)
@@ -325,25 +326,30 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-12-08 00:09:58 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:22 +0800 -->
+1. [只有男科医生知道](https://weread.qq.com/web/bookDetail/89d325c071697fd189de13c)
 1. [为什么精英都是时间控](https://weread.qq.com/web/bookDetail/5ed328f07159d3b85ed72b9)
-1. [金钱心理学](https://weread.qq.com/web/bookDetail/fd6324f0813abad3bg017c18)
-1. [抗炎自救：修复你的免疫力](https://weread.qq.com/web/bookDetail/18d32e10813abad21g010280)
-1. [老实人启蒙](https://weread.qq.com/web/bookDetail/b1232df0813abad37g017006)
 1. [红楼梦](https://weread.qq.com/web/bookDetail/984325d0813aba21ag0183dc)
+1. [老实人启蒙](https://weread.qq.com/web/bookDetail/b1232df0813abad37g017006)
+1. [绑架游戏](https://weread.qq.com/web/bookDetail/6db329d0813abad23g0117a8)
+1. [抗炎自救：修复你的免疫力](https://weread.qq.com/web/bookDetail/18d32e10813abad21g010280)
 1. [老人与海](https://weread.qq.com/web/bookDetail/46532e00813abaca4g010be6)
+1. [好运设计（轻经典）](https://weread.qq.com/web/bookDetail/93e32de0813ab9db5g010e43)
 1. [经济学的思维方式（全集）](https://weread.qq.com/web/bookDetail/25a324307171203b25a7ca5)
 1. [京城第一绿茶（心机美人×冷厉权臣）](https://weread.qq.com/web/bookDetail/96432f10813ababafg0120cc)
-1. [好运设计（轻经典）](https://weread.qq.com/web/bookDetail/93e32de0813ab9db5g010e43)
 1. [看世界（2025年第24期）](https://weread.qq.com/web/bookDetail/8c3327a0813abad65g011e3b)
+1. [明朝那些事儿（全集）](https://weread.qq.com/web/bookDetail/a57325c05c8ed3a57224187)
+1. [金钱心理学](https://weread.qq.com/web/bookDetail/fd6324f0813abad3bg017c18)
+1. [古人生活与文化图鉴：浪花姜的华夏百科](https://weread.qq.com/web/bookDetail/2ea328e0813aba8f9g011e9c)
 1. [大生意人（陈晓、孙千、罗一舟、朱亚文、李纯主演同名电视剧原著）](https://weread.qq.com/web/bookDetail/59132280813ab9dbeg0121f8)
-1. [开心](https://weread.qq.com/web/bookDetail/c6432720813abab1bg019293)
 1. [金钱博弈](https://weread.qq.com/web/bookDetail/7c2321f0729fc9317c2ff83)
+1. [鹊踏枝：夺嫡世子VS 智谋孤女](https://weread.qq.com/web/bookDetail/bd232880813aba929g017ef6)
 1. [柏基投资之道：近20年跑赢巴菲特，穿越周期的稳健复利密码](https://weread.qq.com/web/bookDetail/b5532510813abaca0g0139f1)
+1. [南明史（全2册）](https://weread.qq.com/web/bookDetail/a3132050813ab6bb7g011b47)
+1. [北京的大姨回来了](https://weread.qq.com/web/bookDetail/7e332020813abac09g013f75)
+1. [开心](https://weread.qq.com/web/bookDetail/c6432720813abab1bg019293)
 1. [穆斯林的葬礼](https://weread.qq.com/web/bookDetail/31b320f0813ab8090g010471)
 1. [一切愁云消散](https://weread.qq.com/web/bookDetail/d9232980813aba15cg019ab1)
-1. [北京的大姨回来了](https://weread.qq.com/web/bookDetail/7e332020813abac09g013f75)
-1. [鹊踏枝：夺嫡世子VS 智谋孤女](https://weread.qq.com/web/bookDetail/bd232880813aba929g017ef6)
 1. [漫长的革命](https://weread.qq.com/web/bookDetail/ff932a00813abab21g014125)
 1. [代晋](https://weread.qq.com/web/bookDetail/9d9328f0813abac09g014a46)
 <!-- END WEREAD -->
@@ -353,49 +359,65 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-12-08 00:10:00 +0800 -->
+<!-- 最后更新时间 2025-12-08 01:07:54 +0800 -->
 1. [中法元首“不打领带”的友好交流](https://www.kuaishou.com/short-video/3xg3sf9ysajcxr9)
 1. [国乒vs日本](https://www.kuaishou.com/short-video/3xf99jjgti62acw)
-1. [日称中国战机雷达照射自卫队飞机](https://www.kuaishou.com/short-video/3xzgx949emg9izg)
+1. [中方当场驳回日方所谓交涉](https://www.kuaishou.com/short-video/3x63j6xzsa85kma)
 1. [中国农产品出口成绩单亮了](https://www.kuaishou.com/short-video/3xh4pgfb7hfhyi6)
 1. [我要验牌](https://www.kuaishou.com/short-video/3xtwrb9r2xmvtqk)
+1. [“亡妻回忆录”男子被曝婚内出轨](https://www.kuaishou.com/short-video/3x4dzvhhnc58th4)
 1. [日飞机多次抵近滋扰中国海军训练](https://www.kuaishou.com/short-video/3xwzkrdvz7bds8w)
+1. [当班里有一个“可爱的小笨蛋”](https://www.kuaishou.com/short-video/3xcxas65i4985jm)
+1. [郎平笑谈是否会重返执教](https://www.kuaishou.com/short-video/3x75kcgvxk6mbeu)
+1. [如何快速识别孩子是否得了流感](https://www.kuaishou.com/short-video/3x4iayedhu47x5w)
+1. [日称中国战机雷达照射自卫队飞机](https://www.kuaishou.com/short-video/3xzgx949emg9izg)
+1. [直系亲属间献血更安全系谣言](https://www.kuaishou.com/short-video/3xbzsi55iad6gty)
+1. [喀什残疾儿童圆梦绿茵场](https://www.kuaishou.com/short-video/3xaffaff6a55yug)
 1. [那个L啊是什么梗](https://www.kuaishou.com/short-video/3xuh2cg7pftuhdu)
 1. [原来真的有鹅毛大雪](https://www.kuaishou.com/short-video/3xt2kdnyahw5752)
-1. [如何快速识别孩子是否得了流感](https://www.kuaishou.com/short-video/3x4iayedhu47x5w)
-1. [关键词翻唱](https://www.kuaishou.com/short-video/3xu3p7xzz9c2xtq)
-1. [直系亲属间献血更安全系谣言](https://www.kuaishou.com/short-video/3xbzsi55iad6gty)
-1. [甘肃一小区发生火灾2人身亡](https://www.kuaishou.com/short-video/3x2hiwe46gjcmp9)
 1. [美防长暗指日本搭便车将付出代价](https://www.kuaishou.com/short-video/3xkjyeat6663gzs)
-1. [当班里有一个“可爱的小笨蛋”](https://www.kuaishou.com/short-video/3xcxas65i4985jm)
-1. [台南女警遭持斧追砍](https://www.kuaishou.com/short-video/3xpegyy4k4gh9ve)
+1. [关键词翻唱](https://www.kuaishou.com/short-video/3xu3p7xzz9c2xtq)
+1. [初代网红郭美美再次被封禁](https://www.kuaishou.com/short-video/3xu5ztrzu8ved5u)
 1. [荷兰大臣承认中方反击措手不及](https://www.kuaishou.com/short-video/3x7yixqnex94cyg)
-1. [国乒战胜日本夺冠](https://www.kuaishou.com/short-video/3xieevdgqcjsri4)
-1. [我们僵尸也是有追求的](https://www.kuaishou.com/short-video/3x85ehzbevxgb7q)
-1. [贝宁国家电视台被军方控制](https://www.kuaishou.com/short-video/3xm3j3xwfapjya6)
-1. [郎平笑谈是否会重返执教](https://www.kuaishou.com/short-video/3x75kcgvxk6mbeu)
-1. [“亡妻回忆录”男子被曝婚内出轨](https://www.kuaishou.com/short-video/3x4dzvhhnc58th4)
-1. [谭晶入驻快手](https://www.kuaishou.com/short-video/3xxqq3bsvecw5du)
-1. [分手还能做朋友就一定有人在说慌](https://www.kuaishou.com/short-video/3xbvu6qj5zqaafe)
-1. [酒店保洁阿姨用洗脸毛巾擦马桶](https://www.kuaishou.com/short-video/3x6vwjpugpurhke)
-1. [哈尔滨大雪人已现“庐山真面目”](https://www.kuaishou.com/short-video/3xuin9t8du4hmxm)
-1. [白鹿尖叫女演员](https://www.kuaishou.com/short-video/3xk2cp8e5wstmti)
+1. [东方村BA战平美国青年队](https://www.kuaishou.com/short-video/3xzwy4u9scqhtyy)
+1. [大雪节气养生指南](https://www.kuaishou.com/short-video/3xftpyawpa47d6c)
+1. [朱元璋新版画像还原真容](https://www.kuaishou.com/short-video/3xsgjhanujvcga2)
+1. [甘肃一小区发生火灾2人身亡](https://www.kuaishou.com/short-video/3x2hiwe46gjcmp9)
 1. [解放军潜艇罕见集群机动](https://www.kuaishou.com/short-video/3xpyqzya4ms4e8q)
+1. [中国女游客马来西亚坠亡](https://www.kuaishou.com/short-video/3x2vbv5dt9mpxci)
+1. [谭晶入驻快手](https://www.kuaishou.com/short-video/3xxqq3bsvecw5du)
+1. [台南女警遭持斧追砍](https://www.kuaishou.com/short-video/3xpegyy4k4gh9ve)
+1. [泰国巨蜥拖行婴儿尸体](https://www.kuaishou.com/short-video/3x79aemn9ct29fg)
+1. [极端天气已致斯里兰卡618人死亡](https://www.kuaishou.com/short-video/3x3m693bgz65t7a)
+1. [穿衣服大赛](https://www.kuaishou.com/short-video/3xkv8scfzy96py6)
+1. [我们僵尸也是有追求的](https://www.kuaishou.com/short-video/3x85ehzbevxgb7q)
+1. [印度一夜店起火至少23人死亡](https://www.kuaishou.com/short-video/3x3xjruvbv8npfq)
+1. [pump it up变装](https://www.kuaishou.com/short-video/3xs4mwk3sep9dak)
+1. [一路走来无愧于心](https://www.kuaishou.com/short-video/3x79cycsac3zi66)
+1. [心做dj舞蹈挑战](https://www.kuaishou.com/short-video/3xvtmj4axmkcrh2)
+1. [只对你有感觉](https://www.kuaishou.com/short-video/3xbyxmn43uuufa4)
+1. [贝宁国家电视台被军方控制](https://www.kuaishou.com/short-video/3xm3j3xwfapjya6)
+1. [嘉桐摇](https://www.kuaishou.com/short-video/3xcpggzuwr96w59)
+1. [国乒战胜日本夺冠](https://www.kuaishou.com/short-video/3xieevdgqcjsri4)
+1. [第一视角和丈母娘交锋](https://www.kuaishou.com/short-video/3x2ps5445t9gbg9)
+1. [一代人有一代人的十字绣](https://www.kuaishou.com/short-video/3x4duzfd75zg65e)
+1. [祝绪丹跳喵喵舞完全萌物](https://www.kuaishou.com/short-video/3xh9etqeu4hckyg)
 1. [孙颖莎王楚钦3比0战胜日本组合](https://www.kuaishou.com/short-video/3xjx5ebdggjfaw2)
-1. [1000片落叶爆改高定礼服](https://www.kuaishou.com/short-video/3xcmb9ykumfjrcy)
-1. [尖叫之夜这么好笑早知道过年看了](https://www.kuaishou.com/short-video/3xv8axq6bmy9uiu)
 1. [日本学者批政府为“亡国内阁”](https://www.kuaishou.com/short-video/3xx72y3nb8qta7m)
+1. [三角洲cos](https://www.kuaishou.com/short-video/3xd3awe58siggxk)
+1. [分手还能做朋友就一定有人在说慌](https://www.kuaishou.com/short-video/3xbvu6qj5zqaafe)
+1. [其实翻唱](https://www.kuaishou.com/short-video/3x2h2zar8ywb95m)
+1. [尖叫之夜这么好笑早知道过年看了](https://www.kuaishou.com/short-video/3xv8axq6bmy9uiu)
+1. [哈尔滨大雪人已现“庐山真面目”](https://www.kuaishou.com/short-video/3xuin9t8du4hmxm)
+1. [憋笑挑战](https://www.kuaishou.com/short-video/3xq7mzuq766x6v9)
+1. [酒店保洁阿姨用洗脸毛巾擦马桶](https://www.kuaishou.com/short-video/3x6vwjpugpurhke)
+1. [白鹿尖叫女演员](https://www.kuaishou.com/short-video/3xk2cp8e5wstmti)
+1. [1000片落叶爆改高定礼服](https://www.kuaishou.com/short-video/3xcmb9ykumfjrcy)
 1. [奥美拉唑被列为重点监控药物](https://www.kuaishou.com/short-video/3xuekfdakxqv7ny)
 1. [内蒙人的欢迎仪式太炸场了](https://www.kuaishou.com/short-video/3x8hpgiguwzq8dc)
 1. [莎莎打球头都不回](https://www.kuaishou.com/short-video/3xdrfqb5q4u67h2)
-1. [一路走来无愧于心](https://www.kuaishou.com/short-video/3x79cycsac3zi66)
-1. [初代网红郭美美再次被封禁](https://www.kuaishou.com/short-video/3xu5ztrzu8ved5u)
 1. [秦岭棕色大熊猫七仔表情神似特工](https://www.kuaishou.com/short-video/3xmswk77w6herha)
-1. [极端天气已致斯里兰卡618人死亡](https://www.kuaishou.com/short-video/3x3m693bgz65t7a)
-1. [印度一夜店起火至少23人死亡](https://www.kuaishou.com/short-video/3x3xjruvbv8npfq)
 1. [境外间谍设恶意WiFi窃密](https://www.kuaishou.com/short-video/3xr8hieztdmhpkq)
-1. [一代人有一代人的十字绣](https://www.kuaishou.com/short-video/3x4duzfd75zg65e)
-1. [第一视角和丈母娘交锋](https://www.kuaishou.com/short-video/3x2ps5445t9gbg9)
 1. [倘若我心中的山水](https://www.kuaishou.com/short-video/3xc6shfdex43hu6)
 1. [王楚钦孙颖莎横扫韩国混双](https://www.kuaishou.com/short-video/3x9nwiqfmtwbye6)
 1. [国家医保目录新增114种药品](https://www.kuaishou.com/short-video/3xa5auqcn9z87vy)
