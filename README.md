@@ -5,15 +5,15 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-12-21 05:07:59 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:31 +0800 -->
 1. [哈佛大学30年研究揭示精疲力竭的真相，这25个微习惯可助你重获内心宁静](https://36kr.com/p/3580044604537733)
 1. [9点1氪丨字节跳动面向全球员工涨薪；飞天茅台价格暴跌，黄牛半个月亏损超30万元；上海电信回应“罗永浩吐槽网速”](https://36kr.com/p/3603180661933059)
 1. [平均每个月亏3亿！从智谱招股书，我看到了大模型竞争的残酷现实](https://36kr.com/p/3603323184743689)
 1. [手机厂靠拢豆包](https://36kr.com/p/3603357630727175)
 1. [5000亿大市场，“漂亮饭”不是一门好生意？](https://36kr.com/p/3602605617612036)
 1. [全体起立，00后大老板来了](https://36kr.com/p/3603327983928581)
-1. [读了这四本书，你会更懂认知科学（入门版）](https://36kr.com/p/3603221669971209)
 1. [当你感到不顺时，一定要主动丢掉这3样东西](https://36kr.com/p/3603297969684997)
+1. [读了这四本书，你会更懂认知科学（入门版）](https://36kr.com/p/3603221669971209)
 1. [2025翻译硬件变局：讯飞绑定办公，有道潜入学习，时空壶攻占耳朵](https://36kr.com/p/3602461664592386)
 1. [国内唯一专注量子基础软件产业化团队，中科院技术转化，曾牵头科技部重大专项｜36氪首发](https://36kr.com/p/3603183524054025)
 1. [三星憋大招：本地大模型上车S26，手机AI的端侧大战要打响了？](https://36kr.com/p/3603399429538563)
@@ -29,7 +29,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-12-21 05:07:59 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:30 +0800 -->
 1. [《反乌托邦Pt.2》【亚细亚旷世奇才/洛天依/乌托邦P】](https://b23.tv/BV1epqZBVEPY)
 1. [“大 冻 北 我 的 家 乡”](https://b23.tv/BV1ZdqZBDETw)
 1. [美国街头路人试喝中国饮料](https://b23.tv/BV1GcqoBzEww)
@@ -49,11 +49,11 @@
 1. [为驻守乡村小学的老师造一个下班后的家，当了解到老师们上了一天课后，回到仓库一般的简陋宿舍，一个人靠着领养的流浪小猫温暖自己，我和老公决定给她们改造出个温馨的家。](https://b23.tv/BV1DKqpBME5V)
 1. [在哥伦比娅面前挂机](https://b23.tv/BV1QBqnBqEwy)
 1. [法学生在期末考试看到这样的炸裂题目！当场要气晕了！](https://b23.tv/BV1PoqpBPERq)
-1. [荒野硬汉，邦球宣！](https://b23.tv/BV1UBqEBfEXZ)
+1. [🍎当UP主被家人发现了，这把生死局](https://b23.tv/BV1ocq6BeEJa)
 1. [那些身体好的中老年朋友不会告诉你的秘密！](https://b23.tv/BV1DBqEBfEFf)
 1. [我在21岁签约了8KRAW，成为了顶级平台最年轻的摄影师之一！可以花30秒，看看这两年我拍的作品吗？](https://b23.tv/BV1hEq9B8EGh)
+1. [荒野硬汉，邦球宣！](https://b23.tv/BV1UBqEBfEXZ)
 1. [考研政治蒙题技巧，考场至少多拿10分！](https://b23.tv/BV1aEqHBgEzQ)
-1. [🍎当UP主被家人发现了，这把生死局](https://b23.tv/BV1ocq6BeEJa)
 1. [『飙马野郎 JOJO的奇妙冒险』 正式PV公开](https://b23.tv/BV1DRBABdE2p)
 1. [【萌黄一槽】最初的同伴与"对手"！十周年鸣佐传说时装"宿命连结"全技能爆料！](https://b23.tv/BV1EEqzBPEhn)
 1. [我伪装成了恐怖模组，混入恐怖生物之中...](https://b23.tv/BV18uqoBPEaF)
@@ -64,8 +64,8 @@
 1. [火锅普通，配菜就不普通](https://b23.tv/BV1iGqHB5EE7)
 1. [挑战在非洲原始部落生活48小时，探访非洲硬核矮人族，居然靠吃巨鼠为生](https://b23.tv/BV1QBqnBqEP7)
 1. [探秘中国十大“XX”！我来到了“修仙渡劫”之地！《09  死亡谷篇》](https://b23.tv/BV11zqZBaE94)
-1. [Links｜我做了一件从来没有人做过的事](https://b23.tv/BV1KaqYBcEcJ)
 1. [在塔克拉玛干沙漠深处，我发现了一个村子](https://b23.tv/BV1TNqnBcE64)
+1. [Links｜我做了一件从来没有人做过的事](https://b23.tv/BV1KaqYBcEcJ)
 1. [当我用AI翻拍经典热门影视，你能猜对几个？](https://b23.tv/BV1YpqZBVEnA)
 1. [【鱼肉肉】尽量还原啦~IRIS OUT](https://b23.tv/BV1Xpq5BWEkb)
 1. [13个简单有趣的小食谱～有手就会系列](https://b23.tv/BV1uTqpBqEuX)
@@ -75,8 +75,8 @@
 1. [去了一趟土耳其。](https://b23.tv/BV1C1qZBtEJA)
 1. [还还还有高手？神秘小代码竟能让大黑塔直接登神！AG传奇王朝还在续写！有史以来最强的大黑塔黑科技玩法横空出世！学术造假流阿雅！](https://b23.tv/BV1piqHBZEmL)
 1. [《绝区零》2.5版本PV | 微光引灯时](https://b23.tv/BV1H2qZBoEjf)
-1. [美国人也看短剧？我在中国演短剧给老外看！](https://b23.tv/BV1zKqHBEENY)
 1. [提线木偶成精了？倒酒、拔剑、变装一气呵成！](https://b23.tv/BV1FHqnBJEkg)
+1. [美国人也看短剧？我在中国演短剧给老外看！](https://b23.tv/BV1zKqHBEENY)
 1. [猜：可爱炸了 打一人名](https://b23.tv/BV1m9qoBAEhk)
 1. [我和王力宏聊了一个半小时，关于他30年的音乐丨HOPICO](https://b23.tv/BV1i3q9BNEKr)
 1. [【深渊的呼唤IX】宣传视频——《乐园之径-The Blessed Path》首发：—— “乐园何以长存？所见未必真实……”](https://b23.tv/BV1KJqBByE5M)
@@ -86,34 +86,34 @@
 1. [我猜你也分不清这些](https://b23.tv/BV1CwqZBoE8U)
 1. [起猛了 看到三次元芙莉莲了！](https://b23.tv/BV1HzqdB9ECQ)
 1. [运营说我达成百万粉丝的热度不如煎个鸡蛋！](https://b23.tv/BV1p3qEBEE2n)
-1. [这么吃才爽！](https://b23.tv/BV1D4q5BDEX7)
 1. [一个人去攀枝花，一半钢铁洪流，一半鲜花烂漫](https://b23.tv/BV1p1qZBtEua)
-1. [《小杨有约24#》：影视飓风](https://b23.tv/BV1NsqbBJEUB)
+1. [这么吃才爽！](https://b23.tv/BV1D4q5BDEX7)
 1. [把灰烬穿身上，那该有多美？](https://b23.tv/BV1ayqpBGE6a)
 1. [【植物大战僵尸】“让你守个后院不是刮风就是下雨？”](https://b23.tv/BV13HqdBTECz)
+1. [《小杨有约24#》：影视飓风](https://b23.tv/BV1NsqbBJEUB)
 1. [这个世界到底什么才是真的？！](https://b23.tv/BV1pFqGBaE5d)
 1. [一口气跳完2025年热门舞蹈！](https://b23.tv/BV1SMmCBXEGx)
-1. [当我第一次见老丈人，差一点就忽悠成功了](https://b23.tv/BV1mYqZBiEJs)
 1. [三角洲的烟其实不能灭火【三角洲流言终结者7】](https://b23.tv/BV1eRqHB1E5D)
+1. [当我第一次见老丈人，差一点就忽悠成功了](https://b23.tv/BV1mYqZBiEJs)
 1. [这叫智取，宝贝儿](https://b23.tv/BV1dvqpB7EWc)
-1. [少年变小老板，坚持就会有希望，为努力实现梦想的人点赞](https://b23.tv/BV1CCqGBwE7B)
 1. [《苹果源记》](https://b23.tv/BV1uNqnBcEcQ)
 1. [人机局打瓦2 决战boss【无畏契约×三角洲行动】](https://b23.tv/BV1PwBFBiEhV)
-1. [史上最便宜四级弹，还能秒六套？！](https://b23.tv/BV1Pdq3BNEiS)
 1. [不要让别人觉得你很好拿捏](https://b23.tv/BV1HrqdBpETb)
+1. [少年变小老板，坚持就会有希望，为努力实现梦想的人点赞](https://b23.tv/BV1CCqGBwE7B)
 1. [所以，什么是兄弟](https://b23.tv/BV1DxqZB3Erq)
+1. [史上最便宜四级弹，还能秒六套？！](https://b23.tv/BV1Pdq3BNEiS)
 1. [不同年代闺蜜们的出片方式？原来，友情一直在被记录！](https://b23.tv/BV1p2qZBoEM7)
-1. [《当代网友吵架现状》](https://b23.tv/BV1AEqpBFEve)
 1. [和爸妈一起阿米噶蒂朵喵喵 - Montagem Miau](https://b23.tv/BV1RsqDBZE7Y)
+1. [《当代网友吵架现状》](https://b23.tv/BV1AEqpBFEve)
 1. [计算器也能超频？激情演奏千本樱！](https://b23.tv/BV1hvmzBUE1i)
 1. [【年度套娃2025】★ DLC：往日种种](https://b23.tv/BV16Eq8BGEtw)
 1. [最带π的数学！学了这个式子，你就是祖冲之……](https://b23.tv/BV1W7q3BcE2W)
 1. [《您的学分已欠费》](https://b23.tv/BV1qVqZBJEvX)
+1. [回忆永远都是加分项](https://b23.tv/BV1Djq6BsE3h)
 1. [声生不息小黄浴室版第二期](https://b23.tv/BV13BqnBBEDN)
 1. [矿脉枯竭，坚守主矿，但胜负尚未可知！【黑萝卜·DogCraft76】](https://b23.tv/BV1YwqfB2ESy)
 1. [男子吹玻璃30年，腮帮子鼓起来形似 “青蛙王子”，调侃自己会 “蛤蟆功”](https://b23.tv/BV1tKqnB8Ekz)
 1. [我只是感同身受【纯糖】](https://b23.tv/BV1wjqnBXEwB)
-1. [回忆永远都是加分项](https://b23.tv/BV1Djq6BsE3h)
 1. [我起床](https://b23.tv/BV1ywBFBvEY1)
 1. [狗子：不要质疑我的专业](https://b23.tv/BV14LqVBgEvv)
 1. [全光谱歧视亚洲人但是“在芬兰种族歧视毫无立足之地”](https://b23.tv/BV1rwqWBfEnN)
@@ -123,13 +123,13 @@
 1. [皓哥入住新寝室](https://b23.tv/BV1ijqZB7ETC)
 1. [【腊八蒜保姆级全攻略！酸脆爽口，碧绿如玉！】](https://b23.tv/BV1uKqRBtENz)
 1. [专访66岁六小龄童：他的金箍棒，他的紧箍咒](https://b23.tv/BV122qEBWE86)
-1. [「误导向」感人短片《打工人科比的一生》](https://b23.tv/BV1x3mCBDEmC)
 1. [【AI动画 | 𝐅𝐈𝐑𝐄 𝐏𝐔𝐍𝐂𝐇 】 炎拳第一话动画化首发！！藤本树成名神作！](https://b23.tv/BV1qCmBBWESr)
 1. [👈🤓 急 了⚡⚡⚡](https://b23.tv/BV1jaqpBnEpH)
 1. [还回来吃饭吗？](https://b23.tv/BV1QYqjBsE3P)
 1. [鱼没钓多少，倒是交了几个朋友](https://b23.tv/BV1RLqGBnEbh)
-1. [养5个哈吉蜂是什么体验？](https://b23.tv/BV1uDqVBjETF)
+1. [「误导向」感人短片《打工人科比的一生》](https://b23.tv/BV1x3mCBDEmC)
 1. [剥蒜的情谊93.0](https://b23.tv/BV11BqZBAEhq)
+1. [养5个哈吉蜂是什么体验？](https://b23.tv/BV1uDqVBjETF)
 1. [《这波怎么才能活下来》](https://b23.tv/BV1PzqvBPEMi)
 1. [《家装之王》20](https://b23.tv/BV1gEqhBwEb6)
 1. [我用纸做了一个迷你二号机](https://b23.tv/BV1zmqGBbEq6)
@@ -142,7 +142,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2025-12-21 05:07:59 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:31 +0800 -->
 1. [exo-explore/exo (Python) ⭐34,133](https://github.com/exo-explore/exo)
 1. [lintsinghua/DeepAudit (Python) ⭐1,962](https://github.com/lintsinghua/DeepAudit)
 1. [anthropics/claude-code (Shell) ⭐47,347](https://github.com/anthropics/claude-code)
@@ -219,7 +219,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-12-21 05:07:59 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:31 +0800 -->
 1. [AI 只会淘汰不用 AI 的程序员🥚](https://juejin.cn/post/7585022810181222463)
 1. [OpenAI ：你不需要跨平台框架，只需要在 Android 和 iOS 上使用 Codex](https://juejin.cn/post/7584729714339250195)
 1. [Android15适配之世上本无坑，targetSdkVersion升到35后全是坑](https://juejin.cn/post/7584295332340858943)
@@ -229,8 +229,8 @@
 1. [再次紧急修复，Flutter  针对 WebView 无法点击问题增加新的快速修复](https://juejin.cn/post/7584443518162141220)
 1. [自建 React Native 热修复，让线上事故 30 秒“归零”](https://juejin.cn/post/7584787119273574427)
 1. [RAG实战|8种RAG架构浅析](https://juejin.cn/post/7585390679399333894)
-1. [适合很多公司和团队的 AI Coding 落地范式（一）](https://juejin.cn/post/7584714813365747750)
 1. [🗓️ 2262年将有两个春节！作为前端的你，日历控件真的写对了吗？](https://juejin.cn/post/7584711683773693952)
+1. [适合很多公司和团队的 AI Coding 落地范式（一）](https://juejin.cn/post/7584714813365747750)
 1. [用 Gemini3 Flash 做了多半天开发，我离下岗又近了一步](https://juejin.cn/post/7584787119274147867)
 1. [编程之路 2025年终总结 ，勇往直前 再战江湖](https://juejin.cn/post/7585091990346956836)
 1. [HarmonyOS权限管理实战——麦克风、震动等敏感权限申请](https://juejin.cn/post/7584730308752949298)
@@ -244,8 +244,8 @@
 1. [HarmonyOS数据持久化最佳实践——Preferences首选项存储详解](https://juejin.cn/post/7584730308752850994)
 1. [Vben Admin管理系统集成qiankun微服务](https://juejin.cn/post/7584719268043391010)
 1. [前端开发应该了解的浏览器背后的黑科技](https://juejin.cn/post/7584824891595063332)
-1. [手把手教你写一个VSCode插件，从开发到发布全流程](https://juejin.cn/post/7584320417307082803)
 1. [年度总结——Git提交量戳破了我的副业窘境](https://juejin.cn/post/7584650857071329289)
+1. [手把手教你写一个VSCode插件，从开发到发布全流程](https://juejin.cn/post/7584320417307082803)
 1. [一万四千字重温 Android 四大组件](https://juejin.cn/post/7584689488770465827)
 1. [「chrome extensions🛠️」我写了一个超级简单的浏览器插件Vue开发模板](https://juejin.cn/post/7585406229167865906)
 1. [Java 设计模式：原理、框架应用与实战全解析｜得物技术](https://juejin.cn/post/7584725529877577778)
@@ -253,9 +253,9 @@
 1. [晋江文学城存着安全漏洞致使账号被盗却无所察觉](https://juejin.cn/post/7584719268044439586)
 1. [node_modules 太胖？用 Node.js 原生功能给依赖做一次大扫除](https://juejin.cn/post/7584807992032002090)
 1. [Next.js第十四章(缓存策略)](https://juejin.cn/post/7584651851905712147)
+1. [A2UI：让 AI Agent 自主构建用户界面的新范式](https://juejin.cn/post/7584817405228285993)
 1. [10k Star 的开源 AI 记忆引擎：6 行代码，用图谱+向量打造永不遗忘的 AI](https://juejin.cn/post/7584987267267657738)
 1. [设计模式——责任链模式实战，优雅处理Kafka消息](https://juejin.cn/post/7585005164727451686)
-1. [A2UI：让 AI Agent 自主构建用户界面的新范式](https://juejin.cn/post/7584817405228285993)
 1. [孩子，那不是说明书，那是祈祷文](https://juejin.cn/post/7585145251842654223)
 1. [为什么说 AI 视频模型不能用来做教育？Sora-2 Veo-3 来了也不行](https://juejin.cn/post/7585097023747981327)
 1. [学会在Jetpack Compose中加载Lottie动画资源](https://juejin.cn/post/7585024562216910888)
@@ -274,7 +274,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-12-21 05:08:01 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:32 +0800 -->
 1. [那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例](https://sspai.com/post/104595)
 1. [具透｜iOS 26.2 值得关注的新特性](https://sspai.com/post/104408)
 1. [在 2025 年复活一台黑莓 Q25](https://sspai.com/post/104334)
@@ -323,7 +323,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-12-21 05:07:59 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:31 +0800 -->
 1. [裙摆之下](https://weread.qq.com/web/bookDetail/56732790813abafbcg015836)
 1. [深奥的简洁](https://weread.qq.com/web/bookDetail/589328f0813ab6cb0g018c3f)
 1. [巫蛊：中国文化的历史暗流](https://weread.qq.com/web/bookDetail/28f32a90813abafa1g01939f)
@@ -355,10 +355,10 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2025-12-21 05:08:01 +0800 -->
+<!-- 最后更新时间 2025-12-21 06:08:32 +0800 -->
 1. [澳门是伟大祖国的一方宝地](https://www.kuaishou.com/short-video/3xc23auut5kr676)
-1. [冬至八不吃](https://www.kuaishou.com/short-video/3xu3f92vm25ekjm)
 1. [3.8℃把哈尔滨冰雕暖化了](https://www.kuaishou.com/short-video/3xnzjkd2pvxwiqm)
+1. [冬至八不吃](https://www.kuaishou.com/short-video/3xu3f92vm25ekjm)
 1. [从海南封关读懂高水平开放新信号](https://www.kuaishou.com/short-video/3xhu5taicp9v9se)
 1. [星链一卫星突发罕见事故](https://www.kuaishou.com/short-video/3xx5txc3ccv9pwi)
 1. [今日冬至](https://www.kuaishou.com/short-video/3xex2wfzwpijk62)
