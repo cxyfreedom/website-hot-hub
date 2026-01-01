@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-01-02 00:12:39 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:10:34 +0800 -->
 1. [00后已身家百亿！2025 AI造富榜单：超50位亿万富翁诞生](https://36kr.com/p/3612382211867656)
 1. [1万7的爱情私教，正让中年人「一夜返贫」？](https://36kr.com/p/3620168344683526)
 1. [2026年，这22件好物让你全面开挂｜36氪年度推荐](https://36kr.com/p/3620285354165507)
@@ -25,7 +25,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-01-02 00:12:39 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:10:33 +0800 -->
 1. [【燃尽】科比全力备战高考的一天](https://b23.tv/BV1nHvhBGEjm)
 1. [唯一能和她跨年的方式😭](https://b23.tv/BV1K6iMBREnR)
 1. [动态视频｜老板让我单挑10个机器人...](https://b23.tv/BV1rHvhBGEmJ)
@@ -133,7 +133,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-01-02 00:12:39 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:10:34 +0800 -->
 1. [awslabs/amazon-bedrock-agentcore-samples (Jupyter Notebook) ⭐1,933](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 1. [BloopAI/vibe-kanban (Rust) ⭐10,537](https://github.com/BloopAI/vibe-kanban)
 1. [usememos/memos (Go) ⭐47,867](https://github.com/usememos/memos)
@@ -211,7 +211,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-01-02 00:12:39 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:10:39 +0800 -->
 1. [当 Gemini 3 能写出完美 CSS 时，前端工程师剩下的核心竞争力是什么？](https://juejin.cn/post/7588837042014060570)
 1. [百度又一知名产品，倒下了！](https://juejin.cn/post/7589876192120700937)
 1. [AI 向右，社区向左-Captain 的 2025年终总结](https://juejin.cn/post/7589509638354321435)
@@ -225,8 +225,8 @@
 1. [AI 纪元 3 年，2025 论前端程序员自救](https://juejin.cn/post/7589732701289234466)
 1. [好久不见，年终总结 - 一个前端仔有趣的 2025](https://juejin.cn/post/7589494074982645811)
 1. [vfit.js v2.0.0 发布：精简、语义化与核心重构 🎉](https://juejin.cn/post/7588865809473912872)
-1. [Smart Ticker - 支持任意字符的高性能文本差异动画滚动组件](https://juejin.cn/post/7589092567545004041)
 1. [Android 低延迟流媒体播放器实战：基于 FFmpeg 6.1.1 的 RTSP/RTMP 解决方案](https://juejin.cn/post/7589275237038243875)
+1. [Smart Ticker - 支持任意字符的高性能文本差异动画滚动组件](https://juejin.cn/post/7589092567545004041)
 1. [半年一百个页面，重构系统也重构了我对前端工作的理解](https://juejin.cn/post/7589509638355140635)
 1. [2025 前端开源三年，npm 发包卡我半天](https://juejin.cn/post/7589482741759033371)
 1. [iOS疑难Crash-_dispatch_barrier_waiter_redirect_or_wake 崩溃治理](https://juejin.cn/post/7589494074983727155)
@@ -235,32 +235,34 @@
 1. [🤖 AI 重构 Vue/React 组件再不瞎猜！社区划分算法实战](https://juejin.cn/post/7588733783571857446)
 1. [历史性突破！LCP 和 INP 终于覆盖所有主流浏览器，iOS 性能盲点彻底消失](https://juejin.cn/post/7588445332771881014)
 1. [凌晨两点磨锋芒 调试采坑莫慌张](https://juejin.cn/post/7589170021931892751)
-1. [旮旯c语言三个任务](https://juejin.cn/post/7589130173837951026)
 1. [当你不再热爱自己的工作和生活……](https://juejin.cn/post/7589494631006683171)
 1. [LogicFlow 交互新体验：告别直连，丝滑贝塞尔轨迹实战！🍫](https://juejin.cn/post/7589168816527949851)
 1. [一个普通魔法师的 2025 年度总结](https://juejin.cn/post/7589623325976199220)
 1. [Android   一套代码适配车机/手机横竖屏？看我如何用搞定小米、比亚迪、蔚来、理想、多品牌架构设计](https://juejin.cn/post/7589126920286945290)
-1. [看完你就是古希腊掌管Compose输入框的神！！！](https://juejin.cn/post/7589462007528947746)
-1. [Android 16 (Target 36) 应用适配指南](https://juejin.cn/post/7589246131585056803)
-1. [手把手教你用 Go + Eino 搭建一个企业级 RAG 知识库（含代码与踩坑）](https://juejin.cn/post/7588445332771733558)
 1. [2025年终总结](https://juejin.cn/post/7589856408709398543)
 1. [支付宝 KJS Compose 动态化方案与架构设计](https://juejin.cn/post/7589567313168154659)
 1. [🚀 这个 ElDialog 封装方案，让我的代码量减少了 80%](https://juejin.cn/post/7589513539845898275)
-1. [性能提升 4000%！我是如何解决 运营看板 不能跨库&跨库查询慢这个难题的](https://juejin.cn/post/7589494074982268979)
+1. [看完你就是古希腊掌管Compose输入框的神！！！](https://juejin.cn/post/7589462007528947746)
+1. [Android 16 (Target 36) 应用适配指南](https://juejin.cn/post/7589246131585056803)
+1. [手把手教你用 Go + Eino 搭建一个企业级 RAG 知识库（含代码与踩坑）](https://juejin.cn/post/7588445332771733558)
 1. [饺子的 2025 年终总结](https://juejin.cn/post/7589839019717034034)
+1. [性能提升 4000%！我是如何解决 运营看板 不能跨库&跨库查询慢这个难题的](https://juejin.cn/post/7589494074982268979)
 1. [Manus被收购，智谱也定了8天后上市](https://juejin.cn/post/7589325011544637478)
 1. [从0到30+：智能家居配网协议融合的实战与思考](https://juejin.cn/post/7589568455173275686)
+1. [以浏览器多进程的角度解构页面渲染的整个流程](https://juejin.cn/post/7589509638354812955)
 1. [⏰前端周刊第446期（2025年12月22日–12月27日）](https://juejin.cn/post/7589172193151500324)
 1. [LogicFlow 交互新体验：让锚点"活"起来，鼠标跟随动效实战！🧲](https://juejin.cn/post/7589107312112648201)
-1. [以浏览器多进程的角度解构页面渲染的整个流程](https://juejin.cn/post/7589509638354812955)
 1. [前端性能优化之性能指标篇](https://juejin.cn/post/7589553045157330984)
+1. [SpringBoot+SPI机制，轻松实现可插拔组件](https://juejin.cn/post/7589246131586121763)
 1. [浏览器处理Base64数据的速度有多快？](https://juejin.cn/post/7589220406319743012)
 1. [鸿蒙激励的羊毛，你"薅"到了么？](https://juejin.cn/post/7589445154533392436)
-1. [SpringBoot+SPI机制，轻松实现可插拔组件](https://juejin.cn/post/7589246131586121763)
-1. [前端实时语音转写：原生 MediaRecorder API 实践](https://juejin.cn/post/7589092567544659977)
 1. [我把微信读书年度报告扔给AI，AI挖掘出了我不为人知的一面](https://juejin.cn/post/7589171972446289962)
+1. [如何查看 SpringBoot 当前线程数？3 种方法亲测有效](https://juejin.cn/post/7589126920287109130)
 1. [Android 高斯模糊（2）BackgroundBlurDrawable使用及相关Bug](https://juejin.cn/post/7589107312113516553)
+1. [前端实时语音转写：原生 MediaRecorder API 实践](https://juejin.cn/post/7589092567544659977)
+1. [Markdown 编辑器技术调研](https://juejin.cn/post/7589838714449952809)
 1. [2025年终总结：AI浪潮下的一年](https://juejin.cn/post/7589828902158352434)
+1. [旮旯c语言三个任务](https://juejin.cn/post/7589130173837951026)
 1. [一文了解 Anthropic 新推出的 Claude agent 的 Skills 标准](https://juejin.cn/post/7589482741759590427)
 <!-- END JUEJIN -->
 
@@ -269,7 +271,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-01-02 00:12:40 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:10:36 +0800 -->
 1. [ 即将告别 2025 年，这些「数字」值得被你留下](https://sspai.com/post/104890)
 1. [新玩意 231｜少数派的编辑们最近买了啥？](https://sspai.com/post/104895)
 1. [AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
@@ -317,13 +319,23 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-01-02 00:12:39 +0800 -->
-1. [家庭生活](https://weread.qq.com/web/bookDetail/4a9326d0722fa7074a94daa)
-1. [南枝：乱世大女主](https://weread.qq.com/web/bookDetail/fcd32620813abae40g013345)
-1. [大宋诡案集](https://weread.qq.com/web/bookDetail/9a332c20813abaf92g019f78)
-1. [侯门长媳：飒爽贵女×腹黑侯爷](https://weread.qq.com/web/bookDetail/8fb32580813abb029g019d37)
+<!-- 最后更新时间 2026-01-02 01:10:34 +0800 -->
 1. [如何了解一个人](https://weread.qq.com/web/bookDetail/94632490813abb094g0190a0)
+1. [金钱的艺术](https://weread.qq.com/web/bookDetail/c6032f00813abb0a2g019f7e)
+1. [家庭生活](https://weread.qq.com/web/bookDetail/4a9326d0722fa7074a94daa)
+1. [像马一样思考：一个非传统牛仔的人生经验、领导力和同理心](https://weread.qq.com/web/bookDetail/51f32e30813ab82d4g018dc1)
+1. [赚1000元的1000种方法](https://weread.qq.com/web/bookDetail/0af327e0813abb0aag01345b)
+1. [海鸥乔纳森（2018版）](https://weread.qq.com/web/bookDetail/3e2320b071a400413e29289)
+1. [认知进阶：你的大脑为什么会骗你](https://weread.qq.com/web/bookDetail/5f532fa0813abaf76g0154e7)
+1. [侯门长媳：飒爽贵女×腹黑侯爷](https://weread.qq.com/web/bookDetail/8fb32580813abb029g019d37)
+1. [大宋诡案集](https://weread.qq.com/web/bookDetail/9a332c20813abaf92g019f78)
+1. [南枝：乱世大女主](https://weread.qq.com/web/bookDetail/fcd32620813abae40g013345)
+1. [我要快乐，不必正常](https://weread.qq.com/web/bookDetail/5c832d307168d4455c84097)
+1. [偶遇：在漫游中感知艺术](https://weread.qq.com/web/bookDetail/8c7325a0813ab9c1cg0190dc)
+1. [金瓯缺（第三届茅盾文学奖获奖作品｜微信读书特别版）](https://weread.qq.com/web/bookDetail/56332e0072354282563d313)
 1. [度春风：明艳美人×禁欲太子](https://weread.qq.com/web/bookDetail/62e32090813abaf2bg017428)
+1. [毛姆辛辣通透文集](https://weread.qq.com/web/bookDetail/25332040813aba09eg0127be)
+1. [别离歌](https://weread.qq.com/web/bookDetail/b3f32960813aba0f7g0152c8)
 1. [剑来（1-54 完结精校版）](https://weread.qq.com/web/bookDetail/dee32e1071db086fdeef491)
 1. [我永远也当不了大人](https://weread.qq.com/web/bookDetail/bab32f70813ab83d6g015cfb)
 1. [我与地坛（插图版）](https://weread.qq.com/web/bookDetail/48432c1071ff64f54849ef8)
@@ -345,54 +357,70 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-01-02 00:12:43 +0800 -->
+<!-- 最后更新时间 2026-01-02 01:11:06 +0800 -->
 1. [一起为梦想奋斗为幸福打拼](https://www.kuaishou.com/short-video/3x264d85fzcn58w)
-1. [大湾区新年音乐会](https://www.kuaishou.com/short-video/3x7sib3a2cvuxhu)
-1. [土耳其对中国公民免签](https://www.kuaishou.com/short-video/3xwkn4yjyy3bd9g)
-1. [2026年新程已启](https://www.kuaishou.com/short-video/3xaxqd4fee4qkjg)
-1. [张堃鹏战胜陈思明晋级败部4强](https://www.kuaishou.com/short-video/3x22q5zqvm4wrdk)
-1. [陶喆跨年百人模仿秀](https://www.kuaishou.com/short-video/3xqsxcmx9xgpzak)
-1. [冰雪大世界跨年夜烟花](https://www.kuaishou.com/short-video/3x9fr9dzzphyup4)
 1. [六大行官宣数字人民币计息](https://www.kuaishou.com/short-video/3xrvtmsx8u5aqh6)
-1. [和21世纪一起进入绚烂的夏天](https://www.kuaishou.com/short-video/3xn8vwstngb78h2)
-1. [永州摊主兑现免费炒饭承诺](https://www.kuaishou.com/short-video/3xxahex68yydv79)
-1. [空客在华份额超越美国波音](https://www.kuaishou.com/short-video/3xp4tf8zghnw2t9)
-1. [95岁巴菲特正式退休](https://www.kuaishou.com/short-video/3xb8e9ja6ysmfdg)
-1. [郑丽文许愿两岸携手向前](https://www.kuaishou.com/short-video/3x2scx4686xn6g9)
-1. [小孩哥用纸板cos深蓝](https://www.kuaishou.com/short-video/3xae3vetx438jw4)
-1. [美军方连续打击多艘贩毒船致8死](https://www.kuaishou.com/short-video/3x86pwdrrbewnak)
-1. [苑举正教授称两岸统一是大势所趋](https://www.kuaishou.com/short-video/3xjrdhb468bcfvs)
+1. [天宫与神州同框的中国式浪漫](https://www.kuaishou.com/short-video/3xrabh3ehauuhz9)
+1. [2026年新程已启](https://www.kuaishou.com/short-video/3xaxqd4fee4qkjg)
 1. [一条视频看懂2026国补](https://www.kuaishou.com/short-video/3xbc3enzw5wging)
-1. [特效憋笑挑战](https://www.kuaishou.com/short-video/3xadm9rvq38rx7q)
-1. [记录中国空间站飞过月亮](https://www.kuaishou.com/short-video/3xm8hk2ngc6pu6u)
 1. [2026年的第一场雪](https://www.kuaishou.com/short-video/3xtbbgqwsqsrhqy)
-1. [登陆少年2026新年新耶已解冻](https://www.kuaishou.com/short-video/3xk3w52y7r4e6w2)
+1. [土耳其对中国公民免签](https://www.kuaishou.com/short-video/3xwkn4yjyy3bd9g)
+1. [和21世纪一起进入绚烂的夏天](https://www.kuaishou.com/short-video/3xn8vwstngb78h2)
+1. [2026年多放5天假](https://www.kuaishou.com/short-video/3x7huj5vdgmkze2)
+1. [永州摊主兑现免费炒饭承诺](https://www.kuaishou.com/short-video/3xxahex68yydv79)
+1. [加蓬政府宣布解散国家队](https://www.kuaishou.com/short-video/3xr68eq2kyuhfk4)
+1. [丽江普洱滇超彩排](https://www.kuaishou.com/short-video/3xt7tmzgakns3gm)
+1. [特效憋笑挑战](https://www.kuaishou.com/short-video/3xadm9rvq38rx7q)
+1. [95岁巴菲特正式退休](https://www.kuaishou.com/short-video/3xb8e9ja6ysmfdg)
+1. [小孩哥用纸板cos深蓝](https://www.kuaishou.com/short-video/3xae3vetx438jw4)
+1. [四川卫视新年演唱会](https://www.kuaishou.com/short-video/3x7tfv322ffym8w)
+1. [苑举正教授称两岸统一是大势所趋](https://www.kuaishou.com/short-video/3xjrdhb468bcfvs)
+1. [郑丽文许愿两岸携手向前](https://www.kuaishou.com/short-video/3x2scx4686xn6g9)
+1. [陶喆跨年百人模仿秀](https://www.kuaishou.com/short-video/3xqsxcmx9xgpzak)
+1. [张峻豪Maria摇](https://www.kuaishou.com/short-video/3xkb7ch5ms2ek9w)
 1. [2025猫梗大回顾](https://www.kuaishou.com/short-video/3xbes7u5gd25ani)
 1. [美国2025年自信登场尴尬收场](https://www.kuaishou.com/short-video/3xcpcs9xh3mfgz4)
 1. [张凌赫进行曲名不虚传](https://www.kuaishou.com/short-video/3xhrabae5aqn2pw)
-1. [精忠报国DJ舞蹈](https://www.kuaishou.com/short-video/3xuxmkijbuqqrak)
-1. [陶喆依旧像没彩排过一样](https://www.kuaishou.com/short-video/3xcfctb3f7ye584)
+1. [黄渤新年祝福转场](https://www.kuaishou.com/short-video/3xahk6b46dqxgv4)
+1. [孙颖莎说的话含金量还在上升](https://www.kuaishou.com/short-video/3xwgr2mc4n5ravm)
 1. [宋妍霏身材](https://www.kuaishou.com/short-video/3xt3uwvr385sif6)
+1. [陶喆依旧像没彩排过一样](https://www.kuaishou.com/short-video/3xcfctb3f7ye584)
+1. [2025神曲合集](https://www.kuaishou.com/short-video/3xmrgwdfvn48qa9)
+1. [穆祉丞跨年演绎偷偷做个梦](https://www.kuaishou.com/short-video/3xgugv7if7dky7u)
+1. [空客在华份额超越美国波音](https://www.kuaishou.com/short-video/3xp4tf8zghnw2t9)
+1. [博雅 烟花下的在逃公主](https://www.kuaishou.com/short-video/3x5j2rtt8pq4f52)
+1. [大湾区新年音乐会](https://www.kuaishou.com/short-video/3x7sib3a2cvuxhu)
+1. [记录中国空间站飞过月亮](https://www.kuaishou.com/short-video/3xm8hk2ngc6pu6u)
+1. [白鹿红红火火新年造型](https://www.kuaishou.com/short-video/3xc8eqzm4f99qum)
+1. [跨年还得看真夫妻](https://www.kuaishou.com/short-video/3xppsc6jfibe48a)
+1. [360度全景回顾跨年烟花](https://www.kuaishou.com/short-video/3x7rwuxj8t3y6gc)
+1. [江苏电影票房全国第二](https://www.kuaishou.com/short-video/3x6u57g2jumihrm)
+1. [王星越新年造型](https://www.kuaishou.com/short-video/3xdwvqwf6u6gyiu)
+1. [冰雪大世界跨年夜烟花](https://www.kuaishou.com/short-video/3x9fr9dzzphyup4)
+1. [上海外滩跨年夜好热闹](https://www.kuaishou.com/short-video/3xg9u5xsd5aa8v2)
+1. [国家科技新政打出“组合拳”](https://www.kuaishou.com/short-video/3xh9ygn5y39dr9u)
+1. [湖南卫视跨晚全是神曲串烧](https://www.kuaishou.com/short-video/3xf98z8vpuqxqm9)
+1. [中国妇女报2025年度女性新闻人物](https://www.kuaishou.com/short-video/3xtxyezrfifzie9)
+1. [台湾民众走上街头发出怒吼](https://www.kuaishou.com/short-video/3xzwuuyx6fswmj6)
+1. [张凌赫脸在江山在](https://www.kuaishou.com/short-video/3xiq2kq6tfnax4e)
+1. [用非遗打开不一般的烟花](https://www.kuaishou.com/short-video/3xzr656f2j67r34)
+1. [元旦开飞机回家是什么体验](https://www.kuaishou.com/short-video/3x3yq42udgjsy8u)
+1. [跨年夜是一场巨大的戒断](https://www.kuaishou.com/short-video/3xex3ur52g4xrde)
+1. [1600度的花流淌中国人的爱和浪漫](https://www.kuaishou.com/short-video/3xddjssqnbrqvyw)
+1. [张堃鹏战胜陈思明晋级败部4强](https://www.kuaishou.com/short-video/3x22q5zqvm4wrdk)
+1. [美军方连续打击多艘贩毒船致8死](https://www.kuaishou.com/short-video/3x86pwdrrbewnak)
+1. [登陆少年2026新年新耶已解冻](https://www.kuaishou.com/short-video/3xk3w52y7r4e6w2)
+1. [精忠报国DJ舞蹈](https://www.kuaishou.com/short-video/3xuxmkijbuqqrak)
 1. [沈佳润跑调发文致歉](https://www.kuaishou.com/short-video/3xdkkq5hg3ikbgg)
 1. [回眸一笑百媚生](https://www.kuaishou.com/short-video/3xapm9y52trrfgg)
-1. [四川卫视新年演唱会](https://www.kuaishou.com/short-video/3x7tfv322ffym8w)
 1. [瑞士滑雪小镇发生爆炸多人死伤](https://www.kuaishou.com/short-video/3xjktfiau4a82dg)
-1. [2026年多放5天假](https://www.kuaishou.com/short-video/3x7huj5vdgmkze2)
-1. [2025神曲合集](https://www.kuaishou.com/short-video/3xmrgwdfvn48qa9)
 1. [拍下新一年的自己](https://www.kuaishou.com/short-video/3x9bmub2hmh2tde)
 1. [吱吱摇](https://www.kuaishou.com/short-video/3xg6qcd759xegrq)
 1. [国台办批赖清德谬论](https://www.kuaishou.com/short-video/3xwzq33ijhvrv5c)
 1. [有钱没钱回家过年](https://www.kuaishou.com/short-video/3x5d94zahr3bge9)
-1. [湖南卫视跨晚全是神曲串烧](https://www.kuaishou.com/short-video/3xf98z8vpuqxqm9)
-1. [博雅 烟花下的在逃公主](https://www.kuaishou.com/short-video/3x5j2rtt8pq4f52)
-1. [跨年还得看真夫妻](https://www.kuaishou.com/short-video/3xppsc6jfibe48a)
 1. [2026年顺顺顺发发发](https://www.kuaishou.com/short-video/3xz6d26vf53fv6q)
 1. [我怎么不在海南](https://www.kuaishou.com/short-video/3xciva4n88fe57c)
-1. [元旦开飞机回家是什么体验](https://www.kuaishou.com/short-video/3x3yq42udgjsy8u)
-1. [用非遗打开不一般的烟花](https://www.kuaishou.com/short-video/3xzr656f2j67r34)
-1. [台湾民众走上街头发出怒吼](https://www.kuaishou.com/short-video/3xzwuuyx6fswmj6)
 1. [一口气跳完12月热门摇](https://www.kuaishou.com/short-video/3xd5wqwwhyrstaw)
-1. [张凌赫脸在江山在](https://www.kuaishou.com/short-video/3xiq2kq6tfnax4e)
 1. [香港特区立法会议员宣誓](https://www.kuaishou.com/short-video/3xuxh5gfbnimqf6)
 1. [肖战跨年晚会直拍](https://www.kuaishou.com/short-video/3xqshirujvsamhs)
 1. [檀健次新歌首秀舞台](https://www.kuaishou.com/short-video/3xpyz5nystpykji)
