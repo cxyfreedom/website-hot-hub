@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-01-25 06:09:42 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:55 +0800 -->
 1. [9点1氪丨高铁车厢二氧化碳浓度超标，12306客服回应；中国太空旅游预售票300万一张；五家韩国航司26日起禁止机舱内使用充电宝](https://36kr.com/p/3652729313108355)
 1. [马斯克预言「后人类时代」降临](https://36kr.com/p/3652752481132933)
 1. [卖课7年狂赚千万，被群嘲的“性商教母”不能一笑了之](https://36kr.com/p/3653100679963011)
@@ -24,7 +24,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-01-25 06:09:42 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:54 +0800 -->
 1. [真的笑不动了！！！《下一个是谁6》04](https://b23.tv/BV1tKzcB1ECE)
 1. [羊村第五季（3）](https://b23.tv/BV15XzuBjEFk)
 1. [马上又到了山东人天天吃水饺的季节了](https://b23.tv/BV134zLBtE5G)
@@ -137,7 +137,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-01-25 06:09:42 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:54 +0800 -->
 1. [remotion-dev/remotion (TypeScript) ⭐29,218](https://github.com/remotion-dev/remotion)
 1. [VectifyAI/PageIndex (Python) ⭐8,020](https://github.com/VectifyAI/PageIndex)
 1. [OpenBMB/UltraRAG (Python) ⭐3,335](https://github.com/OpenBMB/UltraRAG)
@@ -213,7 +213,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-01-25 06:09:42 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:55 +0800 -->
 1. [Flutter 又迎大坑修改？iOS 26 键盘变化可能带来大量底层改动](https://juejin.cn/post/7596245612558319625)
 1. [Android Gradle Plugin 9.0 发布，为什么这会是个史诗级大坑版本](https://juejin.cn/post/7597900782910685203)
 1. [深度复刻小米AI官网交互动画](https://juejin.cn/post/7598005428258340927)
@@ -249,8 +249,8 @@
 1. [Python 与 Nodejs 哪个更快](https://juejin.cn/post/7597989474971025458)
 1. [微软发布了 2026 年 AI 发展的 7 个趋势](https://juejin.cn/post/7597996070510067750)
 1. [Three.js实现更真实的3D地球🌍动态昼夜交替](https://juejin.cn/post/7597699796200636426)
-1. [一文带你上手 Skills：构建可复用的 AI 能力体系](https://juejin.cn/post/7597653098563895350)
 1. [基于 AST 的前端架构迁移实践](https://juejin.cn/post/7598376873546825771)
+1. [一文带你上手 Skills：构建可复用的 AI 能力体系](https://juejin.cn/post/7597653098563895350)
 1. [AI不止工具：积累资产 + 创造未来](https://juejin.cn/post/7597973595130380340)
 1. [MCP 入门 03：消弭幻觉！让AI按需读文档、读源码、读类型](https://juejin.cn/post/7597266967139074082)
 1. [有了MCP，为什么你还需要skills](https://juejin.cn/post/7597266967138746402)
@@ -272,7 +272,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-01-25 06:09:44 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:57 +0800 -->
 1. [新玩意 233｜少数派的编辑们最近买了啥？](https://sspai.com/post/105458)
 1. [新玩意 232｜少数派的编辑们最近买了啥？](https://sspai.com/post/105270)
 1. [浏览器扩展合集：派友近期推荐的 7 款浏览器扩展](https://sspai.com/post/105249)
@@ -320,7 +320,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-01-25 06:09:42 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:55 +0800 -->
 1. [中国古代算命术：命理学入门经典](https://weread.qq.com/web/bookDetail/83332c80813abb1bbg01466d)
 1. [野性关系](https://weread.qq.com/web/bookDetail/d0e328e0813abb1b1g01133e)
 1. [动物本能：罗伯特萨波斯基力作](https://weread.qq.com/web/bookDetail/57832560813ab79a9g0106e0)
@@ -352,63 +352,78 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-01-25 06:10:15 +0800 -->
+<!-- 最后更新时间 2026-01-25 07:09:57 +0800 -->
 1. [赓续中华文脉 谱写时代华章](https://www.kuaishou.com/short-video/3x5g8ejrzixpyd6)
 1. [U23国足0比4日本收获亚军](https://www.kuaishou.com/short-video/3x3p69kzzkrb59g)
-1. [成飞首次公开展示黄皮歼20A](https://www.kuaishou.com/short-video/3xxqgdv6nx57242)
-1. [2026年货币政策将如何发力](https://www.kuaishou.com/short-video/3xqf52bvbjp6dxg)
-1. [亚乒联盟亚洲杯倒计时10天](https://www.kuaishou.com/short-video/3xau9rjuk49ujza)
-1. [吉林村民家门口现老虎](https://www.kuaishou.com/short-video/3xdgc3iw2pmj6wq)
-1. [哈尔滨一球成名](https://www.kuaishou.com/short-video/3xmapai75expyae)
-1. [李昊别哭](https://www.kuaishou.com/short-video/3xx573gqanvqc46)
 1. [87岁老人售30年前黄金](https://www.kuaishou.com/short-video/3xhgy9cy94sv4s2)
-1. [安踏给十年老员工发32克金条](https://www.kuaishou.com/short-video/3x8fwdmfg9a63qs)
-1. [退钱哥回血了](https://www.kuaishou.com/short-video/3xg4rebp7b3cph6)
-1. [关于草莓的谣言一次讲清](https://www.kuaishou.com/short-video/3xniyz222rxfia2)
-1. [大三男生涉强奸强制侮辱罪被起诉](https://www.kuaishou.com/short-video/3xc2swt45fff654)
-1. [特朗普欲将加拿大变第51州](https://www.kuaishou.com/short-video/3x4jeahh7ar7hr6)
+1. [2026年货币政策将如何发力](https://www.kuaishou.com/short-video/3xqf52bvbjp6dxg)
+1. [家里有医生是什么体验](https://www.kuaishou.com/short-video/3xi3svpkya63q8g)
+1. [哈尔滨一球成名](https://www.kuaishou.com/short-video/3xmapai75expyae)
+1. [年年有熊光头强大变身](https://www.kuaishou.com/short-video/3xbuz3gstymwxxm)
 1. [25岁女教师宿舍病亡两天后被发现](https://www.kuaishou.com/short-video/3xt8h4ef4h9jd89)
-1. [直击U23亚洲杯中日大战](https://www.kuaishou.com/short-video/3xkr8r3fw2t2qmi)
+1. [吉林村民家门口现老虎](https://www.kuaishou.com/short-video/3xdgc3iw2pmj6wq)
+1. [郑州女子豪购60克金镯](https://www.kuaishou.com/short-video/3xzm73h57pf32yu)
+1. [李昊别哭](https://www.kuaishou.com/short-video/3xx573gqanvqc46)
+1. [关于草莓的谣言一次讲清](https://www.kuaishou.com/short-video/3xniyz222rxfia2)
+1. [骑士vs魔术](https://www.kuaishou.com/short-video/3xzcmc6xs7pqk54)
+1. [成飞首次公开展示黄皮歼20A](https://www.kuaishou.com/short-video/3xxqgdv6nx57242)
+1. [湖人vs独行侠](https://www.kuaishou.com/short-video/3xt8s8xhvhs84ti)
+1. [大三男生涉强奸强制侮辱罪被起诉](https://www.kuaishou.com/short-video/3xc2swt45fff654)
+1. [热火vs爵士](https://www.kuaishou.com/short-video/3xviyzw6d8f6x6e)
+1. [中国人大脑发育巅峰约在38岁](https://www.kuaishou.com/short-video/3xjm6cctsdcyaas)
+1. [亚乒联盟亚洲杯倒计时10天](https://www.kuaishou.com/short-video/3xau9rjuk49ujza)
+1. [安踏给十年老员工发32克金条](https://www.kuaishou.com/short-video/3x8fwdmfg9a63qs)
+1. [我的传世金龙很曼妙](https://www.kuaishou.com/short-video/3x8mt5nq3b443bu)
+1. [张又侠刘振立被查](https://www.kuaishou.com/short-video/3xudjcbh6pj7nvq)
 1. [丈夫抱怨妻子买榴莲](https://www.kuaishou.com/short-video/3xeeywuqrhmk2m2)
+1. [退钱哥回血了](https://www.kuaishou.com/short-video/3xg4rebp7b3cph6)
+1. [LGD力拼KZ](https://www.kuaishou.com/short-video/3xsiedzgpxvpfxe)
+1. [腊八粥和东北铁锅炖的美食碰撞](https://www.kuaishou.com/short-video/3xmkpbwuwxxn42u)
+1. [杨幂首次谈12年后“退休计划”](https://www.kuaishou.com/short-video/3xe4h39ydzqh4pu)
+1. [香港一男子手持菜刀冲出电梯砍人](https://www.kuaishou.com/short-video/3x7nx3zpuh2pz6e)
+1. [印军装甲车坠崖死伤数十人](https://www.kuaishou.com/short-video/3xax7m3bbszxx26)
+1. [近6万人验证的长寿配方出炉](https://www.kuaishou.com/short-video/3xfdpgbg5hng99a)
+1. [黄健翔直言没必要沮丧](https://www.kuaishou.com/short-video/3xbqmev6i2i2cwa)
+1. [哈尔滨冰雪装备升级加速](https://www.kuaishou.com/short-video/3xx7u53v7eds83i)
+1. [才家班个个是隐藏喜剧人](https://www.kuaishou.com/short-video/3xxygsih3b6h4w9)
+1. [狗狗让猫咪先喝水](https://www.kuaishou.com/short-video/3xahakzejudjzcc)
+1. [我钟意你所以我们是对方的意钟人](https://www.kuaishou.com/short-video/3xj55pn7h42uhha)
+1. [鸽子摇被玩出新高度](https://www.kuaishou.com/short-video/3x7hmc8uhfk8izy)
+1. [谷爱凌回应代表中国参加冬奥](https://www.kuaishou.com/short-video/3xzm35s4sjevn6g)
+1. [我们赢了很多场比赛才成为亚军的](https://www.kuaishou.com/short-video/3xs36nqpkc8gk3y)
+1. [熊出没大电影亮点揭秘](https://www.kuaishou.com/short-video/3xzbt4sx75e2s6u)
+1. [长春第一冰锅是什么](https://www.kuaishou.com/short-video/3xfcvgfnvxz7tii)
+1. [中国队来了个顶级电报员](https://www.kuaishou.com/short-video/3xtsfqcsfn23h5g)
+1. [被雪豹咬伤女子已从急诊转出](https://www.kuaishou.com/short-video/3xqgjj68jw3x2bw)
+1. [东北汽车摇](https://www.kuaishou.com/short-video/3xa4fzpanhihb36)
+1. [华人小伙携东京审判档案回国](https://www.kuaishou.com/short-video/3xfnbxv6x6u9giw)
+1. [廖智第四胎女儿出生](https://www.kuaishou.com/short-video/3xtpcuqmqxid3fu)
+1. [哥哥回应弟弟刺死见义勇为者](https://www.kuaishou.com/short-video/3x2p734h2tsxtwe)
+1. [贵州滑坡19人死亡失踪调查报告](https://www.kuaishou.com/short-video/3x4hkfq672eth5s)
+1. [大鑫乡村F1终极之战](https://www.kuaishou.com/short-video/3xyfa52t9jwcccg)
+1. [特朗普欲将加拿大变第51州](https://www.kuaishou.com/short-video/3x4jeahh7ar7hr6)
+1. [直击U23亚洲杯中日大战](https://www.kuaishou.com/short-video/3xkr8r3fw2t2qmi)
 1. [巴西总统批评特朗普欲取代联合国](https://www.kuaishou.com/short-video/3xpsa33sr77f36w)
 1. [白宫发布特朗普AI图遭群嘲](https://www.kuaishou.com/short-video/3xk94k7kqfv8myi)
-1. [中国人大脑发育巅峰约在38岁](https://www.kuaishou.com/short-video/3xjm6cctsdcyaas)
-1. [杨幂首次谈12年后“退休计划”](https://www.kuaishou.com/short-video/3xe4h39ydzqh4pu)
-1. [廖智第四胎女儿出生](https://www.kuaishou.com/short-video/3xtpcuqmqxid3fu)
-1. [年年有熊光头强大变身](https://www.kuaishou.com/short-video/3xbuz3gstymwxxm)
-1. [郑州女子豪购60克金镯](https://www.kuaishou.com/short-video/3xzm73h57pf32yu)
-1. [我们赢了很多场比赛才成为亚军的](https://www.kuaishou.com/short-video/3xs36nqpkc8gk3y)
 1. [Lululemon瑜伽裤太透明被下架](https://www.kuaishou.com/short-video/3xedna9catteh94)
-1. [腊八粥和东北铁锅炖的美食碰撞](https://www.kuaishou.com/short-video/3xmkpbwuwxxn42u)
 1. [黄金抢购潮堪比春运](https://www.kuaishou.com/short-video/3x8prpi77dwasvk)
 1. [U23国足已经创造历史了](https://www.kuaishou.com/short-video/3xxa46hk6kiqdzi)
 1. [iPhone Air直降2000元](https://www.kuaishou.com/short-video/3x3vpa4nf7fuxua)
 1. [寻隐花桥赶集开街](https://www.kuaishou.com/short-video/3xad5xmtdpanrkc)
 1. [2025中国流量新势力百强榜](https://www.kuaishou.com/short-video/3xsys6dwsebtrfc)
-1. [印军装甲车坠崖死伤数十人](https://www.kuaishou.com/short-video/3xax7m3bbszxx26)
 1. [U23国足进球被判无效](https://www.kuaishou.com/short-video/3x4dwfut9p79k86)
-1. [近6万人验证的长寿配方出炉](https://www.kuaishou.com/short-video/3xfdpgbg5hng99a)
 1. [刘浩存现身央视春晚彩排](https://www.kuaishou.com/short-video/3xx734qm8y83dzw)
 1. [高市政府正将日本引向战争国家](https://www.kuaishou.com/short-video/3xa3vtn4fu6zbsg)
 1. [器官捐献纳入见义勇为](https://www.kuaishou.com/short-video/3x5fwqf3j3puhsk)
-1. [谷爱凌回应代表中国参加冬奥](https://www.kuaishou.com/short-video/3xzm35s4sjevn6g)
 1. [三角洲s8赛季爆料](https://www.kuaishou.com/short-video/3x9fx7wum6dw8ck)
 1. [U23决赛现场满屏都是中国红](https://www.kuaishou.com/short-video/3xrw6kz5pzqq2d2)
-1. [被雪豹咬伤女子已从急诊转出](https://www.kuaishou.com/short-video/3xqgjj68jw3x2bw)
 1. [法国猫咪徒步约250公里回家](https://www.kuaishou.com/short-video/3xqiywrvc4khgpm)
-1. [长春第一冰锅是什么](https://www.kuaishou.com/short-video/3xfcvgfnvxz7tii)
-1. [哈尔滨冰雪装备升级加速](https://www.kuaishou.com/short-video/3xx7u53v7eds83i)
 1. [26岁国企出纳赌掉千万公款](https://www.kuaishou.com/short-video/3xe93tdsxeei3ai)
 1. [黄景瑜坐的不是飞船是中国速度](https://www.kuaishou.com/short-video/3xc3wvvz66pgixa)
 1. [印度主持人怒怼美国律师谬论](https://www.kuaishou.com/short-video/3xajch424rujr2y)
-1. [香港一男子手持菜刀冲出电梯砍人](https://www.kuaishou.com/short-video/3x7nx3zpuh2pz6e)
-1. [哥哥回应弟弟刺死见义勇为者](https://www.kuaishou.com/short-video/3x2p734h2tsxtwe)
-1. [中国队来了个顶级电报员](https://www.kuaishou.com/short-video/3xtsfqcsfn23h5g)
-1. [张又侠刘振立被查](https://www.kuaishou.com/short-video/3xudjcbh6pj7nvq)
 1. [三角洲s8通行证皮肤](https://www.kuaishou.com/short-video/3xe5huh4j9xm4cg)
 1. [美国退群加州进群](https://www.kuaishou.com/short-video/3xz5hai4b86srxk)
 1. [岳云鹏的男友照四连拍](https://www.kuaishou.com/short-video/3x5rw8fsgxw28ce)
-1. [狗狗让猫咪先喝水](https://www.kuaishou.com/short-video/3xahakzejudjzcc)
 1. [李昊又神扑](https://www.kuaishou.com/short-video/3xqgui6rm5svq64)
 1. [原来有钱真的能上天啊](https://www.kuaishou.com/short-video/3xfz4fsepqjv3z2)
 1. [小香猪池塘钓鱼大爷](https://www.kuaishou.com/short-video/3x4n5jdcrphan3e)
@@ -449,7 +464,6 @@
 1. [jk变装](https://www.kuaishou.com/short-video/3xqeq4reye6xckq)
 1. [李毅谈U23国足进攻线](https://www.kuaishou.com/short-video/3xs3bepam6hdusi)
 1. [U23国足门将李昊身价涨至2000万](https://www.kuaishou.com/short-video/3xjxdadi9vjh5e4)
-1. [东北汽车摇](https://www.kuaishou.com/short-video/3xa4fzpanhihb36)
 1. [甩车摇](https://www.kuaishou.com/short-video/3x3vsfpkjd4d264)
 1. [再见十八班翻红](https://www.kuaishou.com/short-video/3xsduasu74k9ej4)
 1. [一起为U23国足加油](https://www.kuaishou.com/short-video/3xnjmvwt5ci8vi2)
@@ -464,16 +478,12 @@
 1. [U23国足0比4日本收获亚军](https://www.kuaishou.com/short-video/3x9p49esk54a28m)
 1. [U23国足0比4落后日本](https://www.kuaishou.com/short-video/3xmgqeepi6xvmnc)
 1. [U23国足已经创造历史了](https://www.kuaishou.com/short-video/3xvsa6mv2evfeuu)
-1. [华人小伙携东京审判档案回国](https://www.kuaishou.com/short-video/3xfnbxv6x6u9giw)
 1. [上门女婿用砖砸死岳母被判无期](https://www.kuaishou.com/short-video/3xnpttz3tfaxkzi)
 1. [央视重温李云龙抗日](https://www.kuaishou.com/short-video/3xukx3s6wtauhkk)
 1. [三角洲s8通行证皮肤](https://www.kuaishou.com/short-video/3x74bzv8pvi8g4a)
-1. [鸽子摇被玩出新高度](https://www.kuaishou.com/short-video/3x7hmc8uhfk8izy)
 1. [雪域雄鹰vs临夏游乐汇](https://www.kuaishou.com/short-video/3xxyr8eejbe6t9e)
 1. [火箭vs活塞](https://www.kuaishou.com/short-video/3xcscnzn3r7k9ga)
-1. [黄健翔直言没必要沮丧](https://www.kuaishou.com/short-video/3xbqmev6i2i2cwa)
 1. [央视5台直播U23国足贺炜解说](https://www.kuaishou.com/short-video/3x4dfqq5t2ta96s)
-1. [大鑫乡村F1终极之战](https://www.kuaishou.com/short-video/3xyfa52t9jwcccg)
 1. [长沙女婿参加湘超选拔](https://www.kuaishou.com/short-video/3xpmmyexrjtnsmw)
 1. [永州球迷为U23国足加油](https://www.kuaishou.com/short-video/3xffwjtfc3xk6c4)
 1. [宁艺卓进行曲](https://www.kuaishou.com/short-video/3xjy5zretmea8fs)
@@ -483,14 +493,12 @@
 1. [U23国足0比2暂时落后日本](https://www.kuaishou.com/short-video/3x6dfk87i7t77pm)
 1. [国际球星为U23国足加油](https://www.kuaishou.com/short-video/3xf82hrcuj4ujas)
 1. [刘耀文卸妆后只有眉毛有变化](https://www.kuaishou.com/short-video/3xcfs3q4asbg5j6)
-1. [才家班个个是隐藏喜剧人](https://www.kuaishou.com/short-video/3xxygsih3b6h4w9)
 1. [熬夜看U23国足](https://www.kuaishou.com/short-video/3x53dr3xjuz938q)
 1. [永州vs湛江](https://www.kuaishou.com/short-video/3x45na36sw34pfu)
 1. [大鑫乡村F1大咖云集](https://www.kuaishou.com/short-video/3x3x6p4maknsk5m)
 1. [假装无所谓的留守儿童小芬](https://www.kuaishou.com/short-video/3x2brcqqvpim26k)
 1. [三角洲S8新赛季前瞻直播](https://www.kuaishou.com/short-video/3xebeyqcvcbhagu)
 1. [U23亚洲杯决赛中国vs日本](https://www.kuaishou.com/short-video/3x9w8vzbwijqu9c)
-1. [贵州滑坡19人死亡失踪调查报告](https://www.kuaishou.com/short-video/3x4hkfq672eth5s)
 1. [熊出没新春盛典官宣](https://www.kuaishou.com/short-video/3xs49wvrjgewzmi)
 1. [韩红在西安化身最强吃货](https://www.kuaishou.com/short-video/3xxmvi9qadkagjy)
 1. [邪恶猫猫入驻快手](https://www.kuaishou.com/short-video/3xw3bymwxm8496c)
@@ -499,7 +507,6 @@
 1. [U23国足要再再再再创历史](https://www.kuaishou.com/short-video/3xav9igdhxis5tw)
 1. [U23决赛现场满屏都是中国红](https://www.kuaishou.com/short-video/3xjamrzcq9fbd6c)
 1. [女出纳挥霍千万公款整容买豪车](https://www.kuaishou.com/short-video/3x9b8mewsb497xe)
-1. [熊出没大电影亮点揭秘](https://www.kuaishou.com/short-video/3xzbt4sx75e2s6u)
 1. [球迷齐唱国歌为中国队加油](https://www.kuaishou.com/short-video/3xcefjd52jmqf89)
 1. [你要钻石还是要我](https://www.kuaishou.com/short-video/3xfvxh3g9hszirw)
 <!-- END KUAISHOU -->
