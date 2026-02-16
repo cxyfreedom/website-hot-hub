@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-02-16 22:37:08 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:19 +0800 -->
 1. [2025年逾12.6万个技术岗位消失——这些技能现在才是真正的“金饭碗”](https://36kr.com/p/3649220169834626)
 1. [突发，OpenClaw之父宣布加入OpenAI，小扎抢人失败](https://36kr.com/p/3685298858684032)
 1. [今年春节，这届年轻人决定不演了](https://36kr.com/p/3685322613715465)
@@ -36,7 +36,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-02-16 22:37:08 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:18 +0800 -->
 1. [《模仿100种声音》原视频来啦！](https://b23.tv/BV1iWZWBTEHA)
 1. [大学生春晚2026](https://b23.tv/BV1XCcEzfEye)
 1. [【苏新皓】《STAY》还能这样剪?情人节自制cover当礼物，点击欣赏天才爱豆的又一神级创作](https://b23.tv/BV1yXZjBPEn4)
@@ -185,7 +185,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-02-16 22:37:08 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:19 +0800 -->
 1. [alibaba/zvec (C++) ⭐1,834](https://github.com/alibaba/zvec)
 1. [nautechsystems/nautilus_trader (Rust) ⭐19,132](https://github.com/nautechsystems/nautilus_trader)
 1. [rowboatlabs/rowboat (TypeScript) ⭐6,552](https://github.com/rowboatlabs/rowboat)
@@ -266,18 +266,17 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-02-16 22:37:08 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:19 +0800 -->
 1. [如何零成本搭建个人站点](https://juejin.cn/post/7605807405306740799)
 1. [Claude Code 已经 100% 自己写代码，为什么 Anthropic 还有上百个工程职位空缺？](https://juejin.cn/post/7606519452976807986)
 1. [Flutter 正在计划提供 Packaged AI Assets 的支持，让你的包/插件可以更好被 AI 理解和选择](https://juejin.cn/post/7606236473279692826)
-1. [爆肝 2 天，用 GLM5 开发了 OpenClaw 接入微信 bot，已开源！](https://juejin.cn/post/7605881632542326835)
 1. [前端将死，Agent 永生](https://juejin.cn/post/7605912122628980774)
+1. [爆肝 2 天，用 GLM5 开发了 OpenClaw 接入微信 bot，已开源！](https://juejin.cn/post/7605881632542326835)
 1. [用 OpenClaw 做视频：播放量从几十涨到 9000，成本一毛钱](https://juejin.cn/post/7606173847994023990)
 1. [写了个 Spring Boot 防重复提交的轮子，已发到 Maven Central](https://juejin.cn/post/7606195582512627750)
 1. [【2025 年终总结】北漂五年，而立，婚礼，折叠车](https://juejin.cn/post/7605885766168821812)
 1. [2025 年客户端技术盘点与 2026 年技术展望](https://juejin.cn/post/7605941424543776810)
 1. [写给年轻程序员的几点小建议](https://juejin.cn/post/7606155928197070900)
-1. [Openclaw + OpenCode 才是 vibe coding 的最棒组合！](https://juejin.cn/post/7605965881412812846)
 1. [从n8n到Claude Skills：轻松搞定小红书热门美食手账，3分钟出图，小白也能会!](https://juejin.cn/post/7605985547569397766)
 1. [从少年到父亲：我在异乡的第一个年](https://juejin.cn/post/7605905414473940998)
 1. [KIE Drools 10.x 规则引擎快速入门](https://juejin.cn/post/7605811866908753929)
@@ -297,17 +296,18 @@
 1. [NVIDIA免费API的申请与配置](https://juejin.cn/post/7606186471319289894)
 1. [TinyEngine 2.10 版本发布：零代码 CRUD、云端协作，开发效率再升级！](https://juejin.cn/post/7605965881413861422)
 1. [飞书聊天直接生视频！OpenClaw × Seedance Skill王炸组合](https://juejin.cn/post/7605941424543596586)
+1. [删掉 40 行代码，性能飙 400 倍？OpenJDK 这次把“慢如 /proc”按在地上摩擦！](https://juejin.cn/post/7605905414473990150)
 1. [实战A2UI：从JSON到像素——深入Lit渲染引擎](https://juejin.cn/post/7605898186772267054)
 1. [GLM-5 拉高开源上限，离一人公司更近了](https://juejin.cn/post/7605888927715442726)
 1. [零 JavaScript 的性能优化视频嵌入](https://juejin.cn/post/7605807405307412543)
 1. [90%程序员还在让 AI 补代码，1%已经在指挥 AI 军团](https://juejin.cn/post/7606187608823578676)
 1. [使用LoRA微调Gemma实现移动端推理](https://juejin.cn/post/7605965881412649006)
-1. [删掉 40 行代码，性能飙 400 倍？OpenJDK 这次把“慢如 /proc”按在地上摩擦！](https://juejin.cn/post/7605905414473990150)
 1. [重构开发工具链：当CLI可视化遇到数据流编排——OpenVizUI & SteerDock 开源实践](https://juejin.cn/post/7605898186771365934)
 1. [Claude4.6还是牛，给GLM5出了10个“毒题”！](https://juejin.cn/post/7605885766167806004)
 1. [手把手从 0 诠释大模型 API 的本质: Tools + MCP + Skills](https://juejin.cn/post/7606548472221990954)
 1. [一天一个开源项目（第23篇）：PageLM - 开源 AI 教育平台，把学习材料变成互动资源](https://juejin.cn/post/7606519452976873522)
 1. [我的2025年终总结，回归过程](https://juejin.cn/post/7606324035640737792)
+1. [i18n Ally Next：重新定义 VS Code 国际化开发体验](https://juejin.cn/post/7606236473276956698)
 1. [基于Spring Boot + Vue项目online_learn的权限控制机制分析](https://juejin.cn/post/7606182668330942500)
 1. [翻译：2026年了，直接用 PostgreSQL 吧](https://juejin.cn/post/7605985547578195974)
 1. [『n8n』让大模型识别图片内容](https://juejin.cn/post/7605965881413632046)
@@ -317,6 +317,7 @@
 1. [视频生成推理加速实践：基于全局时间索引的序列并行 3D 位置编码优化](https://juejin.cn/post/7605888927714787366)
 1. [构建无障碍组件之Disclosure Pattern](https://juejin.cn/post/7605816833193115648)
 1. [一天一个开源项目（第24篇）：OpenClawInstaller - 一键部署私人 AI 助手 OpenClaw](https://juejin.cn/post/7606594349582123034)
+1. [Openclaw + OpenCode 才是 vibe coding 的最棒组合！](https://juejin.cn/post/7605965881412812846)
 1. [1美元雇佣顶级架构师？MiniMax M2.5要把Agent价格打穿](https://juejin.cn/post/7605888927715688486)
 1. [测完 GLM-5 我沉默了：国产开源模型什么时候这么能打了？](https://juejin.cn/post/7605529884823420991)
 1. [Flutter 3.41 发布，快来看看有什么更新吧，这是一个有小惊喜的版本](https://juejin.cn/post/7605490752096829503)
@@ -366,7 +367,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-02-16 22:37:09 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:20 +0800 -->
 1. [OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流](https://sspai.com/post/106232)
 1. [从特斯拉一日自驾，看纯电在日本的实际体验](https://sspai.com/post/106020)
 1. [新玩意 235｜少数派的编辑们最近买了啥？](https://sspai.com/post/106090)
@@ -415,7 +416,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-02-16 22:37:08 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:19 +0800 -->
 1. [林门郑氏](https://weread.qq.com/web/bookDetail/a9b324b0813abb2b5g0151d1)
 1. [投资第1课](https://weread.qq.com/web/bookDetail/89b322f0813aba568g0116d0)
 1. [1小时读懂黄金投资](https://weread.qq.com/web/bookDetail/1e532660813abb2ccg01979c)
@@ -449,54 +450,82 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-02-16 22:37:10 +0800 -->
+<!-- 最后更新时间 2026-02-16 23:30:21 +0800 -->
 1. [“小家”与“大家”](https://www.kuaishou.com/short-video/3x8dzx9yu3ebuhe)
 1. [央视马年春晚直播](https://www.kuaishou.com/short-video/3xab3igrac5ese6)
-1. [哈尔滨春晚分会场好有人情味](https://www.kuaishou.com/short-video/3xccptci6bpgkqm)
+1. [合肥春晚分会场满满未来感](https://www.kuaishou.com/short-video/3xnz4nbspcedjva)
 1. [过春节这些防火细节请注意](https://www.kuaishou.com/short-video/3xerd5aaf8pawri)
+1. [谁给迪丽热巴化的妆](https://www.kuaishou.com/short-video/3xiq6iq7ynq9ci6)
+1. [沈腾在春晚后台疯了](https://www.kuaishou.com/short-video/3xtmdwj8d7rnces)
+1. [羞答答的二舅静悄悄的开](https://www.kuaishou.com/short-video/3x6gihv4quqc3i4)
+1. [章若楠变装](https://www.kuaishou.com/short-video/3xih5ya6vgxv3qq)
+1. [王菲水晶泪滴耳坠](https://www.kuaishou.com/short-video/3xqwr5xiu528hte)
+1. [邓超魔丸变灵珠](https://www.kuaishou.com/short-video/3xp4hunksihvfqm)
+1. [凤凰传奇一出场就是国泰民安](https://www.kuaishou.com/short-video/3xwbybjvzx2t2nc)
+1. [“春运绿皮车严重超员”不实](https://www.kuaishou.com/short-video/3x9s9g2nucnwj6m)
+1. [撒贝宁身高](https://www.kuaishou.com/short-video/3xm43rxq7h43us6)
+1. [孙千好长的腿](https://www.kuaishou.com/short-video/3xafq9jyyiyaw3m)
+1. [春晚请离我的私生活远一点](https://www.kuaishou.com/short-video/3xthjepf9xnka42)
+1. [白鹿央视马年春晚](https://www.kuaishou.com/short-video/3xuqmx3wf4z5fz2)
+1. [宋佳和女儿一起上春晚了](https://www.kuaishou.com/short-video/3xt94dpabxjv849)
+1. [机器人是成龙带出来的吧](https://www.kuaishou.com/short-video/3xeipqe9gvuszdu)
+1. [还以为岳云鹏和孙越瘦了](https://www.kuaishou.com/short-video/3xaefamwtyzd5ea)
+1. [撒贝宁眉毛](https://www.kuaishou.com/short-video/3xgn8txze82nk6w)
+1. [只有春晚能制裁王一博的发型](https://www.kuaishou.com/short-video/3x2jkjskqgya87c)
+1. [别眨眼春晚首个机器人魔术来了](https://www.kuaishou.com/short-video/3xj5ftmes2fecdc)
+1. [今天你洗头了吗](https://www.kuaishou.com/short-video/3xbxi8fa22pd8ma)
+1. [李现春晚妆造半永久](https://www.kuaishou.com/short-video/3xfqz2xz7bsjgrc)
+1. [原来小孩姐这么收新年红包](https://www.kuaishou.com/short-video/3x5ummnxut5we3s)
+1. [三十晚上熬一宿](https://www.kuaishou.com/short-video/3xdmpej8u75yzb6)
+1. [春晚魔术被破解](https://www.kuaishou.com/short-video/3xud6c9kw6ch6d9)
+1. [去年的机器人vs今年的机器人](https://www.kuaishou.com/short-video/3xna6k9jdw6g9im)
+1. [春晚采访全是乐子](https://www.kuaishou.com/short-video/3xx8avcu8sv5nem)
+1. [抗倭名将戚继光上春晚了](https://www.kuaishou.com/short-video/3xeqsfxpjfmp9w4)
+1. [孙悟空机器人版](https://www.kuaishou.com/short-video/3xtqgnc54zg5p24)
+1. [央视马年春晚节目单](https://www.kuaishou.com/short-video/3xvzjdirmrwudyw)
+1. [时代少年团楼晚节目单](https://www.kuaishou.com/short-video/3xtbjfem9ishq6y)
+1. [机器人全面入侵春晚](https://www.kuaishou.com/short-video/3xccvmaqvr28gxa)
+1. [马丽单飞了 沈腾怎么办](https://www.kuaishou.com/short-video/3xss32f5s8rgqpk)
+1. [大年初一这三件事必须做](https://www.kuaishou.com/short-video/3xzef6r8hpynxzq)
+1. [东北鞭炮这么便宜吗](https://www.kuaishou.com/short-video/3xxg8w873yxrgd6)
+1. [辽宁春晚收视率](https://www.kuaishou.com/short-video/3x8s8gfzhcstgue)
+1. [刘宇宁 少年意气风发](https://www.kuaishou.com/short-video/3xs7j4nk9ummds6)
+1. [贺花神 对我眼睛很友好](https://www.kuaishou.com/short-video/3xrb4w9iwh7f9u2)
+1. [陈小春演出后最想见家人](https://www.kuaishou.com/short-video/3xxnp5kn25pi4qe)
+1. [蔡明仿生机器人是怎么做出来的](https://www.kuaishou.com/short-video/3xb5ypyxfzgquyc)
+1. [机器狗你还是把熊猫皮披上吧](https://www.kuaishou.com/short-video/3xi3hans4u4h3hw)
+1. [新年快乐](https://www.kuaishou.com/short-video/3x424sn6ecfbgdc)
+1. [港股5分钟暴拉32%](https://www.kuaishou.com/short-video/3xhmvfppqrc632q)
+1. [你觉得今年的年味淡吗](https://www.kuaishou.com/short-video/3xkzehrh6r3wk5k)
+1. [八个没亲过嘴的小花小生合作舞台](https://www.kuaishou.com/short-video/3x3amqgbgigjf3g)
+1. [马年全世界都是马马马马马](https://www.kuaishou.com/short-video/3x6zuvymxh7w6tc)
+1. [央视春晚视效震撼](https://www.kuaishou.com/short-video/3xr2de5yrn3bj8u)
+1. [王楚然红衣映雪](https://www.kuaishou.com/short-video/3xzcp9j8ega3mme)
+1. [哈尔滨春晚分会场好有人情味](https://www.kuaishou.com/short-video/3xccptci6bpgkqm)
 1. [来自身边的温暖祝福](https://www.kuaishou.com/short-video/3xq3jrf66ucuzxw)
 1. [宫里来新人了](https://www.kuaishou.com/short-video/3xn93hywhz3jbhe)
 1. [大年初一开门就说这些吉祥话](https://www.kuaishou.com/short-video/3x3jq7hx4iq6qdq)
-1. [谁给迪丽热巴化的妆](https://www.kuaishou.com/short-video/3xiq6iq7ynq9ci6)
 1. [沈腾马丽小品呢](https://www.kuaishou.com/short-video/3xrurs48twmhcqc)
 1. [王菲水晶泪滴耳坠](https://www.kuaishou.com/short-video/3x95a2ahc2a886a)
-1. [只有春晚能制裁王一博的发型](https://www.kuaishou.com/short-video/3x2jkjskqgya87c)
-1. [“春运绿皮车严重超员”不实](https://www.kuaishou.com/short-video/3x9s9g2nucnwj6m)
-1. [别眨眼春晚首个机器人魔术来了](https://www.kuaishou.com/short-video/3xj5ftmes2fecdc)
-1. [春晚请离我的私生活远一点](https://www.kuaishou.com/short-video/3xthjepf9xnka42)
-1. [撒贝宁眉毛](https://www.kuaishou.com/short-video/3xgn8txze82nk6w)
-1. [蔡明仿生机器人是怎么做出来的](https://www.kuaishou.com/short-video/3xb5ypyxfzgquyc)
 1. [伊能静苏有朋初代偶像实力](https://www.kuaishou.com/short-video/3x69bqxdyndqegk)
 1. [河南春晚完全夯爆了](https://www.kuaishou.com/short-video/3x23pjm4avz8iqw)
 1. [机器人居然能演小品了](https://www.kuaishou.com/short-video/3x7p3vkyuyjjjrs)
 1. [大年初一为谷爱凌加油](https://www.kuaishou.com/short-video/3xbusz7y99gdjw2)
-1. [凤凰传奇一出场就是国泰民安](https://www.kuaishou.com/short-video/3xwbybjvzx2t2nc)
 1. [唱的是高山青 传的是思乡情](https://www.kuaishou.com/short-video/3xu9era9d3iwzj9)
-1. [去年的机器人vs今年的机器人](https://www.kuaishou.com/short-video/3xna6k9jdw6g9im)
-1. [白鹿央视马年春晚](https://www.kuaishou.com/short-video/3xuqmx3wf4z5fz2)
 1. [居然在央视春晚上看见土味短剧了](https://www.kuaishou.com/short-video/3x24jin94us2rpk)
 1. [刘德华解冻成功](https://www.kuaishou.com/short-video/3xim222ggfz4q8y)
 1. [王菲眉毛](https://www.kuaishou.com/short-video/3xux54vzaw6ptbe)
 1. [蔡明推着蔡明出来了](https://www.kuaishou.com/short-video/3x6v9f87k3udwcq)
 1. [如此权威的萌宠全家福](https://www.kuaishou.com/short-video/3x3sj76we57tv6a)
-1. [央视马年春晚节目单](https://www.kuaishou.com/short-video/3xvzjdirmrwudyw)
 1. [邓超魔丸变灵珠](https://www.kuaishou.com/short-video/3xi96zqwi59brni)
-1. [章若楠变装](https://www.kuaishou.com/short-video/3xih5ya6vgxv3qq)
-1. [还以为岳云鹏和孙越瘦了](https://www.kuaishou.com/short-video/3xaefamwtyzd5ea)
-1. [三十晚上熬一宿](https://www.kuaishou.com/short-video/3xdmpej8u75yzb6)
 1. [郭富城王一博斗舞](https://www.kuaishou.com/short-video/3xnd5tx9x3hz4ma)
-1. [辽宁春晚收视率](https://www.kuaishou.com/short-video/3x8s8gfzhcstgue)
-1. [机器人是成龙带出来的吧](https://www.kuaishou.com/short-video/3xeipqe9gvuszdu)
 1. [机器人全面入侵春晚](https://www.kuaishou.com/short-video/3xxjt7y63hbgs4e)
 1. [春晚机器人临时加高到一米九](https://www.kuaishou.com/short-video/3xfwce2r27pk7mw)
 1. [共赏世界上最大的空中烟花弹](https://www.kuaishou.com/short-video/3xfz42u23adt55m)
 1. [NBA全明星今日十佳球](https://www.kuaishou.com/short-video/3xykmaqegywrzmw)
 1. [祝你马年一路发发发](https://www.kuaishou.com/short-video/3x67geqqqzxpv8y)
 1. [李健人间共鸣好听](https://www.kuaishou.com/short-video/3xm96pgvrvx96xy)
-1. [东北鞭炮这么便宜吗](https://www.kuaishou.com/short-video/3xxg8w873yxrgd6)
-1. [今天你洗头了吗](https://www.kuaishou.com/short-video/3xbxi8fa22pd8ma)
 1. [刘少昂回应5000米接力无缘决赛](https://www.kuaishou.com/short-video/3xyzyfwv8xee5jc)
-1. [贺花神 对我眼睛很友好](https://www.kuaishou.com/short-video/3xrb4w9iwh7f9u2)
 1. [春晚好多人啊](https://www.kuaishou.com/short-video/3xp8qtd33zkqrvy)
 1. [时代少年团楼晚节目单](https://www.kuaishou.com/short-video/3xest6cqi5hfb29)
 1. [春晚上的女明星没有不美的](https://www.kuaishou.com/short-video/3x4b7j6ndqnazws)
@@ -508,20 +537,13 @@
 1. [立春 熟女才是最能打的](https://www.kuaishou.com/short-video/3xb424ufvq7dku4)
 1. [居然在央视春晚上看见土味短剧了](https://www.kuaishou.com/short-video/3xg34544mxu5m7k)
 1. [王一博春晚造型夯爆了](https://www.kuaishou.com/short-video/3x53qfui424uupe)
-1. [孙悟空机器人版](https://www.kuaishou.com/short-video/3xtqgnc54zg5p24)
 1. [凤凰传奇一出场就是国泰民安](https://www.kuaishou.com/short-video/3xpgstdk97dvhvg)
-1. [机器狗你还是把熊猫皮披上吧](https://www.kuaishou.com/short-video/3xi3hans4u4h3hw)
 1. [王楚然首登春晚](https://www.kuaishou.com/short-video/3xy8f47z46ijx9c)
 1. [保罗入驻快手](https://www.kuaishou.com/short-video/3xyfucvcrnhgn46)
-1. [大年初一这三件事必须做](https://www.kuaishou.com/short-video/3xzef6r8hpynxzq)
 1. [台湾教授首次归乡团圆](https://www.kuaishou.com/short-video/3xc33r47u624ipm)
 1. [春晚机器人讲笑话谜底是机器人](https://www.kuaishou.com/short-video/3xa7sq8gmrj3w6y)
-1. [港股5分钟暴拉32%](https://www.kuaishou.com/short-video/3xhmvfppqrc632q)
 1. [被压岁钱砸晕了](https://www.kuaishou.com/short-video/3xw9b26ish8njqu)
 1. [朝鲜士兵乌克兰学习作战](https://www.kuaishou.com/short-video/3xqpem7r8fjgis2)
-1. [你觉得今年的年味淡吗](https://www.kuaishou.com/short-video/3xkzehrh6r3wk5k)
-1. [马年全世界都是马马马马马](https://www.kuaishou.com/short-video/3x6zuvymxh7w6tc)
-1. [央视春晚视效震撼](https://www.kuaishou.com/short-video/3xr2de5yrn3bj8u)
 1. [机器人赚钱了](https://www.kuaishou.com/short-video/3xadfuekadr57vk)
 1. [总书记的马年祝福](https://www.kuaishou.com/short-video/3xebq9d3b47ipju)
 1. [东北大秧歌扭起来](https://www.kuaishou.com/short-video/3x9i2zpc6anxt6a)
@@ -542,7 +564,6 @@
 1. [明星回村也要恢复出厂设置](https://www.kuaishou.com/short-video/3xx7i3dd58qn9hi)
 1. [爸爸又不能陪你过年了](https://www.kuaishou.com/short-video/3xmje28v3ybcymk)
 1. [小马宝莉来拜年啦](https://www.kuaishou.com/short-video/3x4ivtc32jyv8mg)
-1. [新年快乐](https://www.kuaishou.com/short-video/3x424sn6ecfbgdc)
 1. [生命树大结局](https://www.kuaishou.com/short-video/3x97tbwyi2x7w7a)
 1. [各地省服申请出战](https://www.kuaishou.com/short-video/3xvw99aeuw8t5ic)
 1. [年代舞蹈回忆杀](https://www.kuaishou.com/short-video/3x6bbym3cdizkcs)
