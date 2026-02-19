@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-02-20 03:32:08 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:18 +0800 -->
 1. [让聪明人保持沉默的隐性偏见](https://36kr.com/p/3647817907277446)
 1. [春节假期县城网吧人气旺，网吧又是一门好生意了？](https://36kr.com/p/3689649290669953)
 1. [不只春晚露了一手，清洁背后，MOVA在下一盘全场景智慧生态大棋](https://36kr.com/p/3688877404499846)
@@ -16,7 +16,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-02-20 03:32:08 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:18 +0800 -->
 1. [说出你拉肚子的经历，让我心里好受点](https://b23.tv/BV1y9ZDBhE4p)
 1. [【星穹铁道乐子大会】斯科特同人单曲《孤狼》](https://b23.tv/BV1ZLchziEDB)
 1. [【星穹铁道乐子大会】奇幻菌子梦游夜](https://b23.tv/BV1GicvzzEfK)
@@ -130,7 +130,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-02-20 03:32:08 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:19 +0800 -->
 1. [obra/superpowers (Shell) ⭐55,102](https://github.com/obra/superpowers)
 1. [RichardAtCT/claude-code-telegram (Python) ⭐802](https://github.com/RichardAtCT/claude-code-telegram)
 1. [open-mercato/open-mercato (TypeScript) ⭐609](https://github.com/open-mercato/open-mercato)
@@ -204,7 +204,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-02-20 03:32:08 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:19 +0800 -->
 1. [2026 春晚魔术大揭秘：作为程序员，分分钟复刻一个（附源码）](https://juejin.cn/post/7606728595557384227)
 1. [丰田正在使用 Flutter 开发游戏引擎 Fluorite](https://juejin.cn/post/7607112994061549595)
 1. [我给Mac做了一个 Windows 任务栏，用了之后再也回不去 Dock 了](https://juejin.cn/post/7606702049910554670)
@@ -230,10 +230,10 @@
 1. [面试官 : “ 请问你实际开发中用过 函数柯理化 吗? 能讲一下吗 ?”](https://juejin.cn/post/7606621855852986368)
 1. [Agent 系统详解:从使用到自定义开发](https://juejin.cn/post/7606509656899469322)
 1. [Tailwind CSS vs UnoCSS 深度对比](https://juejin.cn/post/7607636614357024794)
+1. [最强开源多模态大模型它来啦——一文详解Qwen3.5核心特性](https://juejin.cn/post/7606988289871822899)
 1. [【翻译】用生成器实现可续充队列](https://juejin.cn/post/7606702049910374446)
 1. [你真的懂 JSON 吗？那些被忽略的底层边界与性能陷阱](https://juejin.cn/post/7606621446048317449)
 1. [除夕夜，国产顶流压轴上线，QWEN3.5多模态开源！](https://juejin.cn/post/7606555195753873408)
-1. [最强开源多模态大模型它来啦——一文详解Qwen3.5核心特性](https://juejin.cn/post/7606988289871822899)
 1. [用OpenClaw搭了16个AI Agent，一个人运营13个自媒体平台](https://juejin.cn/post/7607082524309061672)
 1. [向 Native 借力：深度拆解 SIMD 加速与 Node.js 异步原生解析](https://juejin.cn/post/7606640585463119899)
 1. [别让字体拖了后腿：FOIT/FOUT 深度解析与字体加载优化全攻略](https://juejin.cn/post/7606621855852691456)
@@ -245,6 +245,7 @@
 1. [Claude Opus 4.6 正式发布：Agent 时代的编程王者与长上下文革命](https://juejin.cn/post/7606640585463169051)
 1. [LangChain.js 快速上手指南：模型接入、流式输出打造基础](https://juejin.cn/post/7607112994062499867)
 1. [无感监控：深度拆解监控 SDK 的性能平衡术与调度策略](https://juejin.cn/post/7606702049910849582)
+1. [JavaScript 异步编程完全指南：从入门到精通](https://juejin.cn/post/7606597334229368866)
 1. [ Vue3组件开发中如何兼顾复用性、可维护性与性能优化？    ](https://juejin.cn/post/7606597334228746274)
 1. [Java集合框架完全指南](https://juejin.cn/post/7606548472223465514)
 1. [国产大模型工业化转型：豆包2.0如何定义“数字员工”新范式](https://juejin.cn/post/7607112994062450715)
@@ -254,7 +255,6 @@
 1. [面试官 : “ 请说一下 JS 的常见的数组 和 字符串方法有哪些 ? ”](https://juejin.cn/post/7606732842489102351)
 1. [【Navigation3】结合ViewModel（二）](https://juejin.cn/post/7607597361292836902)
 1. [Spring 源码分析 事务管理的实现原理（上）](https://juejin.cn/post/7606923064946409512)
-1. [JavaScript 异步编程完全指南：从入门到精通](https://juejin.cn/post/7606597334229368866)
 1. [Day07-龙虾哥打工日记：Cron 任务没按时执行？从翻车到搞懂 OpenClaw 定时任务](https://juejin.cn/post/7606597334228287522)
 <!-- END JUEJIN -->
 
@@ -263,7 +263,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-02-20 03:32:10 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:20 +0800 -->
 1. [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
 1. [OpenClaw：高强度使用两周，这个 AI 工具颠覆了我的工作流](https://sspai.com/post/106232)
 1. [从特斯拉一日自驾，看纯电在日本的实际体验](https://sspai.com/post/106020)
@@ -311,7 +311,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-02-20 03:32:09 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:19 +0800 -->
 1. [你越清醒，关系越稳](https://weread.qq.com/web/bookDetail/0a032060813abb2d3g016792)
 1. [女性的权利（果麦经典）](https://weread.qq.com/web/bookDetail/fec32ef0813abaae2g01112b)
 1. [投资第1课](https://weread.qq.com/web/bookDetail/89b322f0813aba568g0116d0)
@@ -347,55 +347,68 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-02-20 03:32:11 +0800 -->
+<!-- 最后更新时间 2026-02-20 04:19:20 +0800 -->
 1. [总书记走进百姓家](https://www.kuaishou.com/short-video/3x6vib63j9x5pb9)
 1. [宁忠岩夺金](https://www.kuaishou.com/short-video/3xr79y4cjrxs4y6)
 1. [江浙沪压岁钱大揭秘](https://www.kuaishou.com/short-video/3xhux3vcefx5xg4)
 1. [团聚的这一刻令人动容](https://www.kuaishou.com/short-video/3x37uiqakwpbyr4)
 1. [日本插手台海问题必遭迎头痛击](https://www.kuaishou.com/short-video/3x4brrmisvs3ijs)
-1. [大年初四有哪些习俗和讲究](https://www.kuaishou.com/short-video/3xet9yszctyzfcu)
-1. [舅舅给外甥包了2张50亿钞票](https://www.kuaishou.com/short-video/3xihrrmuvjh9jps)
-1. [女婿坐在丈人腿上“告状”](https://www.kuaishou.com/short-video/3xuhha9nf6k9w3c)
-1. [吴京回应朕们玩梗](https://www.kuaishou.com/short-video/3xhh3sjnyckyvbc)
-1. [发压岁钱一张换一个吻](https://www.kuaishou.com/short-video/3x2fkyduypahmr9)
 1. [尹锡悦被判无期徒刑](https://www.kuaishou.com/short-video/3xwxhdjwearm25y)
-1. [官方辟谣春运绿皮车严重超员](https://www.kuaishou.com/short-video/3x7ca5sj25mybds)
-1. [有人说名字就唱歌](https://www.kuaishou.com/short-video/3x68kse8uub4tty)
-1. [你知道你甩的是谁的手吗](https://www.kuaishou.com/short-video/3x9q2m72n9pvpde)
-1. [灯泡黑黑的是什么梗](https://www.kuaishou.com/short-video/3xua3bpis3ehuya)
-1. [中国队米兰冬奥会第3金](https://www.kuaishou.com/short-video/3xcxrv45jnhrd7q)
-1. [湛江拾石村“妈祖游神”事件](https://www.kuaishou.com/short-video/3x8dnkszrbnufvy)
-1. [当丹青骏马与蓝天战鹰同框](https://www.kuaishou.com/short-video/3xiprbtwibba2b9)
-1. [赵四摊上大事了](https://www.kuaishou.com/short-video/3xu9bgfey8aby4u)
-1. [黄朔老年妆变装](https://www.kuaishou.com/short-video/3xanshes5ff8pn9)
-1. [官方通报湖北烟花爆燃致12人遇难](https://www.kuaishou.com/short-video/3xwhtrf2iytb8ra)
-1. [美国警察性骚扰少女被直播](https://www.kuaishou.com/short-video/3xaaeeximw2urk4)
+1. [女婿坐在丈人腿上“告状”](https://www.kuaishou.com/short-video/3xuhha9nf6k9w3c)
+1. [舅舅给外甥包了2张50亿钞票](https://www.kuaishou.com/short-video/3xihrrmuvjh9jps)
+1. [发压岁钱一张换一个吻](https://www.kuaishou.com/short-video/3x2fkyduypahmr9)
+1. [吴京回应朕们玩梗](https://www.kuaishou.com/short-video/3xhh3sjnyckyvbc)
 1. [胡萝卜小姐驾到](https://www.kuaishou.com/short-video/3xp5j7yivbxhtk6)
-1. [过火翻唱](https://www.kuaishou.com/short-video/3xhg3wu9xfiv9qc)
-1. [男子用电钻给小孩发压岁钱](https://www.kuaishou.com/short-video/3xkz7x5uh8jm7gs)
-1. [比比拉布 我的刀盾](https://www.kuaishou.com/short-video/3x4q4ufzdnwi4ec)
+1. [官方辟谣春运绿皮车严重超员](https://www.kuaishou.com/short-video/3x7ca5sj25mybds)
+1. [你知道你甩的是谁的手吗](https://www.kuaishou.com/short-video/3x9q2m72n9pvpde)
+1. [有人说名字就唱歌](https://www.kuaishou.com/short-video/3x68kse8uub4tty)
+1. [大年初四四不做](https://www.kuaishou.com/short-video/3xvtfze2gkebzye)
+1. [灯泡黑黑的是什么梗](https://www.kuaishou.com/short-video/3xua3bpis3ehuya)
+1. [湛江拾石村“妈祖游神”事件](https://www.kuaishou.com/short-video/3x8dnkszrbnufvy)
+1. [国际油价18日上涨](https://www.kuaishou.com/short-video/3xi4c86ygxvcqhg)
+1. [赵四摊上大事了](https://www.kuaishou.com/short-video/3xu9bgfey8aby4u)
+1. [中国队米兰冬奥会第3金](https://www.kuaishou.com/short-video/3xcxrv45jnhrd7q)
+1. [美国警察性骚扰少女被直播](https://www.kuaishou.com/short-video/3xaaeeximw2urk4)
+1. [官方通报湖北烟花爆燃致12人遇难](https://www.kuaishou.com/short-video/3xwhtrf2iytb8ra)
+1. [青海格尔木生命树彩绘墙](https://www.kuaishou.com/short-video/3x9uxut8h5ctkcu)
+1. [春晚机器人揭秘](https://www.kuaishou.com/short-video/3xpntkkjddgckz4)
+1. [东北小孩过大年](https://www.kuaishou.com/short-video/3xmbb3pzmh8vr6s)
 1. [美以或对伊朗发动大规模袭击](https://www.kuaishou.com/short-video/3xpp95tuw39mcpa)
-1. [小孩最爱的舅舅也回村啦](https://www.kuaishou.com/short-video/3xks7gcpgjg5fe4)
-1. [大年初四四不做](https://www.kuaishou.com/short-video/3xhdc492v9nb2hw)
-1. [中国冰壶女队vs日本](https://www.kuaishou.com/short-video/3x5gjevqjyzagm4)
-1. [我爸是洗洁精押韵梗](https://www.kuaishou.com/short-video/3xfxqd8qndbh4ma)
-1. [东北嫡长女家庭地位](https://www.kuaishou.com/short-video/3xbu3kdny2brprm)
-1. [烟花转场](https://www.kuaishou.com/short-video/3xavdxarmhwq4dk)
-1. [过年表演就跳这支舞](https://www.kuaishou.com/short-video/3xfdqtqwdjnj8ts)
-1. [张杰说徐梦桃是中国的骄傲](https://www.kuaishou.com/short-video/3x8dq4gukjfdew4)
-1. [爱泼斯坦本土"萝莉岛"曝光](https://www.kuaishou.com/short-video/3x8r4hparexyxe2)
-1. [王者荣耀版泡沫转场](https://www.kuaishou.com/short-video/3xngdhvx2d4wazm)
-1. [大年初四迎灶神](https://www.kuaishou.com/short-video/3xn9imshh27rfpm)
+1. [过火翻唱](https://www.kuaishou.com/short-video/3xhg3wu9xfiv9qc)
+1. [大年初三可以洗衣服吗](https://www.kuaishou.com/short-video/3xsa99c4c2b9bsm)
 1. [东北农村串门拜年有多热闹](https://www.kuaishou.com/short-video/3xzdwnt9e3hsce2)
 1. [俄中一致反对日本拒不反省历史](https://www.kuaishou.com/short-video/3xbc5pgpquq73kg)
 1. [原始人的武器有多厉害](https://www.kuaishou.com/short-video/3xcckif9yct2bmc)
+1. [你会记得春晚只出现1秒的人吗](https://www.kuaishou.com/short-video/3x5r739ewxksnxe)
+1. [东北初五初六要下雪啦](https://www.kuaishou.com/short-video/3xbqper9azpbyna)
+1. [中国冰壶女队vs日本](https://www.kuaishou.com/short-video/3x5gjevqjyzagm4)
+1. [吉林江南公园灯会人气旺](https://www.kuaishou.com/short-video/3xn5327vwcrvcya)
+1. [比比拉布 我的刀盾](https://www.kuaishou.com/short-video/3x4q4ufzdnwi4ec)
+1. [王者荣耀版泡沫转场](https://www.kuaishou.com/short-video/3xngdhvx2d4wazm)
+1. [谷爱凌眼神挑战](https://www.kuaishou.com/short-video/3x7tvckuxbd2ifa)
+1. [江苏领跑春节档省份票房榜](https://www.kuaishou.com/short-video/3xdn3qsszpnr5ss)
+1. [桃花朵朵开清唱](https://www.kuaishou.com/short-video/3xmd9mwfaixwwa6)
+1. [我爸是洗洁精押韵梗](https://www.kuaishou.com/short-video/3xfxqd8qndbh4ma)
+1. [女子带老公回娘家过年](https://www.kuaishou.com/short-video/3x8wqige9iub5ha)
+1. [谷爱凌眼神夯爆了](https://www.kuaishou.com/short-video/3xv2u6iyrk4rebu)
+1. [爱泼斯坦本土"萝莉岛"曝光](https://www.kuaishou.com/short-video/3x8r4hparexyxe2)
+1. [东北嫡长女家庭地位](https://www.kuaishou.com/short-video/3xbu3kdny2brprm)
+1. [大年初四有哪些习俗和讲究](https://www.kuaishou.com/short-video/3xet9yszctyzfcu)
+1. [俄称中国高铁建设是榜样](https://www.kuaishou.com/short-video/3x8knnbsukyjiwg)
+1. [日本选举很热闹但问题却被遮蔽](https://www.kuaishou.com/short-video/3xek6sazcxzgkfg)
+1. [重庆8岁小姨给晚辈发红包](https://www.kuaishou.com/short-video/3xuefffew22p2rc)
+1. [小孩最爱的舅舅也回村啦](https://www.kuaishou.com/short-video/3xks7gcpgjg5fe4)
+1. [当丹青骏马与蓝天战鹰同框](https://www.kuaishou.com/short-video/3xiprbtwibba2b9)
+1. [黄朔老年妆变装](https://www.kuaishou.com/short-video/3xanshes5ff8pn9)
+1. [男子用电钻给小孩发压岁钱](https://www.kuaishou.com/short-video/3xkz7x5uh8jm7gs)
+1. [大年初四四不做](https://www.kuaishou.com/short-video/3xhdc492v9nb2hw)
+1. [烟花转场](https://www.kuaishou.com/short-video/3xavdxarmhwq4dk)
+1. [过年表演就跳这支舞](https://www.kuaishou.com/short-video/3xfdqtqwdjnj8ts)
+1. [张杰说徐梦桃是中国的骄傲](https://www.kuaishou.com/short-video/3x8dq4gukjfdew4)
+1. [大年初四迎灶神](https://www.kuaishou.com/short-video/3xn9imshh27rfpm)
 1. [蔡明和机器人蔡明相似度100%](https://www.kuaishou.com/short-video/3xashdkfvdngx6w)
 1. [拜年恐惧症](https://www.kuaishou.com/short-video/3xccydqaij6h9we)
-1. [俄称中国高铁建设是榜样](https://www.kuaishou.com/short-video/3x8knnbsukyjiwg)
-1. [吉林江南公园灯会人气旺](https://www.kuaishou.com/short-video/3xn5327vwcrvcya)
-1. [桃花朵朵开清唱](https://www.kuaishou.com/short-video/3xmd9mwfaixwwa6)
 1. [原来苏翊鸣谷爱凌从小就认识](https://www.kuaishou.com/short-video/3xtjhuv5s75vhcm)
-1. [你会记得春晚只出现1秒的人吗](https://www.kuaishou.com/short-video/3x5r739ewxksnxe)
 1. [搓澡摇](https://www.kuaishou.com/short-video/3xtt9a3w7t3jb96)
 1. [丞磊说手势舞不那么像打车了](https://www.kuaishou.com/short-video/3xabzeq7i3jkfn2)
 1. [宁忠岩刷新奥运纪录](https://www.kuaishou.com/short-video/3x3k7xuc3t8qe4g)
@@ -406,9 +419,7 @@
 1. [飞驰人生3剧组没包袱不开口是吧](https://www.kuaishou.com/short-video/3xjbdv3kkekmts9)
 1. [徐梦桃带着金牌过安检](https://www.kuaishou.com/short-video/3xmgu3zyi9cj472)
 1. [东北大秧歌扭起来](https://www.kuaishou.com/short-video/3xr6kj4y4prxr6k)
-1. [谷爱凌眼神夯爆了](https://www.kuaishou.com/short-video/3xv2u6iyrk4rebu)
 1. [王嘉尔纠正阿玛尼官方](https://www.kuaishou.com/short-video/3xhpyjg7xs85uak)
-1. [重庆8岁小姨给晚辈发红包](https://www.kuaishou.com/short-video/3xuefffew22p2rc)
 1. [宁忠岩刷新奥运纪录](https://www.kuaishou.com/short-video/3xuuxtvppu7ea5g)
 1. [云南女骑摩托车坠坡](https://www.kuaishou.com/short-video/3xtg52nd77r2i5q)
 1. [中国队米兰冬奥会第3金](https://www.kuaishou.com/short-video/3x7fprr4u2f4v5k)
@@ -418,7 +429,6 @@
 1. [2026年米兰冬奥会奖牌榜](https://www.kuaishou.com/short-video/3xtng378c435q36)
 1. [蔡正元勉励游智彬](https://www.kuaishou.com/short-video/3x2ektgbrwcnwxa)
 1. [苏翊鸣 当时我害怕极了](https://www.kuaishou.com/short-video/3xdatys2p5i6dbm)
-1. [春晚机器人揭秘](https://www.kuaishou.com/short-video/3xpntkkjddgckz4)
 1. [中国女篮3月武汉争世界杯门票](https://www.kuaishou.com/short-video/3xqx9aiw3qv8vws)
 1. [财神变装这谁顶得住啊](https://www.kuaishou.com/short-video/3xy9vwk4qjetjhk)
 1. [泉州春节非遗街秀](https://www.kuaishou.com/short-video/3x2ape9ufcgpyx2)
@@ -426,7 +436,6 @@
 1. [村里唯一的轻奢回来了](https://www.kuaishou.com/short-video/3x9qhwspevzzii6)
 1. [春节民警获赠暖心汤](https://www.kuaishou.com/short-video/3xwx6253wyybxx6)
 1. [2026春晚四地文旅热](https://www.kuaishou.com/short-video/3x7hg3cym54w5su)
-1. [东北初五初六要下雪啦](https://www.kuaishou.com/short-video/3xbqper9azpbyna)
 1. [过年回村也要摇起来](https://www.kuaishou.com/short-video/3xgumkxq4hgt2xw)
 1. [过年哪有不逛庙会的啊](https://www.kuaishou.com/short-video/3xxf8fsk6gf32tm)
 1. [王濛的尺这回量到米兰了](https://www.kuaishou.com/short-video/3xj5nufxrhmg332)
