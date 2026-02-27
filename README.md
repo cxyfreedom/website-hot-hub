@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-02-28 02:24:33 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:30 +0800 -->
 1. [8点1氪丨玛莎拉蒂母公司全年净亏损1800亿元人民币；男童发育不良新药引爆股价，长春高新回应；德国总理默茨参访宇树科技](https://36kr.com/p/3700794963193734)
 1. [谷歌生图新王Nano Banana 2深夜突袭，性能屠榜速度飞升，价格腰斩](https://36kr.com/p/3700560428658304)
 1. [一夜暴裁4000人，股价飙涨25%，联创发文：AI时代不需要那么多人了](https://36kr.com/p/3701205055598471)
@@ -31,8 +31,8 @@
 1. [金价冲上5000美元，中国正在打一场“供应链保卫战”](https://36kr.com/p/3701031987343232)
 1. [从短视频到长文：当抖音把资讯也交给AI](https://36kr.com/p/3700444303814536)
 1. [我们真该学学韩国人，是怎么卖包子的](https://36kr.com/p/3700827060875136)
-1. [曝腾讯悄悄洽谈投资这家北京公司：成绩吓人，MAU已破3亿](https://36kr.com/p/3700989032624002)
 1. [去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发](https://36kr.com/p/3700876701642374)
+1. [曝腾讯悄悄洽谈投资这家北京公司：成绩吓人，MAU已破3亿](https://36kr.com/p/3700989032624002)
 1. [套现43亿，高瓴分手董明珠？](https://36kr.com/p/3700979073478272)
 1. [DeepSeek发布下一代技术，北大实习生立功](https://36kr.com/p/3701088020721285)
 1. [分享一套简单而有效的「脑力训练操」](https://36kr.com/p/3700176940134280)
@@ -49,8 +49,8 @@
 1. [28年有金融危机？我倒觉得你躺平拿钱的年代要来了](https://36kr.com/p/3700930311155586)
 1. [DeepSeek新论文剧透V4新框架，用闲置网卡加速智能体推理性能，打破PD分离瓶颈](https://36kr.com/p/3700922638053255)
 1. [双榜第一，春节档跑出小游戏“黑马”，数值很重](https://36kr.com/p/3700836814516100)
-1. [2026年1月亚洲（中国）长租公寓发展报告](https://36kr.com/p/3700193671770888)
 1. [华人天才出走xAI：算力竞赛已死，30美元解锁AI自进化](https://36kr.com/p/3701204739042952)
+1. [2026年1月亚洲（中国）长租公寓发展报告](https://36kr.com/p/3700193671770888)
 1. [百度2025财报：AI动能切换「奇点」已至，价值重估开启「王者归来」](https://36kr.com/p/3700984296238981)
 1. [减产、AI、期货：存储涨价半年复盘，厂商与消费者各显神通](https://36kr.com/p/3701035742393088)
 1. [突发，Meta放弃一颗自研芯片，拥抱谷歌TPU](https://36kr.com/p/3700868248284809)
@@ -63,7 +63,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-02-28 02:24:32 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:29 +0800 -->
 1. [决战！我要夺冠！！！《下一个是谁6》06](https://b23.tv/BV11bAUzBEqG)
 1. [我永远无法原谅星穹铁道](https://b23.tv/BV1xxfYBDEoG)
 1. [“起初人们以为只是一场普通的雪～”](https://b23.tv/BV1LRfxBmEUs)
@@ -172,7 +172,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-02-28 02:24:33 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:30 +0800 -->
 1. [ruvnet/wifi-densepose (Python) ⭐8,532](https://github.com/ruvnet/wifi-densepose)
 1. [bytedance/deer-flow (TypeScript) ⭐21,676](https://github.com/bytedance/deer-flow)
 1. [moonshine-ai/moonshine (C) ⭐5,686](https://github.com/moonshine-ai/moonshine)
@@ -254,7 +254,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-02-28 02:24:33 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:31 +0800 -->
 1. [uni-app开发的鸿蒙应用上架后，竟然月入4000+](https://juejin.cn/post/7610338991925936162)
 1. [vue文件自动生成路由会成为主流](https://juejin.cn/post/7610253888646119467)
 1. [阿里出手了！终于不怕OpenClaw烧token啦，直接算力自由～](https://juejin.cn/post/7610637031321698330)
@@ -313,7 +313,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-02-28 02:24:34 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:31 +0800 -->
 1. [AI 十字路口：当机器学会「思考」，我们应该知道什么？](https://sspai.com/post/106285)
 1. [新玩意 236｜少数派的编辑们最近买了啥？](https://sspai.com/post/106451)
 1. [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/106352)
@@ -362,7 +362,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-02-28 02:24:33 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:24:31 +0800 -->
 1. [心理抚养](https://weread.qq.com/web/bookDetail/edd324b0727ac3a5edd685b)
 1. [在峡江的转弯处：陈行甲人生笔记（微信读书特别版）](https://weread.qq.com/web/bookDetail/392328f0813abab99g014cb5)
 1. [除恶（任素汐、王骁主演同名热播剧原著）](https://weread.qq.com/web/bookDetail/13932300813abb32fg016cfc)
@@ -371,7 +371,7 @@
 1. [阅人无数：突破沟通中的艰难时刻](https://weread.qq.com/web/bookDetail/23f32bc0724d5de323f52ee)
 1. [鱼不存在](https://weread.qq.com/web/bookDetail/0af32760813ab798cg01135c)
 1. [明朝那些事儿（全集）](https://weread.qq.com/web/bookDetail/a57325c05c8ed3a57224187)
-1. [非诉女王](https://weread.qq.com/web/bookDetail/71932030813abad84g014d3f)
+1. [嫁娶不须啼](https://weread.qq.com/web/bookDetail/95f32630813abadccg018190)
 1. [我做DNA鉴定师那些年（全四册）](https://weread.qq.com/web/bookDetail/0de32e90813abb245g012176)
 1. [天之下](https://weread.qq.com/web/bookDetail/4de326a0721770aa4de95f4)
 1. [马斯克2026访谈：AGI倒计时与未来全景](https://weread.qq.com/web/bookDetail/24332940813abb2dbg014203)
@@ -379,11 +379,11 @@
 1. [从内耗到心流：复杂时代下的熵减行动指南（微信读书特别版）](https://weread.qq.com/web/bookDetail/65932700813ab7a60g010c78)
 1. [认知觉醒：开启自我改变的原动力](https://weread.qq.com/web/bookDetail/6a732ce07201202c6a7b30a)
 1. [纳瓦尔宝典](https://weread.qq.com/web/bookDetail/e1e32b00729fc94fe1e824d)
+1. [非诉女王](https://weread.qq.com/web/bookDetail/71932030813abad84g014d3f)
 1. [股票投资入门与实战技巧：从零开始学炒股（修订升级版）](https://weread.qq.com/web/bookDetail/dd7322b0813ababd5g014169)
 1. [富爸爸穷爸爸](https://weread.qq.com/web/bookDetail/ada325807168230aada7458)
 1. [被讨厌的勇气：“自我启发之父”阿德勒的哲学课](https://weread.qq.com/web/bookDetail/8b9329607186dc198b9bdab)
 1. [人生十二法则：现代人应对混乱生活的一剂良药](https://weread.qq.com/web/bookDetail/74732e20719fe4f4747f8f4)
-1. [嫁娶不须啼](https://weread.qq.com/web/bookDetail/95f32630813abadccg018190)
 1. [启禀王爷，王妃她又穷疯了](https://weread.qq.com/web/bookDetail/ee732c00728be88cee741d8)
 1. [AI时代生存手册：零基础掌握豆包](https://weread.qq.com/web/bookDetail/66c322b0813abb2ceg01642b)
 1. [拼团人生：无关爱情的同居生活](https://weread.qq.com/web/bookDetail/60f326f0813ab7477g014ceb)
@@ -396,50 +396,66 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-02-28 02:24:35 +0800 -->
+<!-- 最后更新时间 2026-02-28 03:28:40 +0800 -->
 1. [一定要把我们的老百姓扶一把](https://www.kuaishou.com/short-video/3xjdmhqahmvgscg)
-1. [巴阿爆发激烈交火 中方回应](https://www.kuaishou.com/short-video/3xzgpppnu4faag9)
 1. [和平精英小黑变装](https://www.kuaishou.com/short-video/3xp2xwmn5em34nu)
+1. [巴阿爆发激烈交火 中方回应](https://www.kuaishou.com/short-video/3xzgpppnu4faag9)
 1. [春节档多人结伴观影比例创新高](https://www.kuaishou.com/short-video/3xx3mikpwc87w34)
-1. [日本未成年人性侵案创新高](https://www.kuaishou.com/short-video/3xgzyuzxshukiyu)
-1. [露娜cos变装](https://www.kuaishou.com/short-video/3xj2fn9kp4jrdai)
-1. [C罗头套盗窃团伙落网](https://www.kuaishou.com/short-video/3xz7rc9q6gdfpeu)
-1. [巴基斯坦阿富汗为何大打出手](https://www.kuaishou.com/short-video/3xgxi8wsa3xhk6m)
-1. [夫人你的马甲又掉了](https://www.kuaishou.com/short-video/3xxx9rkv4ivzuvs)
-1. [海南教师强奸案二审维持原判](https://www.kuaishou.com/short-video/3xqbjrxytmb3wqs)
-1. [开学转场](https://www.kuaishou.com/short-video/3xb7xzgrx4da3i2)
-1. [中国光钟校准国际标准时间](https://www.kuaishou.com/short-video/3xay3cqtpb6zm5a)
-1. [儿媳继承446万拆迁款后拒养公公](https://www.kuaishou.com/short-video/3xmwaqfvbv8bax2)
+1. [民警拦下25万现金](https://www.kuaishou.com/short-video/3xbtdea846xqnra)
 1. [叫姐姐叫老公翻唱版](https://www.kuaishou.com/short-video/3xikgd9br4czdis)
-1. [英国暂时撤出伊朗使馆人员](https://www.kuaishou.com/short-video/3xq6g494mbzitwm)
+1. [巴基斯坦阿富汗为何大打出手](https://www.kuaishou.com/short-video/3xgxi8wsa3xhk6m)
+1. [海南教师强奸案二审维持原判](https://www.kuaishou.com/short-video/3xqbjrxytmb3wqs)
+1. [露娜cos变装](https://www.kuaishou.com/short-video/3xj2fn9kp4jrdai)
+1. [弟弟失恋姐弟三人都哭了](https://www.kuaishou.com/short-video/3xuypwqx84znk4e)
+1. [盖茨俄罗斯情人现状曝光](https://www.kuaishou.com/short-video/3xp5pn8iiithsnm)
+1. [C罗头套盗窃团伙落网](https://www.kuaishou.com/short-video/3xz7rc9q6gdfpeu)
 1. [外交部提醒中国公民暂勿前往伊朗](https://www.kuaishou.com/short-video/3xtvntry6pksju4)
 1. [女子捡手机藏4个月被索赔](https://www.kuaishou.com/short-video/3xbitgujyma8tfs)
-1. [弟弟失恋姐弟三人都哭了](https://www.kuaishou.com/short-video/3xuypwqx84znk4e)
-1. [存储芯片短缺冲击多行业](https://www.kuaishou.com/short-video/3x9irqu6zhip7v2)
 1. [美军双航母就位](https://www.kuaishou.com/short-video/3xkvkp4zid4swua)
-1. [颜人中演唱园游会](https://www.kuaishou.com/short-video/3xt2ydqvqmy9rhe)
-1. [比比拉布魔性洗脑](https://www.kuaishou.com/short-video/3xuq5sa26uadd8w)
-1. [桃乐丝cos太萌了](https://www.kuaishou.com/short-video/3xaz7cjp82iezs9)
-1. [四种声调说中文](https://www.kuaishou.com/short-video/3xvndx7s75hhs22)
 1. [寒假作业还没写完怎么办](https://www.kuaishou.com/short-video/3xwkvktr7q9bua9)
-1. [年上慢摇对战年下慢摇](https://www.kuaishou.com/short-video/3xh3475isny8fqg)
-1. [巴方军队发布被俘阿富汗士兵视频](https://www.kuaishou.com/short-video/3xw7gxkxa5ag4v9)
-1. [花怜cos配上雷霆音乐](https://www.kuaishou.com/short-video/3xek4t5ar7hpzbw)
-1. [母子放牛时不慎坠入水坑身亡](https://www.kuaishou.com/short-video/3xh9rtmb6mituza)
+1. [夫人你的马甲又掉了](https://www.kuaishou.com/short-video/3xxx9rkv4ivzuvs)
+1. [日本未成年人性侵案创新高](https://www.kuaishou.com/short-video/3xgzyuzxshukiyu)
+1. [疯狂的数字游戏挑战](https://www.kuaishou.com/short-video/3xs2ngd6e3ixt2k)
 1. [父亲退还18.8万彩礼新娘发声](https://www.kuaishou.com/short-video/3xt9ksfzfnepmbk)
-1. [全国多地中小学迎近10年最短学期](https://www.kuaishou.com/short-video/3xch9nyutckz952)
+1. [脱口秀女演员小帕被禁言](https://www.kuaishou.com/short-video/3xyagme77ppyg7y)
+1. [开学转场](https://www.kuaishou.com/short-video/3xb7xzgrx4da3i2)
 1. [1234手势舞](https://www.kuaishou.com/short-video/3xagydze5tw4tc9)
-1. [应急部披露包钢爆炸事故原因](https://www.kuaishou.com/short-video/3xrgtpdivedqhxu)
-1. [河南失联15天少女已不幸遇难](https://www.kuaishou.com/short-video/3xuwt6v26ttkxzk)
+1. [姐姐平时都画这么浓的妆吗](https://www.kuaishou.com/short-video/3x3k4btmy8jsgk9)
+1. [女生连续四年发布与家人告别视频](https://www.kuaishou.com/short-video/3x3ppitd24dkfg9)
+1. [美国建议公民尽快离开以色列](https://www.kuaishou.com/short-video/3xknvwq83gf2jq6)
+1. [上海春节黄金销售增5%](https://www.kuaishou.com/short-video/3xfvpdc8pkr596m)
+1. [比比拉布魔性洗脑](https://www.kuaishou.com/short-video/3xuq5sa26uadd8w)
+1. [儿媳继承446万拆迁款后拒养公公](https://www.kuaishou.com/short-video/3xmwaqfvbv8bax2)
+1. [蹦蹦蹦蹦蹦蹦蹦卡点舞](https://www.kuaishou.com/short-video/3xpyjj82d8nps54)
 1. [5胞胎父亲称回家就给老婆买黄金](https://www.kuaishou.com/short-video/3xwdgxujx293ufg)
 1. [外交部回应所谓中美俄三边核裁军](https://www.kuaishou.com/short-video/3xgiwft4hv8znvc)
-1. [中国驻以色列使馆紧急通知](https://www.kuaishou.com/short-video/3xu54jtdvjwmh5a)
+1. [FIBA国际篮联致歉](https://www.kuaishou.com/short-video/3x3ew2j3ifp7c3g)
+1. [全国多地中小学迎近10年最短学期](https://www.kuaishou.com/short-video/3xch9nyutckz952)
+1. [巴基斯坦阿富汗死亡人数超180人](https://www.kuaishou.com/short-video/3xqgfpc4tg9n9qy)
+1. [桃乐丝cos太萌了](https://www.kuaishou.com/short-video/3xaz7cjp82iezs9)
+1. [我爱喜子来快手啦](https://www.kuaishou.com/short-video/3x8dyhk58wgsdxy)
+1. [美方又拿中国当借口扩张军力](https://www.kuaishou.com/short-video/3xh9dqrfgf26vr9)
+1. [巴方军队发布被俘阿富汗士兵视频](https://www.kuaishou.com/short-video/3xw7gxkxa5ag4v9)
+1. [花怜cos配上雷霆音乐](https://www.kuaishou.com/short-video/3xek4t5ar7hpzbw)
 1. [杭州四季青老板娘信心满满](https://www.kuaishou.com/short-video/3xaepd3q378xrzg)
+1. [男子被邻居4人持铁棍追打](https://www.kuaishou.com/short-video/3x8p49wcn2iwvca)
+1. [巴基斯坦防长称对阿展开公开战争](https://www.kuaishou.com/short-video/3xyy6aqbxjutpgq)
+1. [存储芯片短缺冲击多行业](https://www.kuaishou.com/short-video/3x9irqu6zhip7v2)
+1. [城东区社火巡演交通管制](https://www.kuaishou.com/short-video/3xr4weyayx6jx8i)
+1. [女子凌晨起床做三明治确诊睡吃症](https://www.kuaishou.com/short-video/3xgby93vvwqf2ke)
+1. [四种声调说中文](https://www.kuaishou.com/short-video/3xvndx7s75hhs22)
+1. [母子放牛时不慎坠入水坑身亡](https://www.kuaishou.com/short-video/3xh9rtmb6mituza)
+1. [巴基斯坦军方公布空袭阿富汗画面](https://www.kuaishou.com/short-video/3xb5tcjxxic8gei)
+1. [中国光钟校准国际标准时间](https://www.kuaishou.com/short-video/3xay3cqtpb6zm5a)
+1. [英国暂时撤出伊朗使馆人员](https://www.kuaishou.com/short-video/3xq6g494mbzitwm)
+1. [颜人中演唱园游会](https://www.kuaishou.com/short-video/3xt2ydqvqmy9rhe)
+1. [年上慢摇对战年下慢摇](https://www.kuaishou.com/short-video/3xh3475isny8fqg)
+1. [应急部披露包钢爆炸事故原因](https://www.kuaishou.com/short-video/3xrgtpdivedqhxu)
+1. [河南失联15天少女已不幸遇难](https://www.kuaishou.com/short-video/3xuwt6v26ttkxzk)
+1. [中国驻以色列使馆紧急通知](https://www.kuaishou.com/short-video/3xu54jtdvjwmh5a)
 1. [38岁妈妈护女重伤](https://www.kuaishou.com/short-video/3x2nghbtyusxyme)
 1. [年上vs年下](https://www.kuaishou.com/short-video/3x3z8rz92bxh86i)
 1. [除恶大结局](https://www.kuaishou.com/short-video/3xqvj9p5tp8yk26)
-1. [巴基斯坦阿富汗死亡人数超180人](https://www.kuaishou.com/short-video/3xqgfpc4tg9n9qy)
-1. [女生连续四年发布与家人告别视频](https://www.kuaishou.com/short-video/3x3ppitd24dkfg9)
 1. [长大后爱上亲戚聊八卦](https://www.kuaishou.com/short-video/3xkq2b7wy45ycry)
 1. [巴基斯坦航天员将入驻中国空间站](https://www.kuaishou.com/short-video/3xzjctfm63inyrk)
 1. [巴基斯坦和阿富汗在边境激烈交火](https://www.kuaishou.com/short-video/3xzxprnazpgezmq)
@@ -450,19 +466,14 @@
 1. [遛狗不拴绳违法](https://www.kuaishou.com/short-video/3xi6ck7cng5ckgg)
 1. [深圳APEC宣传启动](https://www.kuaishou.com/short-video/3xggzfb34qt65hc)
 1. [凭祥公安获赠锦旗](https://www.kuaishou.com/short-video/3xrkb9tep35qqiq)
-1. [蹦蹦蹦蹦蹦蹦蹦卡点舞](https://www.kuaishou.com/short-video/3xpyjj82d8nps54)
 1. [中药饮片新规3月施行](https://www.kuaishou.com/short-video/3xya82kckwwdn6q)
 1. [麒麟 左航版](https://www.kuaishou.com/short-video/3x2ds6zxkrraaui)
-1. [姐姐平时都画这么浓的妆吗](https://www.kuaishou.com/short-video/3x3k4btmy8jsgk9)
 1. [登陆少年登陆米兰](https://www.kuaishou.com/short-video/3xw7b2c4u3ejky2)
 1. [第三个吻痕舞蹈](https://www.kuaishou.com/short-video/3x82wetphc62zxs)
 1. [魅族发转型公告](https://www.kuaishou.com/short-video/3x676xedv3vg9bu)
 1. [上海浦东机场查获海洛因](https://www.kuaishou.com/short-video/3xyis9tzgy5sdfg)
 1. [老己你又长大了一岁](https://www.kuaishou.com/short-video/3x977d283rximxm)
-1. [巴基斯坦军方公布空袭阿富汗画面](https://www.kuaishou.com/short-video/3xb5tcjxxic8gei)
-1. [女子凌晨起床做三明治确诊睡吃症](https://www.kuaishou.com/short-video/3xgby93vvwqf2ke)
 1. [暗区突围艾薇塔皮肤](https://www.kuaishou.com/short-video/3xuutrnf2gaa3ie)
-1. [美方又拿中国当借口扩张军力](https://www.kuaishou.com/short-video/3xh9dqrfgf26vr9)
 1. [高校给2026高考生排面拉满](https://www.kuaishou.com/short-video/3xqtiyxwusad2yu)
 1. [四六级查分](https://www.kuaishou.com/short-video/3xebewndasymih9)
 1. [王祥喜被免去应急管理部部长职务](https://www.kuaishou.com/short-video/3xjejjpwj9kuy2s)
@@ -474,9 +485,7 @@
 1. [女子嘴角长水泡后竟致脑死亡](https://www.kuaishou.com/short-video/3xs4nzyragfwjc9)
 1. [中国将购120架空客飞机](https://www.kuaishou.com/short-video/3xwpz5q8ybrkeiw)
 1. [奇迹少女版关于我的照片分两种](https://www.kuaishou.com/short-video/3xcjafny9v2hdt6)
-1. [男子被邻居4人持铁棍追打](https://www.kuaishou.com/short-video/3x8p49wcn2iwvca)
 1. [中央一号文件严打违建](https://www.kuaishou.com/short-video/3xbiydhgfsq3nmi)
-1. [疯狂的数字游戏挑战](https://www.kuaishou.com/short-video/3xs2ngd6e3ixt2k)
 <!-- END KUAISHOU -->
 
 历史归档 [./archives/kuaishou](./archives/kuaishou)
