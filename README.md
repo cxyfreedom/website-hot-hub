@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-03-31 03:44:59 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:28 +0800 -->
 1. [8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉](https://36kr.com/p/3744669439508484)
 1. [别只盯着「龙虾」了，目前 AI Agent 最好的落地容器，是汽车](https://36kr.com/p/3744635209138441)
 1. [腾讯「八虾夺嫡」内幕：一只龙虾，怎么成了全村的希望](https://36kr.com/p/3744568577064967)
@@ -27,8 +27,8 @@
 1. [借7000元买手机，背上1.6万债：谁在拿iPhone做局？](https://36kr.com/p/3743634173800961)
 1. [一天4个IPO，港股2026年最忙星期一](https://36kr.com/p/3744908391448577)
 1. [干崩存储股的谷歌爆红论文塌房，被曝抄袭、贬低华人学者成果，谷歌回应：晚点改](https://36kr.com/p/3743978774921472)
-1. [务工家庭走出00后天才，退学造110亿独角兽，终身教授辞职追随](https://36kr.com/p/3744583895023872)
 1. [实探十家新能源门店：一边冷清一边排队，品牌差距太现实了](https://36kr.com/p/3742553944355333)
+1. [务工家庭走出00后天才，退学造110亿独角兽，终身教授辞职追随](https://36kr.com/p/3744583895023872)
 1. [港交所被挤爆了](https://36kr.com/p/3744889080316167)
 1. [从Sora关停说起：内容创作死于2026](https://36kr.com/p/3741171749106178)
 1. [国人正在抛弃高价墓地](https://36kr.com/p/3744892296003586)
@@ -52,8 +52,8 @@
 1. [长安董事长没说透：淘汰油车，不仅是经济坍塌，更可能导致去工业化](https://36kr.com/p/3741816033083654)
 1. [Karpathy紧急叫停，别再喂数据了，曝AGI方向全错](https://36kr.com/p/3744588433162504)
 1. [前端大神Cheng Lou新项目火了，「文字绕图」玩法炸裂，Bad Apple新版火出圈](https://36kr.com/p/3745083757068551)
-1. [一组隐秘的数据，揭开了Sora失败的真相](https://36kr.com/p/3744851838451712)
 1. [多Agent 狂吞token，Claude 顶不住了：一人月烧15万美元，免费AI正在退场](https://36kr.com/p/3745280423133441)
+1. [一组隐秘的数据，揭开了Sora失败的真相](https://36kr.com/p/3744851838451712)
 1. [巨头即时零售阴影下](https://36kr.com/p/3744983276253702)
 1. [硅谷大佬抢着投，给奶牛戴AI项圈：估值20亿美元](https://36kr.com/p/3744582880248071)
 1. [耳机市场告别躺赚：苹果华为稳居前二，森海塞尔们正在「慢性死亡」？](https://36kr.com/p/3744927630930434)
@@ -64,7 +64,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-03-31 03:44:58 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:27 +0800 -->
 1. [李荣浩手撕单依纯！老实人真被逼急了！](https://b23.tv/BV1RYXQBKEEd)
 1. [清雨毁号案线下真实！后续来袭~](https://b23.tv/BV1y3XKB9ES2)
 1. [开头和结尾连在一起你就会得到一个30秒纯享rap](https://b23.tv/BV1McXKBaEBn)
@@ -173,7 +173,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-03-31 03:44:59 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:27 +0800 -->
 1. [microsoft/VibeVoice (Python) ⭐29,251](https://github.com/microsoft/VibeVoice)
 1. [luongnv89/claude-howto (Python) ⭐9,428](https://github.com/luongnv89/claude-howto)
 1. [Yeachan-Heo/oh-my-claudecode (TypeScript) ⭐17,323](https://github.com/Yeachan-Heo/oh-my-claudecode)
@@ -250,7 +250,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-03-31 03:44:59 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:27 +0800 -->
 1. [为什么全国人民都能秒开同一个视频？](https://juejin.cn/post/7621753314950692870)
 1. [王自如公开招聘全栈前端，要求有多离谱？](https://juejin.cn/post/7622545465666568219)
 1. [JetBrains又一知名软件宣布倒下，五味杂陈](https://juejin.cn/post/7622177349912952878)
@@ -310,7 +310,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-03-31 03:45:00 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:30 +0800 -->
 1. [新玩意 238｜少数派的编辑们最近买了啥？](https://sspai.com/post/107863)
 1. [iOS 26.4 值得关注的新特性](https://sspai.com/post/107743)
 1. [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/107582)
@@ -359,7 +359,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-03-31 03:44:59 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:27 +0800 -->
 1. [我从凉山来](https://weread.qq.com/web/bookDetail/b7c32e30813abb453g0170ef)
 1. [离婚律师唐昭昭：专治各种不服](https://weread.qq.com/web/bookDetail/ebd32c20813abb463g010252)
 1. [我在精神病院抗抑郁](https://weread.qq.com/web/bookDetail/f63320e0717d4595f637836)
@@ -391,55 +391,73 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-03-31 03:45:01 +0800 -->
+<!-- 最后更新时间 2026-03-31 04:32:29 +0800 -->
 1. [让中国式现代化底色更加亮丽](https://www.kuaishou.com/short-video/3xr6f9n8aqqtwxc)
 1. [老人接孙女遇车祸身亡](https://www.kuaishou.com/short-video/3xgiubzxgwj3ise)
-1. [民警猥亵少女获刑2年9个月](https://www.kuaishou.com/short-video/3x4c8gygx56zwrc)
+1. [央视调查烧秸秆屡禁不止](https://www.kuaishou.com/short-video/3xeaji4pnvruw7m)
 1. [世界数据组织在北京完成组建](https://www.kuaishou.com/short-video/3xesyuvwphp9swe)
-1. [中国银行优化负债管理](https://www.kuaishou.com/short-video/3xr4yfrz5cncff6)
+1. [愚人节敢骗我我就把你埋了](https://www.kuaishou.com/short-video/3xd657m9fzbha3w)
 1. [可我在16岁遇到了你](https://www.kuaishou.com/short-video/3x8tptnq4uskzfe)
 1. [4月1日起全国严查后排安全带](https://www.kuaishou.com/short-video/3xxi4vgy4nzbr5a)
-1. [广州暴雨原因找到](https://www.kuaishou.com/short-video/3xgf2g35wqfhh7k)
-1. [平顶山通报女子去世后被结婚](https://www.kuaishou.com/short-video/3xcwt39rpenby36)
-1. [贵州54国10天免签](https://www.kuaishou.com/short-video/3xztpktc5mr67hc)
-1. [央视调查烧秸秆屡禁不止](https://www.kuaishou.com/short-video/3xeaji4pnvruw7m)
-1. [全红婵谈体重时哽咽](https://www.kuaishou.com/short-video/3xxd28dq6nz3u7k)
+1. [民警猥亵少女获刑2年9个月](https://www.kuaishou.com/short-video/3x4c8gygx56zwrc)
 1. [日本这两大变化值得警惕](https://www.kuaishou.com/short-video/3xxmrsx3xf4hx4y)
-1. [广西导弹增雨威力竟然这么猛](https://www.kuaishou.com/short-video/3xnhdpas4rg5e39)
+1. [山西男子CT报告现子宫描述](https://www.kuaishou.com/short-video/3xgb56ena7r7jai)
+1. [广州暴雨原因找到](https://www.kuaishou.com/short-video/3xgf2g35wqfhh7k)
+1. [特朗普称将针对古巴 中方回应](https://www.kuaishou.com/short-video/3xmxtau7h7hgucs)
+1. [全红婵谈体重时哽咽](https://www.kuaishou.com/short-video/3xxd28dq6nz3u7k)
+1. [特朗普少提内塔尼亚胡](https://www.kuaishou.com/short-video/3x9hwgyjj9jdprw)
+1. [山西人大原副主任岳普煜被查](https://www.kuaishou.com/short-video/3xxpstu2nt2ku5c)
 1. [美国一客机与直升机相撞致67死](https://www.kuaishou.com/short-video/3xqb6fq6557icvm)
-1. [中信证券目标价涨幅超80%](https://www.kuaishou.com/short-video/3xh9z4g3wrzqv4e)
+1. [长沙人车等雨防汛](https://www.kuaishou.com/short-video/3xsqzkmrarrfz7e)
+1. [平顶山通报女子去世后被结婚](https://www.kuaishou.com/short-video/3xcwt39rpenby36)
+1. [全美50个州爆发非暴力抗议示威](https://www.kuaishou.com/short-video/3x8unq4hki2kmfq)
+1. [87岁老人认53位烈士为父](https://www.kuaishou.com/short-video/3x4meuxd77ge5ug)
+1. [广州暴雨1小时下完一天的降水量](https://www.kuaishou.com/short-video/3xssmste69teefm)
+1. [开学紫薇遇见交警](https://www.kuaishou.com/short-video/3x7rxpcmdqeeinc)
+1. [长期限制配偶社交属家暴](https://www.kuaishou.com/short-video/3x3dcv9e6wn9fmi)
+1. [镜头记录闪电击中广州塔瞬间](https://www.kuaishou.com/short-video/3x2tgrrtgyi6kby)
+1. [印度强制平仓卢比空头](https://www.kuaishou.com/short-video/3xa5ad9m5xqdp5y)
+1. [邯郸喜鹊谋杀案风](https://www.kuaishou.com/short-video/3xdzz36q7ahnd5c)
+1. [大连农户腿卡旋耕机获救](https://www.kuaishou.com/short-video/3xerxbyteum8d5a)
+1. [武警官兵救助街头老人](https://www.kuaishou.com/short-video/3xuqckkqdrwhd2e)
+1. [赵露思不笑就变成blues了](https://www.kuaishou.com/short-video/3x8qms7nacxjw42)
+1. [霍尔木兹海峡近百艘船拥堵](https://www.kuaishou.com/short-video/3x3rptdvfjeng8e)
+1. [保姆工作首日病人去世家属索赔](https://www.kuaishou.com/short-video/3xncemwfyxhvaww)
+1. [驻马店猪肉价格大降](https://www.kuaishou.com/short-video/3x7n4p5dvnfemdk)
+1. [任小名装疯被送进精神病院](https://www.kuaishou.com/short-video/3x2f874yx3p8jzw)
+1. [也门胡塞武装一天两袭以色列](https://www.kuaishou.com/short-video/3xeukjc28ugpwcw)
+1. [第一视角感受广州暴雨有多大](https://www.kuaishou.com/short-video/3xq6vrqw2x625ms)
+1. [中方回应日方称愿意解决紧张关系](https://www.kuaishou.com/short-video/3xxrs46dt2sve9w)
+1. [泸州大爷险被骗10万](https://www.kuaishou.com/short-video/3xb7ni8cu378gtm)
+1. [隐身的名字大结局](https://www.kuaishou.com/short-video/3xriw5pwge7dv4e)
+1. [贵州一景区突降巨量冰雹](https://www.kuaishou.com/short-video/3xb38m3mzr74dqi)
+1. [一年一度吃榆钱的季节到啦](https://www.kuaishou.com/short-video/3xqbw75kcgkrhwa)
+1. [湖北电诈最小受骗者7岁](https://www.kuaishou.com/short-video/3xrvi3vymks94tk)
+1. [当油价上涨后的各国出行方式](https://www.kuaishou.com/short-video/3x6x238s46qqkmg)
+1. [张雪称将吃掉国际大牌超一半份额](https://www.kuaishou.com/short-video/3xaaibnfa5hhxaw)
 1. [广州暴雨过后网友拍下搞笑一幕](https://www.kuaishou.com/short-video/3xfrv6kmhc8zmdw)
+1. [2026三农一号文件公布](https://www.kuaishou.com/short-video/3x6axi7i635cpci)
+1. [俄驱逐英情报外交官](https://www.kuaishou.com/short-video/3xsmiqn6an82qzi)
+1. [广西导弹增雨威力竟然这么猛](https://www.kuaishou.com/short-video/3xnhdpas4rg5e39)
+1. [警惕电子烟藏新型毒品](https://www.kuaishou.com/short-video/3xf3tdafy7bbftw)
+1. [中国银行优化负债管理](https://www.kuaishou.com/short-video/3xr4yfrz5cncff6)
+1. [贵州54国10天免签](https://www.kuaishou.com/short-video/3xztpktc5mr67hc)
+1. [中信证券目标价涨幅超80%](https://www.kuaishou.com/short-video/3xh9z4g3wrzqv4e)
 1. [美A330客机发动机空中爆炸](https://www.kuaishou.com/short-video/3xzqma37hhy9jk9)
 1. [高志凯：要警惕“新日本鬼子”](https://www.kuaishou.com/short-video/3x82gahse79a9us)
-1. [邯郸喜鹊谋杀案风](https://www.kuaishou.com/short-video/3xdzz36q7ahnd5c)
-1. [广州暴雨1小时下完一天的降水量](https://www.kuaishou.com/short-video/3xssmste69teefm)
-1. [全美50个州爆发非暴力抗议示威](https://www.kuaishou.com/short-video/3x8unq4hki2kmfq)
-1. [赵露思不笑就变成blues了](https://www.kuaishou.com/short-video/3x8qms7nacxjw42)
 1. [第一视角感受广州暴雨有多大](https://www.kuaishou.com/short-video/3x57u4mwjadnv4w)
-1. [隐身的名字大结局](https://www.kuaishou.com/short-video/3xriw5pwge7dv4e)
-1. [霍尔木兹海峡近百艘船拥堵](https://www.kuaishou.com/short-video/3x3rptdvfjeng8e)
 1. [广州一男子钓鱼遇强降雨被困浅滩](https://www.kuaishou.com/short-video/3xpcnbqncxgwj79)
-1. [保姆工作首日病人去世家属索赔](https://www.kuaishou.com/short-video/3xncemwfyxhvaww)
-1. [87岁老人认53位烈士为父](https://www.kuaishou.com/short-video/3x4meuxd77ge5ug)
 1. [法国青年马库斯澄清非犹太人](https://www.kuaishou.com/short-video/3x4tu4be535863k)
 1. [暴雨天广东打工人上下班belike](https://www.kuaishou.com/short-video/3xtv99tebfrm6km)
-1. [湖北电诈最小受骗者7岁](https://www.kuaishou.com/short-video/3xrvi3vymks94tk)
 1. [各国油价上涨后省钱大比拼](https://www.kuaishou.com/short-video/3x97ux7gji6m83s)
 1. [又一媒体伊朗办公室在直播时被炸](https://www.kuaishou.com/short-video/3xr2nxfw9zm4eki)
 1. [广东暴雨货车所载泡沫被狂风拆散](https://www.kuaishou.com/short-video/3xd3ngqwzgnt2yg)
-1. [驻马店猪肉价格大降](https://www.kuaishou.com/short-video/3x7n4p5dvnfemdk)
-1. [山西人大原副主任岳普煜被查](https://www.kuaishou.com/short-video/3xxpstu2nt2ku5c)
 1. [广州暴雨中动物们的精神状态大赏](https://www.kuaishou.com/short-video/3xzu9rz2tjm4tpu)
 1. [警方通报轿车出租车相撞致1死2伤](https://www.kuaishou.com/short-video/3x6b6c25qvayvgg)
 1. [中方对窜台日本议员采取反制措施](https://www.kuaishou.com/short-video/3xubiic74wstpq9)
 1. [单依纯早期是真纯妹妹风](https://www.kuaishou.com/short-video/3xmn4744yqhgen9)
-1. [长沙人车等雨防汛](https://www.kuaishou.com/short-video/3xsqzkmrarrfz7e)
-1. [张雪称将吃掉国际大牌超一半份额](https://www.kuaishou.com/short-video/3xaaibnfa5hhxaw)
-1. [中方回应日方称愿意解决紧张关系](https://www.kuaishou.com/short-video/3xxrs46dt2sve9w)
 1. [单依纯演唱会开启自愿免责退票](https://www.kuaishou.com/short-video/3xhp67jsjfwp6sw)
-1. [武警官兵救助街头老人](https://www.kuaishou.com/short-video/3xuqckkqdrwhd2e)
 1. [愚人节表白的真正原因找到了](https://www.kuaishou.com/short-video/3xkfhuc7hiyn9qa)
-1. [特朗普少提内塔尼亚胡](https://www.kuaishou.com/short-video/3x9hwgyjj9jdprw)
 1. [孙女打赏男主播花光爷奶养老钱](https://www.kuaishou.com/short-video/3x4r4fbeqbbs5wq)
 1. [高市早苗否认嘲笑拜登](https://www.kuaishou.com/short-video/3xpjgyz4b5974fu)
 1. [著名乳腺肿瘤学家沈镇宙逝世](https://www.kuaishou.com/short-video/3xnj5imwb8jb4ke)
@@ -453,8 +471,6 @@
 1. [鄂尔多斯站助离家少女团聚](https://www.kuaishou.com/short-video/3xqhw2fqy656ai4)
 1. [向东北抗联杨靖宇将军致敬](https://www.kuaishou.com/short-video/3xtx7j9cq79pddu)
 1. [薛之谦因下雨演唱会免费](https://www.kuaishou.com/short-video/3xs8xr7ru3ztwkw)
-1. [印度强制平仓卢比空头](https://www.kuaishou.com/short-video/3xa5ad9m5xqdp5y)
-1. [大连农户腿卡旋耕机获救](https://www.kuaishou.com/short-video/3xerxbyteum8d5a)
 1. [美驻委使馆时隔7年重启](https://www.kuaishou.com/short-video/3xy6xuvnm39nt24)
 1. [泽连斯基愿复活节停火](https://www.kuaishou.com/short-video/3xzugagey23hz4c)
 1. [娜扎真上海滩奢女了](https://www.kuaishou.com/short-video/3xn5zfsbhasmxbk)
@@ -466,11 +482,9 @@
 1. [张雪机车夺冠估值站上10亿](https://www.kuaishou.com/short-video/3xvri2zceg7yarq)
 1. [Dear John神级翻唱](https://www.kuaishou.com/short-video/3xckpxr3xqtmz4k)
 1. [老辈子教的真功夫](https://www.kuaishou.com/short-video/3xmf983narhz4fa)
-1. [贵州一景区突降巨量冰雹](https://www.kuaishou.com/short-video/3xb38m3mzr74dqi)
 1. [中国军人气宇轩昂](https://www.kuaishou.com/short-video/3x48j5j2h9zah2w)
 1. [孙颖莎王楚钦领跑乒联排名](https://www.kuaishou.com/short-video/3xi6m6tz2n8rnde)
 1. [广州下暴雨高架桥变高架河](https://www.kuaishou.com/short-video/3x3ac5gfmvww2bk)
-1. [也门胡塞武装一天两袭以色列](https://www.kuaishou.com/short-video/3xeukjc28ugpwcw)
 1. [云缨玩法教学](https://www.kuaishou.com/short-video/3xbmmgsg9y7ynxs)
 1. [我的第10086次重生](https://www.kuaishou.com/short-video/3xukucf2cbbmy54)
 1. [复仇摇](https://www.kuaishou.com/short-video/3x5cxebabyie9gy)
