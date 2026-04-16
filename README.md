@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2026-04-17 04:36:47 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:35 +0800 -->
 1. [8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡](https://36kr.com/p/3768734631527176)
 1. [突发：Claude引入强实名制验证，必须真人手持证件自拍，否则直接封号](https://36kr.com/p/3768647944307458)
 1. [北京车展终极前瞻：新势力“9系”豪车正面硬刚，Robotaxi成智驾新战场](https://36kr.com/p/3768870104904454)
@@ -43,17 +43,17 @@
 1. [为了省钱，特斯拉开始用欣旺达电池了](https://36kr.com/p/3768706892301059)
 1. [三个人，用AI赚了6个亿](https://36kr.com/p/3769181485679106)
 1. [OpenClaw爆火，暴露12类致命隐患，MCP协议安全基准发布](https://36kr.com/p/3768662327935747)
-1. [年轻人约会，不约咖啡约健身](https://36kr.com/p/3768203518427913)
 1. [抖音向美团开出第二炮：从错位竞争，到贴脸抢地盘](https://36kr.com/p/3769328471536384)
+1. [年轻人约会，不约咖啡约健身](https://36kr.com/p/3768203518427913)
 1. [今天，50%的Token正在被浪费](https://36kr.com/p/3768881965941504)
 1. [大模型发力知识可视化交互：ChatGPT、百度、Gemini 均已上线](https://36kr.com/p/3768190070391557)
 1. [黄仁勋：很多人只看到了芯片](https://36kr.com/p/3768740012032518)
+1. [Gemini桌面端首发体验：谷歌憋了这么久，交出了一份「粗糙」答卷](https://36kr.com/p/3769445461275145)
 1. [AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？](https://36kr.com/p/3768875459543561)
 1. [“对自己差点吧”，留子菜翻红火成最新流量密码](https://36kr.com/p/3768775004160771)
 1. [深陷调查风波，Lululemon的中产滤镜破了](https://36kr.com/p/3768176882369033)
 1. [“去班味”的年轻人，爆买踏青“硬通货”，有品牌单月狂揽百万](https://36kr.com/p/3768095099503106)
 1. [开源AI大乱斗：Hermes能干掉OpenClaw吗？](https://36kr.com/p/3768981695037958)
-1. [Gemini桌面端首发体验：谷歌憋了这么久，交出了一份「粗糙」答卷](https://36kr.com/p/3769445461275145)
 1. [多个城市门店暂停营业，又一老牌海鲜自助扛不住了？](https://36kr.com/p/3768860103012871)
 1. [被网友吹上天的名人AI，一开口我就知道是个水货](https://36kr.com/p/3768731358626307)
 1. [一线城市房地产率先出现企稳迹象](https://36kr.com/p/3768928312001028)
@@ -65,7 +65,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2026-04-17 04:36:47 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:35 +0800 -->
 1. [《崩坏：星穹铁道》即兴巡演PV：「新手指南」](https://b23.tv/BV1HyQ5BgEgo)
 1. [凭实力单身](https://b23.tv/BV1X2Q4B4EK5)
 1. [短片《榜样》·致敬雷锋](https://b23.tv/BV1p7QeB8EeZ)
@@ -181,7 +181,7 @@
 ## GitHub
 
 <!-- BEGIN GITHUB -->
-<!-- 最后更新时间 2026-04-17 04:36:46 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:34 +0800 -->
 1. [forrestchang/andrej-karpathy-skills ⭐48,197](https://github.com/forrestchang/andrej-karpathy-skills)
 1. [thedotmack/claude-mem (TypeScript) ⭐59,077](https://github.com/thedotmack/claude-mem)
 1. [lsdefine/GenericAgent (Python) ⭐2,597](https://github.com/lsdefine/GenericAgent)
@@ -261,7 +261,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2026-04-17 04:36:47 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:35 +0800 -->
 1. [GetX 之死 | 8 年从未用过，以后将不会再用](https://juejin.cn/post/7628535637260959770)
 1. [彻底疯狂，Claude居然要上传身份证！](https://juejin.cn/post/7628825069887799339)
 1. [周下载60w，但是作者删库！我从本地 pub 缓存里把它救出来，顺手备份到了自己的 GitHub](https://juejin.cn/post/7628240893640376362)
@@ -290,8 +290,8 @@
 1. [ Android 慢性病之拒绝"带病"上线：为什么 ANR 是必须根除的代码 HP？](https://juejin.cn/post/7628141821127360563)
 1. [告别 Python 依赖！用 LangChainGo 打造高性能大模型应用，Go 程序员必看！](https://juejin.cn/post/7628520551066124339)
 1. [Flutter 仿微信输入框最佳实践：自适应高度 + 超行数智能切换全屏](https://juejin.cn/post/7629093024324534318)
-1. [Hermes 接入 Kimi K2.6 实测：SOTA 代码能力，但有两个真实痛点](https://juejin.cn/post/7628520551066058803)
 1. [解放双手！Android 发布官方 6 大技能，一键搞定迁移、优化、适配](https://juejin.cn/post/7628874305070563337)
+1. [Hermes 接入 Kimi K2.6 实测：SOTA 代码能力，但有两个真实痛点](https://juejin.cn/post/7628520551066058803)
 1. [大人工智能时代下前端界面全新开发模式的思考（二）](https://juejin.cn/post/7628489262721597478)
 1. [让你的 App 成为 AI 的一环](https://juejin.cn/post/7628116434649055241)
 1. [解锁对象遍历：当字符串遇上for...in循环](https://juejin.cn/post/7628156673578369062)
@@ -299,17 +299,17 @@
 1. [为了能同时开发多个项目，我烧了几亿 token 开源了一个轻量级 AI-Native IDE](https://juejin.cn/post/7628144748705529862)
 1. [Xcode 26.4 下老项目与 Pod 兼容性修复指南](https://juejin.cn/post/7628131346834128946)
 1. [我花一天时间Vibe Coding的开源AI工具，一键检测你的电脑能跑哪些AI大模型](https://juejin.cn/post/7628898648117837843)
+1. [线上Bug炸了，用户骂你你却不知道？前端监控教你“远程开天眼”](https://juejin.cn/post/7628547108750327843)
 1. [小程序包体积分析利器 -- vite-plugin-component-insight](https://juejin.cn/post/7628504669744447538)
 1. [AI聊天界面的布局细节和打字跟随方法](https://juejin.cn/post/7628436422668238900)
-1. [线上Bug炸了，用户骂你你却不知道？前端监控教你“远程开天眼”](https://juejin.cn/post/7628547108750327843)
 1. [就在刚刚，腾讯版 Hermes Agent 来了！快速部署，安装即用！](https://juejin.cn/post/7628497479873282082)
+1. [从定制化页签tab到compose列表使用](https://juejin.cn/post/7628080756384514088)
 1. [从零开始:前端转型AI agent直到就业第十二天-第十三天](https://juejin.cn/post/7628943925371191350)
+1. [我从瑞幸咖啡小程序里，拆出了一套 22 个组件的开源 UI 库](https://juejin.cn/post/7628784778842898484)
 1. [Element / AntD 官方都没做好的功能，被这个开源小插件搞定了！](https://juejin.cn/post/7628256322156953642)
 1. [AI 对话流式输出: 实现“逐字丝滑、不闪烁、不卡顿”的打字机效果](https://juejin.cn/post/7628156673577926694)
 1. [当我想把所有角色都做好时，就开始内耗了](https://juejin.cn/post/7628156673577910310)
-1. [从定制化页签tab到compose列表使用](https://juejin.cn/post/7628080756384514088)
 1. [为什么 Claude 要求实名认证？](https://juejin.cn/post/7628872509204054035)
-1. [我从瑞幸咖啡小程序里，拆出了一套 22 个组件的开源 UI 库](https://juejin.cn/post/7628784778842898484)
 1. [Compose 响应式布局的最后一块拼图—Grid](https://juejin.cn/post/7628351680741769262)
 1. [使用纯canvas绘制一个掘金首页](https://juejin.cn/post/7628251518198169654)
 1. [SpringBoot + 微信支付实现“扫码开门，取货自动扣款”售货柜](https://juejin.cn/post/7628224961766850600)
@@ -322,7 +322,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2026-04-17 04:36:48 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:37 +0800 -->
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/108589)
 1. [Claude Code+HA 自动化实战：给宠物龟请个「电子保姆」](https://sspai.com/post/108453)
 1. [Type-C 接口最大的问题，是看起来已经「统一」了](https://sspai.com/post/108325)
@@ -371,7 +371,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2026-04-17 04:36:47 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:35 +0800 -->
 1. [圣多纳释放法](https://weread.qq.com/web/bookDetail/7a9321c0813abb533g012436)
 1. [侯海洋基层风云（全10册）](https://weread.qq.com/web/bookDetail/ddd322f0813abb529g019905)
 1. [废太子：戍边三年，逆袭崛起](https://weread.qq.com/web/bookDetail/ed232740813abb498g013da8)
@@ -407,45 +407,70 @@
 ## 快手
 
 <!-- BEGIN KUAISHOU -->
-<!-- 最后更新时间 2026-04-17 04:36:48 +0800 -->
+<!-- 最后更新时间 2026-04-17 05:32:37 +0800 -->
 1. [总书记谈国家安全用过这些比喻](https://www.kuaishou.com/short-video/3xjwqtdqsc9me99)
-1. [河北男子连环杀人13年后落网](https://www.kuaishou.com/short-video/3xeby2rdq8my8hw)
-1. [中国驻日大使馆连遭恐怖威胁](https://www.kuaishou.com/short-video/3xzxir9szybuchk)
-1. [30秒速览中国经济一季报亮点](https://www.kuaishou.com/short-video/3x7hbtjue94nfs9)
 1. [神舟二十一号延驻1个月](https://www.kuaishou.com/short-video/3x6dcqfn6346hye)
+1. [河北男子连环杀人13年后落网](https://www.kuaishou.com/short-video/3xeby2rdq8my8hw)
+1. [30秒速览中国经济一季报亮点](https://www.kuaishou.com/short-video/3x7hbtjue94nfs9)
 1. [苏林乘高铁抵达南宁](https://www.kuaishou.com/short-video/3xsefp5f6k6jmu6)
+1. [中国驻日大使馆连遭恐怖威胁](https://www.kuaishou.com/short-video/3xzxir9szybuchk)
+1. [春天的作文在快手可以这样写](https://www.kuaishou.com/short-video/3x858xhsawhzcfu)
 1. [诊所用一个针头给15人采血](https://www.kuaishou.com/short-video/3x4hy4yxhijgxpm)
-1. [高圆圆于和伟北影节同框](https://www.kuaishou.com/short-video/3xfw335wu5qg2e2)
+1. [中国经济首季报出炉](https://www.kuaishou.com/short-video/3x4ujcfnvrwmu2s)
 1. [日本警方未重视中国使馆报警](https://www.kuaishou.com/short-video/3x6zqsjhsbi52nm)
-1. [张若昀 掌管北影节红毯的神](https://www.kuaishou.com/short-video/3xd2ei5ut3dnsaq)
-1. [张天爱 绿色抹胸蓬蓬裙](https://www.kuaishou.com/short-video/3xddki4khsxcety)
-1. [玉芬啊玉芬你让彪哥好伤心](https://www.kuaishou.com/short-video/3xffeifqfm5fvp2)
+1. [周冬雨北影节吊带长裙造型](https://www.kuaishou.com/short-video/3x73eusup2ybram)
 1. [书到用时方恨少 一个太阳好多鸟](https://www.kuaishou.com/short-video/3xignnr3rbu33km)
-1. [老爸决定女儿颜值](https://www.kuaishou.com/short-video/3x5c63ijtjyxqt2)
-1. [重庆狼队清清被指性骚扰](https://www.kuaishou.com/short-video/3x2hshxygdebxzq)
+1. [玉芬啊玉芬你让彪哥好伤心](https://www.kuaishou.com/short-video/3xffeifqfm5fvp2)
+1. [该死的温柔家人版](https://www.kuaishou.com/short-video/3xazj8yzidzagas)
+1. [我们前程似锦 我们未来可期](https://www.kuaishou.com/short-video/3xdx3hc4768pfpy)
 1. [杀害罗大美主犯余金生被执行死刑](https://www.kuaishou.com/short-video/3xt6ijmz7yn8yy9)
 1. [伊朗总统感谢中国](https://www.kuaishou.com/short-video/3xwujwjt7ijf644)
 1. [谁赢谁吃挑战](https://www.kuaishou.com/short-video/3x4xqc5bn9d3n5i)
-1. [该死的温柔家人版](https://www.kuaishou.com/short-video/3xazj8yzidzagas)
+1. [伊朗F4米格29迎巴基斯坦贵宾](https://www.kuaishou.com/short-video/3xgg3mttqdagzdg)
+1. [我的童年越来越邪乎](https://www.kuaishou.com/short-video/3xfv83nyfrr3ezq)
+1. [老爸决定女儿颜值](https://www.kuaishou.com/short-video/3x5c63ijtjyxqt2)
+1. [爆改牡丹花神大赛](https://www.kuaishou.com/short-video/3xn4zei984e2xwm)
+1. [马丽红裙造型好大气](https://www.kuaishou.com/short-video/3xvsyztjkp3gkvk)
+1. [辞九门小帅摇](https://www.kuaishou.com/short-video/3x5azw2zzymvs7w)
+1. [张译 从十年龙套到北影节评委](https://www.kuaishou.com/short-video/3xu9zcep2yha4u6)
+1. [全国只有广西三月三放假](https://www.kuaishou.com/short-video/3xmpk6zbuqsbsvq)
+1. [马丽北影节互动超温柔](https://www.kuaishou.com/short-video/3xk3n6uqp6v3e3k)
+1. [广西三月三千面蜂鼓万人舞](https://www.kuaishou.com/short-video/3xst7x96iebsg6m)
+1. [官方回应山东一化工厂发生爆炸](https://www.kuaishou.com/short-video/3xn89kad56h9uxa)
+1. [山东临沂一河道变牛奶河气味刺鼻](https://www.kuaishou.com/short-video/3xtwwxbzzmbhi2i)
+1. [任何力量都不能迫使伊朗投降](https://www.kuaishou.com/short-video/3xub8t2dfnmv8dg)
+1. [俞敏洪进军保健品行业](https://www.kuaishou.com/short-video/3x9pmbgypcv5q66)
+1. [洪啸谈浪姐直播活人感](https://www.kuaishou.com/short-video/3xng75kmtzikmfk)
+1. [洛阳牡丹节避坑指南请收好](https://www.kuaishou.com/short-video/3xicjvt2p73jp56)
+1. [沈腾尹正 叔叔们颜值回春了](https://www.kuaishou.com/short-video/3xxxwx7qai9upgi)
+1. [翟隽应约会见英国驻华大使](https://www.kuaishou.com/short-video/3x4yxu76uk977ma)
+1. [刘雨鑫呼和浩特美食之旅](https://www.kuaishou.com/short-video/3xwxqcjmj92cayg)
+1. [一朵牡丹 百种花样](https://www.kuaishou.com/short-video/3xs9umsimbjasfq)
+1. [高叶直言北影节像家](https://www.kuaishou.com/short-video/3xpctk5xkanb2ei)
+1. [中学教师反差变装](https://www.kuaishou.com/short-video/3xuhxss976gcaxy)
+1. [国际足联确认伊朗队参赛](https://www.kuaishou.com/short-video/3xctj75gt3txd3q)
+1. [青藏高原上的炊事技能练兵](https://www.kuaishou.com/short-video/3xsfegtaczbdj2s)
+1. [氧化菊和陆仙人为广西三月三代言](https://www.kuaishou.com/short-video/3xa33wpjrbd7pfe)
+1. [外籍乘客偷拍营区被司机送进部队](https://www.kuaishou.com/short-video/3xvb7pin5qwqjfe)
+1. [沈腾马丽默契考验失败](https://www.kuaishou.com/short-video/3xb4kcs64rhsa8a)
+1. [琵琶曲翻唱](https://www.kuaishou.com/short-video/3xak39fviuvngtw)
+1. [机器人来了广西三月三也得舞一曲](https://www.kuaishou.com/short-video/3xbwmicgz6fkx9q)
+1. [又怎么了我的大小姐](https://www.kuaishou.com/short-video/3xe64sgxjgpqqws)
+1. [贵港民族工艺品展](https://www.kuaishou.com/short-video/3x24f4kn92nszhm)
+1. [高圆圆于和伟北影节同框](https://www.kuaishou.com/short-video/3xfw335wu5qg2e2)
+1. [张若昀 掌管北影节红毯的神](https://www.kuaishou.com/short-video/3xd2ei5ut3dnsaq)
+1. [张天爱 绿色抹胸蓬蓬裙](https://www.kuaishou.com/short-video/3xddki4khsxcety)
+1. [重庆狼队清清被指性骚扰](https://www.kuaishou.com/short-video/3x2hshxygdebxzq)
 1. [八千里路云和月 太爷痛骂日本人](https://www.kuaishou.com/short-video/3xb286r6sickbsk)
 1. [日本核电站6号机组启动商业运行](https://www.kuaishou.com/short-video/3xyccqz4varup5c)
-1. [伊朗F4米格29迎巴基斯坦贵宾](https://www.kuaishou.com/short-video/3xgg3mttqdagzdg)
 1. [沈腾赞张雪了不起](https://www.kuaishou.com/short-video/3xy7usnzmqqtmz2)
-1. [洛阳牡丹节避坑指南请收好](https://www.kuaishou.com/short-video/3xicjvt2p73jp56)
-1. [外籍乘客偷拍营区被司机送进部队](https://www.kuaishou.com/short-video/3xvb7pin5qwqjfe)
 1. [宋佳短发造型干净利落](https://www.kuaishou.com/short-video/3xe38ys6fch28a9)
 1. [桃园三结义搞笑版](https://www.kuaishou.com/short-video/3xg9xszt5t4vy9e)
-1. [爆改牡丹花神大赛](https://www.kuaishou.com/short-video/3xn4zei984e2xwm)
 1. [李依晓复刻虞姬自刎名场面](https://www.kuaishou.com/short-video/3xeht6iz9822s3y)
 1. [网约车司机举报危害国家安全行为](https://www.kuaishou.com/short-video/3x3w9pn7tuu3mue)
 1. [强闯我使馆的日本人所持刀具曝光](https://www.kuaishou.com/short-video/3xfgj2yyd5ycyqc)
-1. [俞敏洪进军保健品行业](https://www.kuaishou.com/short-video/3x9pmbgypcv5q66)
-1. [我们前程似锦 我们未来可期](https://www.kuaishou.com/short-video/3xdx3hc4768pfpy)
 1. [洛阳牡丹节萌娃拍照教程](https://www.kuaishou.com/short-video/3x9k7u2ay8jq544)
-1. [我的童年越来越邪乎](https://www.kuaishou.com/short-video/3xfv83nyfrr3ezq)
 1. [国家安全无小事点滴行动筑防线](https://www.kuaishou.com/short-video/3xx9t5kt49wr3rw)
-1. [山东临沂一河道变牛奶河气味刺鼻](https://www.kuaishou.com/short-video/3xtwwxbzzmbhi2i)
-1. [全国只有广西三月三放假](https://www.kuaishou.com/short-video/3xmpk6zbuqsbsvq)
 1. [跟盲人女孩听烈士诉说](https://www.kuaishou.com/short-video/3xs37dx2jmgsgq9)
 1. [沈腾终于记起slogan了](https://www.kuaishou.com/short-video/3xbfqaqqex5ik2c)
 1. [不同网速玩不同的梗](https://www.kuaishou.com/short-video/3xruhz6sbxaw3wa)
@@ -458,15 +483,11 @@
 1. [广西象州水晶乡捉鱼大比拼](https://www.kuaishou.com/short-video/3xb9rfwvbrj76sm)
 1. [檀健次北影节后台采访](https://www.kuaishou.com/short-video/3x4pa7gatsamiwa)
 1. [桂林米粉联赛交通管制](https://www.kuaishou.com/short-video/3xjtj8eufbrup39)
-1. [翟隽应约会见英国驻华大使](https://www.kuaishou.com/short-video/3x4yxu76uk977ma)
 1. [云南临沧傣历新年祈福](https://www.kuaishou.com/short-video/3x6yf4e49whgc7c)
 1. [黄果任国家药监局党组书记](https://www.kuaishou.com/short-video/3xec882mcnuf82g)
-1. [青藏高原上的炊事技能练兵](https://www.kuaishou.com/short-video/3xsfegtaczbdj2s)
 1. [叮叮刘志情侣变装](https://www.kuaishou.com/short-video/3xdr6tjfyrzyfw4)
-1. [广西三月三千面蜂鼓万人舞](https://www.kuaishou.com/short-video/3xst7x96iebsg6m)
 1. [2026罗平泼水节即将开启](https://www.kuaishou.com/short-video/3xz8q2b4ubeherq)
 1. [青春是本太仓促的书转场](https://www.kuaishou.com/short-video/3xcn7e3xt8tdcpw)
-1. [春天的作文在快手可以这样写](https://www.kuaishou.com/short-video/3x858xhsawhzcfu)
 1. [五龙三月三自驾游](https://www.kuaishou.com/short-video/3xetq8usfr4f5bi)
 1. [宿迁球迷手搓替补席](https://www.kuaishou.com/short-video/3x6jakz5p76z73g)
 1. [中东局势影响短期投资](https://www.kuaishou.com/short-video/3xny5uggijuww8k)
@@ -481,11 +502,9 @@
 1. [张雪机车获沙特采购商青睐](https://www.kuaishou.com/short-video/3xcibxervq9aehq)
 1. [张颂文北影节这段发言太治愈了](https://www.kuaishou.com/short-video/3xkbgcqkuhrxuam)
 1. [以为回到了2018](https://www.kuaishou.com/short-video/3xcggzjfbsw8xnq)
-1. [任何力量都不能迫使伊朗投降](https://www.kuaishou.com/short-video/3xub8t2dfnmv8dg)
 1. [日本打捞二战战机残骸](https://www.kuaishou.com/short-video/3xaekbb65gh6pp4)
 1. [黑狗坐车顶稳如老狗](https://www.kuaishou.com/short-video/3xn642gxe64pr5e)
 1. [陈楚生北影节献唱相忘于江湖](https://www.kuaishou.com/short-video/3xk4q86n75qgbtu)
-1. [官方回应山东一化工厂发生爆炸](https://www.kuaishou.com/short-video/3xn89kad56h9uxa)
 1. [任山河17烈士寻亲成功](https://www.kuaishou.com/short-video/3x57phkdfvwchms)
 1. [小鸡舞手势舞](https://www.kuaishou.com/short-video/3xsb6echhner7hk)
 1. [美一特斯拉自动驾驶险与火车相撞](https://www.kuaishou.com/short-video/3x9mxrntvt9w3qc)
