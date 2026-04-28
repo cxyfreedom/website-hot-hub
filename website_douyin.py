@@ -13,7 +13,7 @@ from urllib3.util.retry import Retry
 from utils import current_date, current_time, logger, write_text_file
 
 url = "https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1&round_trip_time=50"
-cookie_url = "https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383"
+cookie_url = "https://login.douyin.com/"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
