@@ -19,18 +19,16 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
 
-      # 配置python环境
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # 安装 uv 与 python 环境
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.13"
-          cache: 'pip'
+          enable-cache: true
 
       # 安装python依赖
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        run: uv sync --locked
 
       # 配置git
       - name: Config git
@@ -42,7 +40,7 @@ jobs:
 
       # 运行
       - name: Run python
-        run: python -u main.py
+        run: uv run python -u main.py
         env:
           ENABLE_DEBUG_PRINT: true
 
