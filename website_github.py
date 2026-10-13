@@ -30,7 +30,7 @@ headers = {
 }
 
 retries = Retry(
-    total=3, backoff_factor=1, status_forcelist=[k for k in range(400, 600)]
+    total=1, backoff_factor=0.5, status_forcelist=[k for k in range(400, 600)]
 )
 
 
@@ -52,7 +52,7 @@ class WebSiteGitHub:
         ret = ""
         try:
             with request_session() as s:
-                resp = s.get(url, timeout=30)
+                resp = s.get(url, timeout=(5, 8))
                 ret = resp.text
         except Exception as _:
             logger.exception("get data failed")

@@ -5,6 +5,7 @@ import os
 import re
 import fcntl
 import contextlib
+import tempfile
 from datetime import datetime
 
 logging.basicConfig(format="%(asctime)s %(levelname)s - %(message)s")
@@ -36,9 +37,18 @@ def ensure_dir(file):
 
 
 def write_text_file(full_path: str, content: str) -> None:
+    """原子写入：先写同目录临时文件，再 os.replace，避免并发/中断时留下半截文件"""
     ensure_dir(full_path)
-    with open(full_path, "w") as fd:
-        fd.write(content)
+    directory = os.path.dirname(os.path.abspath(full_path))
+    fd, tmp_path = tempfile.mkstemp(dir=directory, prefix=".tmp-", suffix=".part")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(content)
+        os.replace(tmp_path, full_path)
+    except BaseException:
+        with contextlib.suppress(FileNotFoundError):
+            os.remove(tmp_path)
+        raise
 
 
 def get_weread_id(book_id: str) -> str:

@@ -20,7 +20,7 @@ headers = {
 }
 
 retries = Retry(
-    total=3, backoff_factor=1, status_forcelist=[k for k in range(400, 600)]
+    total=1, backoff_factor=0.5, status_forcelist=[k for k in range(400, 600)]
 )
 
 
@@ -47,7 +47,7 @@ class WebSite36Kr:
                 "timestamp": int(time.time()),
             }
             with request_session() as s:
-                resp = s.post(url, json=payload, timeout=30)
+                resp = s.post(url, json=payload, timeout=(5, 8))
                 ret = resp.json()
         except:
             logger.exception("get data failed")
