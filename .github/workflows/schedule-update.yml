@@ -50,5 +50,9 @@ jobs:
       - name: Update repo
         run: |
           git add .
-          git commit -m "update by github action"
-          git push -u origin main
+          if git diff --cached --quiet; then
+            echo "没有改动，跳过提交"
+          else
+            git commit -m "update by github action"
+            git push -u origin main
+          fi
