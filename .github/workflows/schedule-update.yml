@@ -5,8 +5,8 @@ on:
   schedule:
     # 北京时间8-23点每小时0分执行一次（对应utc时间0-15）
     # - cron: "0 0-15 * * *"
-    # 每小时整点执行
-    - cron: "0 * * * *"
+    # 每小时第17分钟执行（避开整点高峰，减少 GitHub 丢弃定时任务）
+    - cron: "17 * * * *"
 
 jobs:
   build:
@@ -19,18 +19,16 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
 
-      # 配置python环境
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # 安装 uv 与 python 环境
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.13"
-          cache: 'pip'
+          enable-cache: true
 
       # 安装python依赖
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        run: uv sync --locked
 
       # 配置git
       - name: Config git
@@ -42,7 +40,7 @@ jobs:
 
       # 运行
       - name: Run python
-        run: python -u main.py
+        run: uv run python -u main.py
         env:
           ENABLE_DEBUG_PRINT: true
 
@@ -50,5 +48,9 @@ jobs:
       - name: Update repo
         run: |
           git add .
-          git commit -m "update by github action"
-          git push -u origin main
+          if git diff --cached --quiet; then
+            echo "没有改动，跳过提交"
+          else
+            git commit -m "update by github action"
+            git push -u origin main
+          fi

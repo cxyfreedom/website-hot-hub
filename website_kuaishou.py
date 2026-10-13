@@ -19,7 +19,7 @@ headers = {
 }
 
 retries = Retry(
-    total=3, backoff_factor=1, status_forcelist=[k for k in range(400, 600)]
+    total=1, backoff_factor=0.5, status_forcelist=[k for k in range(400, 600)]
 )
 
 
@@ -41,7 +41,8 @@ class WebSiteKuaiShou:
         ret = {}
         try:
             with request_session() as s:
-                resp = s.get(url, timeout=30)
+                resp = s.get(url, timeout=(5, 8))
+                resp.raise_for_status()
                 content = resp.text
                 regex = r"window.__APOLLO_STATE__=(.*);\(function\(\)"
                 result = re.search(regex, content, re.DOTALL)
@@ -110,7 +111,7 @@ class WebSiteKuaiShou:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN KUAISHOU -->[\W\w]*<!-- END KUAISHOU -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 
@@ -124,6 +125,8 @@ class WebSiteKuaiShou:
 
         raw_data = self.get_raw()
         cleaned_data = self.clean_raw(raw_data)
+        if not cleaned_data:
+            raise ValueError(f"{dir_name} 解析结果为空，可能接口变更或被风控")
 
         cur_date = current_date()
         # 写入原始数据

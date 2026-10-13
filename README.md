@@ -2,6 +2,16 @@
 
 记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书、快手平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天[归档](archives)。
 
+## 本地运行
+
+项目使用 [uv](https://docs.astral.sh/uv/) 管理依赖（Python 3.13）：
+
+```bash
+uv sync                              # 安装依赖
+ENABLE_DEBUG_PRINT=true uv run python main.py   # 抓取全部站点并更新 README
+uv run python website_github.py      # 单独运行某个站点
+```
+
 ## 36Kr
 
 <!-- BEGIN 36KR -->

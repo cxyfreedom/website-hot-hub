@@ -2,7 +2,9 @@
 import contextlib
 import json
 import pathlib
+import random
 import re
+import time
 import typing
 from itertools import chain
 
@@ -18,8 +20,15 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
 }
 
+# 连接层不重试，由 get_raw 统一重试（含 code=-352 风控）
+# 最坏耗时：4 次 × (连接 3s + 读取 5s) + 退避 (1+2+4)s + 抖动 3×0.5s = 40.5s < 60s 批次超时
+MAX_ATTEMPTS = 4
+REQUEST_TIMEOUT = (3, 5)
+BACKOFF_BASE = 1
+JITTER = 0.5
+
 retries = Retry(
-    total=3, backoff_factor=1, status_forcelist=[k for k in range(400, 600)]
+    total=0, backoff_factor=0.5, status_forcelist=[k for k in range(400, 600)]
 )
 
 
@@ -38,15 +47,28 @@ def request_session():
 class WebSiteBilibili:
     @staticmethod
     def get_raw() -> dict:
-        ret = {}
-        try:
-            with request_session() as s:
-                resp = s.get(url, timeout=30)
-                ret = resp.json()
-        except Exception as _:
-            logger.exception("get data failed")
-            raise
-        return ret
+        last_error: typing.Optional[Exception] = None
+        with request_session() as s:
+            for attempt in range(1, MAX_ATTEMPTS + 1):
+                try:
+                    resp = s.get(url, timeout=REQUEST_TIMEOUT)
+                    resp.raise_for_status()
+                    ret = resp.json()
+                    if ret.get("code") == 0:
+                        return ret
+                    last_error = RuntimeError(
+                        f"bilibili 返回 code={ret.get('code')} message={ret.get('message')}"
+                    )
+                except Exception as e:  # 网络错误、超时、4xx/5xx、非 JSON
+                    last_error = e
+                if attempt < MAX_ATTEMPTS:
+                    delay = BACKOFF_BASE * 2 ** (attempt - 1) + random.uniform(0, JITTER)
+                    logger.warning(
+                        f"bilibili 第 {attempt}/{MAX_ATTEMPTS} 次请求失败: {last_error}，{delay:.1f}s 后重试"
+                    )
+                    time.sleep(delay)
+        logger.error(f"bilibili 重试 {MAX_ATTEMPTS} 次后仍失败: {last_error}")
+        raise RuntimeError(f"bilibili 获取数据失败: {last_error}") from last_error
 
     @staticmethod
     def clean_raw(raw_data: dict) -> typing.List[typing.Dict[str, typing.Any]]:
@@ -55,7 +77,7 @@ class WebSiteBilibili:
             ret.append(
                 {
                     "title": item["title"],
-                    "url": item["short_link_v2"] or f"https://b23.tv/{item['bvid']}",
+                    "url": item.get("short_link_v2") or f"https://b23.tv/{item['bvid']}",
                 }
             )
         return ret
@@ -104,7 +126,7 @@ class WebSiteBilibili:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN BILIBILI -->[\W\w]*<!-- END BILIBILI -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 
@@ -118,6 +140,8 @@ class WebSiteBilibili:
 
         raw_data = self.get_raw()
         cleaned_data = self.clean_raw(raw_data)
+        if not cleaned_data:
+            raise ValueError(f"{dir_name} 解析结果为空，可能接口变更或被风控")
 
         cur_date = current_date()
         # 写入原始数据
