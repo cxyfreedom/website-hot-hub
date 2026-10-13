@@ -149,7 +149,7 @@ def main():
             failed_website_names = round_failed
             websites_to_run = []
 
-            for website_obj, website_name in all_websites:
+            for _website_obj, website_name in all_websites:
                 if website_name in failed_website_names:
                     if website_name == "SSPAI":
                         websites_to_run.append((WebSiteSSPai(), website_name))

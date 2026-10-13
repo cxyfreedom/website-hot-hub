@@ -3,7 +3,6 @@ import logging
 import hashlib
 import os
 import re
-import fcntl
 import contextlib
 import tempfile
 from datetime import datetime
