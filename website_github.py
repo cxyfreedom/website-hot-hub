@@ -53,6 +53,7 @@ class WebSiteGitHub:
         try:
             with request_session() as s:
                 resp = s.get(url, timeout=(5, 8))
+                resp.raise_for_status()
                 ret = resp.text
         except Exception as _:
             logger.exception("get data failed")
@@ -195,6 +196,8 @@ class WebSiteGitHub:
 
         raw_html = self.get_raw()
         cleaned_data = self.clean_raw(raw_html)
+        if not cleaned_data:
+            raise ValueError(f"{dir_name} 解析结果为空，可能接口变更或被风控")
 
         cur_date = current_date()
         # 写入原始数据

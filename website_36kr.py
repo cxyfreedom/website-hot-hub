@@ -48,6 +48,7 @@ class WebSite36Kr:
             }
             with request_session() as s:
                 resp = s.post(url, json=payload, timeout=(5, 8))
+                resp.raise_for_status()
                 ret = resp.json()
         except:
             logger.exception("get data failed")
@@ -124,6 +125,8 @@ class WebSite36Kr:
 
         raw_data = self.get_raw()
         cleaned_data = self.clean_raw(raw_data)
+        if not cleaned_data:
+            raise ValueError(f"{dir_name} 解析结果为空，可能接口变更或被风控")
 
         cur_date = current_date()
         # 写入原始数据

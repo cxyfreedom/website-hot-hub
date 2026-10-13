@@ -45,6 +45,7 @@ class WebSiteDouYin:
             with request_session() as s:
                 s.headers.update({"Cookie": f"passport_csrf_token={cookie}"})
                 resp = s.get(url, timeout=(5, 8))
+                resp.raise_for_status()
                 ret = resp.json()
         except:
             logger.exception("get data failed")
@@ -137,6 +138,8 @@ class WebSiteDouYin:
 
         raw_data = self.get_raw(cookie_data)
         cleaned_data = self.clean_raw(raw_data)
+        if not cleaned_data:
+            raise ValueError(f"{dir_name} 解析结果为空，可能接口变更或被风控")
 
         cur_date = current_date()
         # 写入原始数据
