@@ -104,7 +104,7 @@ class WebSiteBilibili:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN BILIBILI -->[\W\w]*<!-- END BILIBILI -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 

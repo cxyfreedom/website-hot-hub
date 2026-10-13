@@ -100,7 +100,7 @@ def get_weread_id(book_id: str) -> str:
 def update_readme_section(readme_content: str, section_name: str, new_content: str) -> str:
     pattern = rf"<!-- BEGIN {section_name} -->.*?<!-- END {section_name} -->"
     if re.search(pattern, readme_content, re.DOTALL):
-        return re.sub(pattern, new_content, readme_content, flags=re.DOTALL)
+        return re.sub(pattern, lambda _m: new_content, readme_content, flags=re.DOTALL)
     else:
         debug_print(f"未找到 {section_name} 段落标记")
         return readme_content

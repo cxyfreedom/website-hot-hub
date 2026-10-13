@@ -104,7 +104,7 @@ class WebSiteJueJin:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN JUEJIN -->[\W\w]*<!-- END JUEJIN -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 

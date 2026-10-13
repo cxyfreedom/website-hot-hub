@@ -104,7 +104,7 @@ class WebSiteWeRead:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN WEREAD -->[\W\w]*<!-- END WEREAD -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 

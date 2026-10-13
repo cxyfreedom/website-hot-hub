@@ -181,7 +181,7 @@ class WebSiteGitHub:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN GITHUB -->[\W\w]*<!-- END GITHUB -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 

@@ -110,7 +110,7 @@ class WebSite36Kr:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN 36KR -->[\W\w]*<!-- END 36KR -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 

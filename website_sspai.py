@@ -104,7 +104,7 @@ class WebSiteSSPai:
             readme = fd.read()
             return re.sub(
                 r"<!-- BEGIN SSPAI -->[\W\w]*<!-- END SSPAI -->",
-                self.create_list(content),
+                lambda _m: self.create_list(content),
                 readme,
             )
 
